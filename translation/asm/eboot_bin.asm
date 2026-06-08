@@ -19,6 +19,10 @@
 	.org 0x088AB5EC ; Character Select "No" Position
 		addiu		v1, s4, 0x50
 		
-	.org 0x0882153C ; Armor resistance values text position
+	.org 0x0882153C ; Armor resistance values text X pos
 		addiu		v0, s4, 0x54
+	.org 0x088218B4 ; Armor "Hunter Type" value text X pos
+		addiu		fp, s4, 0x62
+	.org 0x08823EF4 ; Armor slots X pos
+		addiu		v0, s5, 0x31
 .close
