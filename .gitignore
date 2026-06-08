@@ -1,7 +1,13 @@
-/tools
-/translation/dumps
-/translation/dumped_text
-/release
 /build
-/iso
+/iso/*
+!iso/Place a clean version of ULJM05156 here.txt
+/release/*
+/tools/*
+!tools/setup_linux.py
+!/tools/src
+!/tools/Required tools.txt
 /translation/__pycache__
+/translation/dumped_text
+/translation/built_files
+/translation/data/0003
+/translation/dumps

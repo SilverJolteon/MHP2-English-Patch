@@ -25,8 +25,6 @@ pspdecrypt = os.path.join("tools", "pspdecrypt.exe")
 #------------------------------------------------------------
 if not os.path.exists(mhff):
     installMHFF()
-#if not os.path.exists(mhtools):
-#    installMHTools()
 
 if platform == "linux" or platform == "linux2":
     armips = os.path.join("tools", "armips", "build", "armips")
