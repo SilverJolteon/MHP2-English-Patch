@@ -10,7 +10,4 @@
 		.dh 0x14F
 	.org 0x099A69D4 ; Location
 		.dh 0x14F
-		
-		
-	
 .close

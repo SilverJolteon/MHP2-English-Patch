@@ -105,12 +105,14 @@ def translate(build_dir):
     injector = Injector(DATA_BIN)
 
     injector.buildASM(build_dir, 38, "demo_task")
-    #injector.buildASM(build_dir, 48, "connect_task")
-    #injector.buildASM(build_dir, 49, "gallery_task")
-    #injector.buildASM(build_dir, 50, "download_task")
+    injector.buildASM(build_dir, 39, "edit_task")
+    injector.buildASM(build_dir, 41, "option_task")
+    injector.buildASM(build_dir, 42, "gallery_task")
+    injector.buildASM(build_dir, 43, "download_task")
     injector.buildASM(build_dir, 44, "lobby_task")
-    #injector.buildASM(build_dir, 54, "arcade_task")
-    #injector.buildASM(build_dir, 56, "game_sub_task")
+    injector.buildASM(build_dir, 45, "game_task")
+    injector.buildASM(build_dir, 47, "arcade_task")
+    injector.buildASM(build_dir, 49, "game_sub_task")
         
     path = os.path.join("translation", "data")
     
