@@ -116,7 +116,9 @@ def translate(build_dir):
         
     path = os.path.join("translation", "data")
     
-    build_0003(os.path.join("translation", "text", "0003.txt"), os.path.join(path, "0003"))
+    buildType0(os.path.join("translation", "text", "0003.txt"), os.path.join(path, "0003"), 0x5B000)
+    buildType0(os.path.join("translation", "text", "9308.txt"), os.path.join(path, "9308"), 0x14800)
+    buildType0(os.path.join("translation", "text", "9309.txt"), os.path.join(path, "9309"), 0x35000)
     
     if os.path.exists(path):
         files = sorted(os.listdir(path))

@@ -1,0 +1,597 @@
+
+Alright! Let's Get Started
+Use The Supply Box!
+A Map Is The Way To A Hunter's Soul!
+Put Items Into The Delivery Box!
+All Hunters Know Sleep Means Growth
+Before You Attack A Target
+It's Carvin' Time!
+Don't Forget About Sharpness!
+Review The Menu!
+Hah Hah Hah! Well Done!
+Now For The Next Quest...?
+We've Also Got Supply Items!
+Run To The Limit - Stamina!
+When Cooking, Timing Is Everything!
+Knowing When To Walk Away
+No Hunting On An Empty Stomach!
+Finder's Keepers
+The Bugnet And Pickaxe Are Your Friends
+Insect Collecting - An Adult Hobby
+Aiming To Go Higher And Higher
+Look Out For Cracks In The Wall!
+Now Where Is That Gathering Point?
+It's Freezing!
+I Hunt, Therefore I Gather
+Welcome To The World Of Combining
+A Blue Mushroom! It's A Blue Mushroom!
+Combine To Become An Item Extraordinaire
+A Hunter's Guide To Fishing Worldwide!
+Watch Out For Fishing Points!
+You Caught A Fish I've Never Seen Before!
+The Aesthetics Of Transportation!
+Find The Nest, Get The Egg!
+Fragile! Handle With Care
+The Real Thing Isn't This Easy
+Fighting Large Monsters
+The Many Items Of The Hunt
+Paintballs
+Flash Bombs
+Shock Trap
+Small Barrel Bombs
+Large Barrel Bombs
+Smoke Bomb
+Hot Drink
+No Matter What I Do, I Can't Win...
+I'm A Hunting Machine!
+I'm A Hunting Machine!
+The Merits Of The Sword
+When In Danger... Quick Guard!
+The Merits Of Dual Blades
+Release The Demon Inside!
+The Merits Of The Great Sword
+Blocking With A Giant Blade!
+Build Up Your Power And Kill In One Stroke!
+The Merits Of The Long Sword
+Attack Like Flowing Water
+The Merits Of The Hammer
+A Charged Attack Is Stronger Than Normal!
+The Merits Of The Hunting Horn
+Start The Music!
+The Merits Of The Lance
+Become A Human Fortress!
+The Merits Of The Gunlance
+Attack! The Power Of The Gunlance
+Commence Wyvern's Fire!
+The Merits Of The Light Bowgun
+The Silencer And The Long Barrel
+The Merits Of The Heavy Bowgun
+The Shield And The Power Barrel
+The Merits Of The Bow
+The Secrets Of The Bow
+Changing Coatings Is Critical!
+The Basics Of Melee Weapons
+Bowgun Marksmanship
+It is I! Your esteemed instructor! It will be<NEWLINE>my job to work you to the bone and drill some<NEWLINE>self-esteem and confidence in you! We all know<NEWLINE>that ~C05"Hunting is serious business!"~C00 and<NEWLINE>we both know that you aren't serious yet!<NEWLINE>Prove me wrong!<NEWLINE>~C03Directional button left or right: Change page
+Hmm... Perhaps I have underestimated you...<NEWLINE>You look good in ~C05the old equipment I let<NEWLINE>you borrow~C00. But not as good as I did! Ha<NEWLINE>ha! Treat that equipment with respect! It<NEWLINE>is soaked with the blood, sweat, and tears of<NEWLINE>a true legend! Me!
+It seems that in this area there are no<NEWLINE>monsters. That is because this is ~C06base<NEWLINE>camp~C00, and is meant to be a safe starting<NEWLINE>point for embarking on a hunt.  <NEWLINE>~C03Base Camp: A safe starting point
+I highly advise you to use the ~C06analog<NEWLINE>stick~C00 to move your character. Pressing the<NEWLINE>~C06~B04 button~C00 will return the camera to<NEWLINE>center, while pressing the ~C06directional<NEWLINE>buttons~C00 will let you view your surroundings!  <NEWLINE>~C03Tap the ~B04 button: Center camera viewpoint<NEWLINE>Directional buttons: Move camera
+Hunters must always be aware of their<NEWLINE>surroundings! If you look around the beautiful<NEWLINE>tent I was so gracious to give you, you will<NEWLINE>notice three important things - ~C06a blue<NEWLINE>box, a red box, and a bed~C00. I suggest you<NEWLINE>head over to these things and take a look!
+Take in this wonderful view! The blue sky...<NEWLINE>The blue peaks... The blue ~C06Supply<NEWLINE>Box~C00...! They are all so beautiful! Inside<NEWLINE>this box, you will find ~C05all of the various<NEWLINE>items supplied to hunters~C00. You should burn<NEWLINE>this blue visage of beauty into your retinas!
+Standing in front of the Supply Box and<NEWLINE>pressing the ~B00 button allows you to confirm<NEWLINE>its contents. But more importantly, ~C05you<NEWLINE>are allowed to take the contents inside and<NEWLINE>use them freely~C00!<NEWLINE>~C03~B00 button: View contents of Supply Box
+Once you have highlighted an item in the<NEWLINE>Supply Box, press the ~B01 button to make that<NEWLINE>item yours! I think I will let you be greedy<NEWLINE>this time and recommend that you ~C05take<NEWLINE>everything out of the Supply Box~C00!<NEWLINE>~C03~B01 button (item selected): Place in inventory
+Uh huh... It seems as if you are finished<NEWLINE>looking in your Supply Box. You did remove<NEWLINE>everything from it, I hope? Since I am sure<NEWLINE>you wouldn't disappoint me by leaving<NEWLINE>something in there, you should have picked up<NEWLINE>a ~C06Map~C00.
+Just by carrying the ~C06Map~C00, you can<NEWLINE>~C05get an overview of the entire region~C00.<NEWLINE>It is an incredibly useful item, so never ever<NEWLINE>forget to take it out of the Supply Box! <NEWLINE>~C03Map: Displays automatically when in inventory
+~C05Your movements will automatically be<NEWLINE>reflected on the Map by an arrow that marks<NEWLINE>your location and direction~C00. Keep checking<NEWLINE>the screen and don't let yourself get lost!<NEWLINE>And remember, the arrow's color will change<NEWLINE>when you are fighting alongside other hunters.<NEWLINE>~C03Red arrow: Your location and direction
+~C05By pressing the START button to open the<NEWLINE>Menu and then pressing the ~B03 button~C00, <NEWLINE>you can change the size of the Map. Use <NEWLINE>this to gain a detailed understanding of <NEWLINE>your surroundings! <NEWLINE>~C03Press the START button to open the Menu.<NEWLINE>~B03 button: Change Map size
+~C05You cannot clear a Quest without getting<NEWLINE>the item~C00 that has been requested as part<NEWLINE>of the Quest's goals! Once you get the item,<NEWLINE>place it in the ~C06Delivery Box~C00 over<NEWLINE>there and clear your first Quest! Make me<NEWLINE>proud!
+This Quest requires you to deliver some<NEWLINE>~C06Raw Meat~C00. That means that once you get<NEWLINE>the ~C06Raw Meat~C00, you are going to have to<NEWLINE>~C05huff it and bring that meat back to base<NEWLINE>camp~C00!<NEWLINE>~C03Deliver the requested items to complete<NEWLINE>the Quest
+Delivery is easy. Stand in front of the<NEWLINE>~C06Delivery Box~C00, and press the<NEWLINE>~B00 button. Really ~C05put your heart into it~C00!<NEWLINE>Hah! I made a funny! If a Quest requires you<NEWLINE>to deliver an item, ~C05it will end<NEWLINE>successfully the minute you deliver the item~C00! <NEWLINE>~C03~B00 button (in front of box): Deliver item
+As you can see, in front of you is a<NEWLINE>~C06Bed~C00. Indeed. ~C05It's a bed alright~C00. <NEWLINE>Stand in front of the ~C06Bed~C00 and press<NEWLINE>the ~B00 button. You will be overcome with <NEWLINE>drowsiness and the bed's stone mattress will <NEWLINE>instantly transport you into a deep sleep.<NEWLINE>~C03~B00 button (in front of bed): Rest in bed
+While it may seem like a crude bed at first<NEWLINE>glance, you will sleep like a baby on this<NEWLINE>lovely stone mattress. ~C05Not only will it<NEWLINE>restore your Health, it will also cure<NEWLINE>conditions such as poisoning~C00! Goodnight my<NEWLINE>child.<NEWLINE>~C03Rest in bed: Restore Health/cure conditions
+On a long, protracted Quest, you want to save<NEWLINE>your progress... Or maybe you are just poor<NEWLINE>and need to cry it out a bit! These are the<NEWLINE>times when you think ~C05I want to sleep on a<NEWLINE>warm rock bed~C00! <NEWLINE>~C03Use the bed for free as often as you'd like.
+Well now... It seems this area is filled<NEWLINE>with ~C05herbivorous monsters~C00, which,<NEWLINE>honestly, are a ~C05rather docile group~C00 unworthy<NEWLINE>of being called monsters. But don't let your<NEWLINE>guard down for a second! You are a hunter!
+The green gauge at the top of the screen that<NEWLINE>displays your life is called the ~C06Health<NEWLINE>gauge~C00. Each time you are hit with an<NEWLINE>attack it will decrease, and ~C05when it is<NEWLINE>empty, it is lights out for you my friend~C00.<NEWLINE>Pay attention to your remaining Health!<NEWLINE>~C03Green bar at top of screen: Health gauge
+It may be a bit worn, but the ~C06Sword~C00<NEWLINE>you hold in your hands is the stuff of<NEWLINE>legends. My legendary hand-me-down to be<NEWLINE>precise. Press the ~B02 button to swing the<NEWLINE>Sword and the ~B03 button to put it away.<NEWLINE>~C03~B02 button: Swing the Sword<NEWLINE>~C03~B03 button: Put away Sword
+Herbivorous monsters are often known to run<NEWLINE>away in absolute terror at the slightest<NEWLINE>whiff of danger, but a few courageous grass<NEWLINE>chewers can get a bit nippy. ~C05Press the<NEWLINE>~B04 button while facing one of the<NEWLINE>monsters~C00 to strike with all your might!<NEWLINE>Are you ready!? Then ~C05start the hunt~C00!
+Hah Hah Hah Hah! ~C05A regular swashbuckler<NEWLINE>with that sword~C00! It looks like that<NEWLINE>monster is ready to die. But its death<NEWLINE>doesn't mean this hunt is over yet! ~C05The<NEWLINE>Quest isn't over until you return home~C00!
+By pressing the ~B00 button while above a<NEWLINE>defeated monster, you can carve ~C06materials~C00<NEWLINE>from its carcass! These ~C06materials~C00 <NEWLINE>make up a ~C05hunter's provisions~C00. Respect <NEWLINE>nature's gifts and carve all you can!<NEWLINE>~C03~B00 button (above monster): Carve items<NEWLINE>~B03 button (weapon is drawn): Put away weapon
+Depending on the type of monster, ~C05you can<NEWLINE>sometimes carve multiple materials from the<NEWLINE>carcass~C00. For instance, I hear that ~C05you<NEWLINE>can carve that herbivorous monster twice~C00.<NEWLINE>~C03There are monsters that can be carved more<NEWLINE>than once.
+You did a good job carving up that monster. I<NEWLINE>suppose you have earned another important<NEWLINE>lesson from me, and I'll teach it to you right<NEWLINE>here. Allow me to explain to you the secrets<NEWLINE>of ~C06Sharpness~C00. 
+Every time you attack a monster with a weapon,<NEWLINE>its ~C06Sharpness~C00 decreases and the weapon<NEWLINE>becomes dull. ~C05If the weapon becomes too<NEWLINE>dull, its power decreases and it will bounce<NEWLINE>right off during an attack~C00! That's not good!<NEWLINE>~C03As a weapon's sharpness falls,<NEWLINE>so does its power.
+In the ~C05upper left corner of the screen~C00,<NEWLINE>a sword shaped ~C06weapon icon~C00 is displayed... <NEWLINE>OK... It's not displayed right now. But it <NEWLINE>will be! If the ~C06weapon icon~C00 is ~C05pitted~C00<NEWLINE>or if it is ~C05flashing red~C00, your weapon<NEWLINE>has lost its sharpness! So pay attention to <NEWLINE>the icon... That isn't there now!
+Hope is not lost, my fearful student! Hope is<NEWLINE>called a ~C06Whetstone~C00, or occasionally a<NEWLINE>~C06Mini-Whetstone~C00! Use one of these and<NEWLINE>~C05bada-bing bada-boom~C00, your ~C05weapon<NEWLINE>is as good as new~C00. Sharp enough to slice<NEWLINE>metal and still dice a tomato!
+Did you gather the contents of the ~C06Supply<NEWLINE>Box~C00!? If you did, then you should have a<NEWLINE>~C06Mini-Whetstone~C00 in your possession. Why<NEWLINE>don't you give it a try!
+~C05Hold down the ~B04 button~C00 to open the<NEWLINE>~C06Item Window~C00 on the bottom right of the<NEWLINE>screen. Then select the ~C06Mini-Whetstone~C00<NEWLINE>and press the ~B03 button to use it! <NEWLINE>~C03Hold ~B04 button + ~B03 button or <NEWLINE>~B00 button: Select item<NEWLINE>Release ~B04 button + ~B03 button: Use item
+Sure, it is a bit hard to get used to, but<NEWLINE>once you get the hang of things you will be<NEWLINE>pulling out and using items on the move. You<NEWLINE>may even become a ~C05master of unpacking~C00!<NEWLINE>Keep practicing!
+Hmm... It appears you got your hands on some<NEWLINE>~C06Raw Meat~C00, huh? This Quest requires you<NEWLINE>to deliver ~C05two~C00 pieces of ~C06Raw<NEWLINE>Meat~C00. If you've already got the items you<NEWLINE>need to deliver, then head for the red<NEWLINE>~C06Delivery Box~C00!
+I hope that you have taken everything that<NEWLINE>I've taught you this time to heart... And<NEWLINE>mind... And soul... And any other place you<NEWLINE>can take it too. If not, you can get a<NEWLINE>reminder of the Quest details in the ~C06Menu~C00 by<NEWLINE>pressing the START button.<NEWLINE>~C03Press the START button to open the Menu.
+If you press the START button and open the<NEWLINE>~C06Menu~C00, you will see an option titled <NEWLINE>~C06Advice~C00. Here you will find ~C05priceless<NEWLINE>words of wisdom~C00 from your esteemed<NEWLINE>instructor! <NEWLINE>~C03Reconfirm details by selecting Advice.
+Oh yes! One more thing! I need to teach you<NEWLINE>something else about the ~C06Menu~C00. I must<NEWLINE>tell you about the ~C05handiest thing in the<NEWLINE>menu~C00! It is about what you are going to do<NEWLINE>right now - ~C06deliver~C00 an item!
+Take a look at the ~C06Items~C00 section of the<NEWLINE>~C06Menu~C00! When you are in an area with a<NEWLINE>~C06Delivery Box~C00, the excellent<NEWLINE>~C06Deliver~C00 command will be added to the<NEWLINE>~C06Item menu~C00.
+Using this command, you can select ~C05how<NEWLINE>many items to deliver~C00 among items that can<NEWLINE>be placed in the ~C06Delivery Box~C00. For<NEWLINE>instance, deliver half and keep half handy...<NEWLINE>It's all up to you. You have the power! ~C05It's<NEWLINE>easy to forget this command, but don't forget<NEWLINE>its importance~C00! 
+~C05If you feel you aren't quite up to par<NEWLINE>with things, you can try a Quest again~C00 to<NEWLINE>make sure you get enough practice. If you want<NEWLINE>my help, feel free to ask for it. I am<NEWLINE>~C05incredibly free~C00 you know!
+Hah Hah Hah Hah! Speedy ~C06delivery~C00! Very<NEWLINE>well done! If you wait for a bit, you will<NEWLINE>automatically enter the ~C06Reward Screen~C00.<NEWLINE>Here, as a reward for your efforts during the<NEWLINE>Quest, ~C05you can receive money and<NEWLINE>items~C00! Once you go back to the village,<NEWLINE>you can begin for your next bout of training. 
+Ahh, it is I... Your esteemed instructor! Now<NEWLINE>you will no longer be the recipient of my<NEWLINE>kindness! I shall be strict and harsh! From<NEWLINE>now on you will study the ~C05meaning of<NEWLINE>self-sufficency~C00. Prepare yourself!
+Very well then... I see you have responded<NEWLINE>well to my challenge. Before you depart on a<NEWLINE>Quest, you must first ~C05fully understand the<NEWLINE>ins and outs of the Quest~C00. You must use<NEWLINE>the ~C06Menu~C00 for this task!
+Open the ~C06Menu~C00 and proceed directly to<NEWLINE>~C06Quest Info~C00. Here you can confirm<NEWLINE>all the details regarding the current Quest.<NEWLINE>~C05The title of the menu is quite<NEWLINE>self-explanatory, if I do say so myself~C00!<NEWLINE>~C03Press the START button to open the Menu.
+I know there are lots of new things you've<NEWLINE>been learning recently, but you will get used<NEWLINE>to them quickly. The ~C06Quest Cleared~C00<NEWLINE>screen on the third page is worth looking at!<NEWLINE>There you can see the purpose of the Quest!<NEWLINE>~C03To clear a Quest, meet its goal conditions.
+One more thing you have to pay attention to is<NEWLINE>your remaining time. If it hits zero, then<NEWLINE>your Quest will obviously end in failure. You<NEWLINE>can ~C05check the time remaining in the upper<NEWLINE>left corner of the screen~C00. Pay close<NEWLINE>attention to it!
+~C06Never forget your supplies~C00. That is<NEWLINE>one of the key rules a hunter must never<NEWLINE>forget! Alright!? So don't forget it!
+Regarding the items you are supplied, some are<NEWLINE>marked as ~C06Supply Items~C00. These items<NEWLINE>will ~C05automatically be returned at the<NEWLINE>end of the Quest~C00. That means that you<NEWLINE>should make the most of them!<NEWLINE>~C03Supply Items will be returned at the end<NEWLINE>of a Quest.
+In this Quest, the Supply Item you will<NEWLINE>receive is a ~C06Portable Spit~C00! Don't<NEWLINE>forget to take it!<NEWLINE>Oh... One more thing...
+This Quest requires you to deliver a<NEWLINE>~C06Well-Done Steak~C00. Hence the<NEWLINE>~C06Portable Spit~C00... How about it? Have<NEWLINE>you figured out what you have to do yet!?<NEWLINE>~C05I'm testing that noggin of yours~C00!
+First things first, you need to leave base<NEWLINE>camp, slay a herbivorous monster, and get some<NEWLINE>~C06Raw Meat~C00! What you do with that tasty<NEWLINE>hunk of ~C06Raw Meat~C00 is something that I<NEWLINE>will explain to you later! ~C05Heh heh heh~C00...
+Since it seems like little by little you're<NEWLINE>getting the hang of things let me teach you a<NEWLINE>~C05great technique~C00. Usually hunters never<NEWLINE>make haste and never ever make a racket. It's<NEWLINE>a basic principle; however, there are many<NEWLINE>exceptions!
+One of these is popular with the kids<NEWLINE>nowadays. With their fast moving lives, they<NEWLINE>love to ~C06Sprint~C00! All you have to do is<NEWLINE>~C05hold down the ~B05 button and move~C00.<NEWLINE>That's it! Soon you'll feel the wind beneath<NEWLINE>your heels!<NEWLINE>~C03Analog stick + ~B05 button: Sprint
+But... And this is a big but... There is a<NEWLINE>limit to human stamina! Do you see a<NEWLINE>~C05yellow bar~C00 underneath the green Health<NEWLINE>gauge!? It's not there again!? Why me!?<NEWLINE>Well... What should be there is the<NEWLINE>~C06Stamina gauge~C00!<NEWLINE>~C03Yellow bar at top of screen: Stamina gauge
+~C06Sprint~C00 is one action that requires<NEWLINE>your full effort and thus decreases the<NEWLINE>~C06Stamina gauge~C00; however, ~C05if you<NEWLINE>release it, your Stamina will automatically<NEWLINE>replenish~C00. But beware of running out of<NEWLINE>Stamina, as it cripples your ability to run.
+Not to mention the fact that the ~C05Stamina<NEWLINE>gauge's upper limit will gradually decrease<NEWLINE>over time~C00. This shows you how hungry you<NEWLINE>are. <NEWLINE>~C03The Stamina gauge's upper limit <NEWLINE>decreases over time.
+Crispy on the outside, light and juicy on the<NEWLINE>inside. ~C05If you could eat that kind of<NEWLINE>meat, your hunger would disappear in a<NEWLINE>heartbeat~C00! I think it would also let you<NEWLINE>Sprint for longer durations...
+~C05Who-ahh~C00! Mighty fine work there<NEWLINE>hunter! Once you've slayed a herbivorous<NEWLINE>monster and ~C05carved up some raw meat~C00,<NEWLINE>it's time to see if your cuisine can reign<NEWLINE>supreme! <NEWLINE>~C03~B00 button (above a defeated monster): Carve
+In this world, food supplies are a function of<NEWLINE>self-sufficiency! Although you can't eat<NEWLINE>~C06Raw Meat~C00, if you cook it with the fire<NEWLINE>from the ~C06Portable Spit~C00, it will quickly turn<NEWLINE>from a hunk of bleeding monster meat into a<NEWLINE>~C05deliciously mouthwatering delight~C00!
+When you are in possession of ~C06Raw<NEWLINE>Meat~C00, use the ~C06Portable Spit~C00 to start<NEWLINE>grilling!<NEWLINE>~C03Hold ~B04 button + ~B03 button or <NEWLINE>~B00 button: Select item<NEWLINE>Release ~B04 button + ~B03 button: Use item
+When cooking, timing is everything!  When the<NEWLINE>BBQ music stops, ~C05press the ~B01 button the<NEWLINE>minute the meat changes color~C00! If you time<NEWLINE>things perfectly, you will have cooked<NEWLINE>yourself one perfect, tasty ~C06Well-Done<NEWLINE>Steak~C00!
+By selecting ~C06Well-Done Steak~C00 and pressing<NEWLINE>the ~B03 button, you can partake in a tasty<NEWLINE>snack that will ~C05send the upper limit of your<NEWLINE>Stamina gauge headed into the stratosphere~C00!<NEWLINE>Which means you will be able to endure a nice,<NEWLINE>long Sprint!<NEWLINE>~C03Eating meat raises your Stamina gauge limit.
+Well, well... It seems you are truly putting<NEWLINE>your nose to the grindstone. However, I still<NEWLINE>have to explain how to use the ~C06Abandon<NEWLINE>Quest~C00 function... Just for argument's<NEWLINE>sake. Better safe than sorry, right?
+Press the START button to open that famous<NEWLINE>~C06Menu~C00 and you can select an option<NEWLINE>called ~C06Abandon Quest~C00. By selecting<NEWLINE>that option, ~C05you can exit the Quest and<NEWLINE>return to the village~C00. <NEWLINE>~C03Press the START button to open the Menu.
+By selecting ~C06Abandon Quest~C00, the Quest<NEWLINE>will end at your present location. However, if<NEWLINE>you abandon a Quest, ~C05you will completely<NEWLINE>return to your status before you began the<NEWLINE>Quest~C00, so take care when making such a<NEWLINE>momentous decision.
+All the items you acquired during the Quest<NEWLINE>will disappear, but all the items you used<NEWLINE>will return to your possession. All of your<NEWLINE>efforts during the Quest will be for naught,<NEWLINE>so ~C05abandon a Quest at your own risk~C00. 
+Heh Heh Heh! That's some tasty ~C06BBQ~C00! Well done!<NEWLINE>~C05During a Quest, you need to get food and take<NEWLINE>steps to maintain your Stamina~C00! If you <NEWLINE>purchase a ~C06BBQ Set~C00 in the village, you can<NEWLINE>take it out on Quests in which the supplies<NEWLINE>are meager at best. It's a bit pricey, but <NEWLINE>well worth the expense.
+Once again, it is I, your esteemed instructor!<NEWLINE>We shall proceed with your strict and harsh<NEWLINE>training in the ways of a hunter. Today you<NEWLINE>will be instructed on item ~C06gathering~C00.<NEWLINE>Are you ready for your next challenge?
+You have shown you are not one to back down.<NEWLINE>Very well then, there are ~C05items scattered<NEWLINE>all over the hunting grounds~C00. Obviously<NEWLINE>they do not belong to a soul. Thus, it is<NEWLINE>truly ~C05finder's keepers~C00!
+To engage in item ~C06gathering~C00, there is<NEWLINE>some ~C05special gathering equipment~C00 that<NEWLINE>you will need. First, head to the ~C06Supply<NEWLINE>Box~C00 and grab your supplies!
+There is a ~C06Bugnet~C00 and a ~C06Pickaxe~C00 in the <NEWLINE>Supply Box for you. What are they you ask?<NEWLINE>Gathering equipment!
+The ~C06Bugnet~C00 allows you to ~C05catch<NEWLINE>bugs hidden deep in a thicket~C00. Running<NEWLINE>around and gathering bugs really makes you<NEWLINE>feel like a kid again!
+There is also the ~C06Pickaxe~C00, which<NEWLINE>requires you to put your back into it to<NEWLINE>~C05mine ore from the bedrock~C00. Just<NEWLINE>because you need a bit more strength to mine<NEWLINE>ore doesn't mean it isn't as fun as gathering<NEWLINE>insects! There's no reason to avoid mining!
+Get your hands on both pieces of equipment and<NEWLINE>head out on the item hunt! Rely on your<NEWLINE>~C06Map~C00 and ~C05try exploring every area~C00!
+There are a lot of bugs hiding in grassy<NEWLINE>thickets. If you let your eyes focus on your<NEWLINE>surroundings, you may notice some ~C05lights<NEWLINE>drifting through the air~C00. These are<NEWLINE>actually bugs! ~C05Don't ignore them~C00!
+*cough* Alright then, time for the<NEWLINE>~C06Bugnet~C00! ~C05Normally, you cannot use<NEWLINE>gathering equipment~C00. However, if you come<NEWLINE>to a designated ~C06Gathering Point~C00, the<NEWLINE>dreaded ~C05Ｘ mark disappears from your<NEWLINE>~C06Item Window~C05, meaning you can use the<NEWLINE>implements of gathering~C00!
+Now go ~C05swing the ~C06Bugnet~C00 around<NEWLINE>those shining bugs drifting in the air.<NEWLINE>Go catch some bugs!
+The ~C06Bugnet~C00 is not an invincible<NEWLINE>tool. In general, ~C05after several uses the<NEWLINE>Bugnet will break~C00. That means that if you<NEWLINE>want to go bug hunting, preparation is key!
+Oh! By the way! ~C05You can gain multiple<NEWLINE>items from a single gathering point~C00! So<NEWLINE>give in to your item lust and try to gather as<NEWLINE>much as you can! That's one of the best parts<NEWLINE>of being a hunter... And don't you forget it!
+~C05A towering cliff~C00... A cliff so<NEWLINE>towering that there is no way you could even<NEWLINE>hope to climb or descend it... But hold your<NEWLINE>horses! You're a hunter! ~C05Are you going to<NEWLINE>let something like this enormous cliff stand<NEWLINE>in your way~C00!?
+For places where the wall is only slightly<NEWLINE>taller than your body, ~C05stand right in<NEWLINE>front of it and press the ~B00 button to climb<NEWLINE>over~C00. It should be a ~C05cakewalk~C00!<NEWLINE>Just put your weapon away first! <NEWLINE>~C03~B00 button (in front of edge): Climb over <NEWLINE>~B03 button (weapon is drawn): Put away weapon 
+Also, there are vines growing on the walls<NEWLINE>that seem climbable. ~C05By pressing the ~B00<NEWLINE>button, you can grab onto these vines~C00!<NEWLINE>Once you've got a hold of them, press the<NEWLINE>analog stick to move up or down the vines.<NEWLINE>You've got to master this technique if you<NEWLINE>ever want to get off the ground!
+That reminds me of one more thing... Do you<NEWLINE>remember how to activate the ~C06Sprint~C00<NEWLINE>technique?  When you are holding onto the<NEWLINE>vines, you can climb faster by using the same<NEWLINE>Sprint technique. ~C05Pay attention to your<NEWLINE>Stamina~C00 and speed your way to the top. <NEWLINE>~C03Analog stick + ~B05 button: Sprint
+Smell that? That's the smell of items ripe for<NEWLINE>the taking! You know that normally you cannot<NEWLINE>use gathering equipment; however, once you get<NEWLINE>to a set ~C06Gathering Point~C00, ~C05the Ｘ<NEWLINE>mark over the ~C06Item Window~C05 disappears,<NEWLINE>meaning you can use the gathering equipment~C00!
+On the walls in this area, there are large<NEWLINE>cracks in the rocks. To use the<NEWLINE>~C06Pickaxe~C00 to ~C05mine for ore~C00 just stand in<NEWLINE>front of these cracks! There are also hidden<NEWLINE>gathering points that don't exhibit any<NEWLINE>cracking, so search around and hunt for<NEWLINE>them!
+Using this method you can acquire various<NEWLINE>types of ore and use them as material to make<NEWLINE>incredibly strong weapons and armor. However,<NEWLINE>the ~C06Pickaxe~C00 is quite fragile!<NEWLINE>Sometimes it breaks, ~C05just like your<NEWLINE>esteemed instructor's heart~C00, so always be<NEWLINE>prepared!
+Oh! By the way! ~C05You can gain multiple<NEWLINE>items from a single gathering point~C00! So<NEWLINE>give in to your item lust and try to gather as<NEWLINE>much as you can! That's one of the best parts<NEWLINE>of being a hunter... And don't you forget it!
+Do you love items...? ~C05I know that I LOVE<NEWLINE>items~C00! That's why I'm going to teach you how<NEWLINE>to get items... Because you've never heard a<NEWLINE>story about a hunter who couldn't gather<NEWLINE>items! 
+First of all, when you are walking, always<NEWLINE>keep your eyes planted firmly on the ground<NEWLINE>and look for ~C05suspicious areas~C00. For<NEWLINE>instance, places where mushrooms are growing<NEWLINE>or where conspicuous grasses are sprouting<NEWLINE>up... Spots like that are usually home to<NEWLINE>valuable items!
+Places where you can gather items are called<NEWLINE>~C06Gathering Points~C00. Aptly named if I do say so<NEWLINE>myself... And I do, since ~C05I named them~C00! If you<NEWLINE>think you are at a ~C06Gathering Point~C00, put away<NEWLINE>your weapon and press the ~B00 button! <NEWLINE>~C03~B00 button (at Gathering Point): Gather item<NEWLINE>~B03 button (weapon is drawn): Put away weapon
+Oh yeah! Oh yeah! Once you've gotten an item,<NEWLINE>that isn't your cue to head off somewhere<NEWLINE>else. Why? Because a single ~C06Gathering<NEWLINE>Point~C00 ~C05can be home to multiple<NEWLINE>items~C00! You may be able to gather more than<NEWLINE>one item from a single point. Amazing, these<NEWLINE>~C06Gathering Points~C00...
+The goal for this Quest is to deliver some<NEWLINE>~C06Honey~C00. Ahh Honey... ~C05What kind of<NEWLINE>landmark should you look for~C00...? I'll<NEWLINE>leave that up to you and your magnificent<NEWLINE>mental prowess! Once you get your hands on the<NEWLINE>prize, don't forget to take it back to the <NEWLINE>~C06Delivery Box~C00!
+Arrrgggghhh! I know this is sudden, but hear<NEWLINE>me out! I'm stressed out about something! The<NEWLINE>truth is that your esteemed instructor is<NEWLINE>awfully sensitive to cold. ~C05Lately, it has<NEWLINE>been getting so cold that I haven't be able to<NEWLINE>sleep at night~C00! I hope you understand<NEWLINE>where I'm coming from...
+But my fear of the ~C06cold~C00 isn't just a<NEWLINE>fear of insomnia... When you are in some place<NEWLINE>cold, you will get hungrier and hungrier,<NEWLINE>meaning ~C05your Stamina gauge will fall to<NEWLINE>the bottom like a rock~C00! ~C03Cold increases<NEWLINE>the fall of the Stamina gauge limit.
+~C05The embroidered clothes you are wearing<NEWLINE>right now are artic clothing meant to protect<NEWLINE>you from freezing in the cold~C00. However, if<NEWLINE>you take those clothes off, prepare to<NEWLINE>experience a baptism by ice colder than the<NEWLINE>coldest cold you've ever imagined... The<NEWLINE>experience will be frozen into your memory.
+What...? You are wondering if there is<NEWLINE>anything else you can do to ward off the cold?<NEWLINE>Hah hah hah! ~C05Of course there is~C00! But<NEWLINE>I'll tell you all about that gift of human<NEWLINE>intellect known as the ~C06Hot Drink~C00<NEWLINE>another time! 
+Heh Heh Heh! Incredible ~C06gathering~C00<NEWLINE>skills! Well done! If you run out of food or<NEWLINE>recovery items, you'll find yourself in a<NEWLINE>super tight spot. ~C05Just keep your head<NEWLINE>about you, find something to use as a trap or<NEWLINE>medicine, and aim for the stunning<NEWLINE>comeback~C00! That's the way of a top hunter!
+As always, I, your esteemed instructor, shall<NEWLINE>instruct you with strictness and harsh words<NEWLINE>so that you may be forged into a precision<NEWLINE>hunting machine! Today, these harsh words will<NEWLINE>cover the topic of ~C06Combining~C00. Steel<NEWLINE>your nerves for my harshities!
+Very well. It seems you have responded to me<NEWLINE>without fear. I can respect that...! When you<NEWLINE>are hunting, you can use the ~C06Combine~C00<NEWLINE>command with the items you gather in the field<NEWLINE>to create ~C05completely new items~C00!
+~C06Combining~C00 may seem like an incredibly<NEWLINE>complicated concept, but you need to throw<NEWLINE>away your preconceptions! Select<NEWLINE>~C06Combine~C00 from the ~C06Menu~C00 and then<NEWLINE>just pick two items! It's that easy!<NEWLINE>~C03Press the START button to open the Menu.
+Now I want you to take the items you collect<NEWLINE>on the Snowy Mountain, ~C06Combine~C00 them<NEWLINE>together to make a ~C06Potion~C00, and then<NEWLINE>make a timely delivery! To make a ~C06Potion~C00, <NEWLINE>combine the injury healing ~C06Herb~C00 with a ~C05secret<NEWLINE>ingredient~C00. You know the ~C05secret ingredient~C00...<NEWLINE>It's ~C05that~C00...! Wait. What is ~C05that~C00!?
+Near here, there is a batch of ~C06Blue<NEWLINE>Mushrooms~C00 growing. It's a ~C05special<NEWLINE>mushroom that has medical uses~C00, but it<NEWLINE>requires a pinch of hunter intervention before<NEWLINE>it becomes useful!
+Huh? What is this pinch of intervention you<NEWLINE>ask? I suppose I should explain then. Very<NEWLINE>well. You need to add a ~C05little something<NEWLINE>something~C00 to the ~C06Blue Mushroom~C00.<NEWLINE>You know... A ~C05lil' sumthin sumthin~C00...<NEWLINE>Is ~C05sumthin~C00 even a word...!?
+Heh Heh Heh! Stupendous ~C06Combining~C00!<NEWLINE>Well done! You may have already seen this, but<NEWLINE>Combining has a set ~C06Success Rate~C00. The<NEWLINE>harder the combination, the higher the chance<NEWLINE>of failure! Also note the ~C06Result~C00 area. ~C05This<NEWLINE>lists the number of items you can create after<NEWLINE>combining~C00. It's important so don't forget it!
+It is I, your esteemed instructor, with<NEWLINE>another harsh lesson taught with strict<NEWLINE>discipline. Today we will learn the ins and<NEWLINE>outs of ~C06Fishing~C00. I will not accept any<NEWLINE>fishing negligence!
+Your positive response to the challenge ahead<NEWLINE>of you warms my heart... But only a bit. In<NEWLINE>return for warming my heart, I shall share<NEWLINE>with you the most important point of<NEWLINE>~C06Fishing~C00. Picking your spot! When<NEWLINE>fishing, you must find a ~C06Fishing<NEWLINE>Point~C00! It's incredibly important!
+If you check the ~C06Supply Box~C00, I, in my<NEWLINE>infinite wisdom, have placed some fishing bait<NEWLINE>in there for you. It is an item called a<NEWLINE>~C06Worm~C00! ~C05Now get your hands on this<NEWLINE>fishing bait~C00. 
+Fish obviously live under water. If you pay<NEWLINE>attention to the water, I think you may be<NEWLINE>able to see fish swimming. Your next order of<NEWLINE>business is to find a ~C05first-rate fishing<NEWLINE>point~C00. Then we can get started!<NEWLINE>~C03Fishing Points are located on the<NEWLINE>waterside.
+Did you see that!? ~C05There are little<NEWLINE>fishie babies!~C00 They're swimming so<NEWLINE>happily! ...Enough of that... *ahem* Now I<NEWLINE>want you to ~C05remember proper item<NEWLINE>usage~C00, mind your manners, and fish out<NEWLINE>a lil' Mr. Fishie!
+Just like other gathering equipment, you<NEWLINE>cannot freely use fishing items. Once you<NEWLINE>reach a set ~C06Fishing Point~C00, ~C05the Ｘ<NEWLINE>mark disappears from the ~C06Item Window~C05<NEWLINE>and you can use your fishing tackle~C00!
+Now that we're here, it's time to hit the ~B03<NEWLINE>button! That will throw the bobber and bait<NEWLINE>into the water! Then just wait for the right<NEWLINE>instant, ~C05and then enter into a battle to<NEWLINE>the death with Mr. Fishie!~C00 Steel your<NEWLINE>heart for the fight of your life!  <NEWLINE>~C03~B03 button: Use item~C00
+The trick to fishing is ~C05concentrating on<NEWLINE>the~C00 ~C06float~C00! When a fish bites on<NEWLINE>the bait, the bobber will bob in the water.<NEWLINE>But fish are wily little creatures known to<NEWLINE>feint a bite, so don't let them fool you!<NEWLINE>~C05When you've got them on the hook, hit the<NEWLINE>~B01 button~C00!
+If you've hit the proper timing, the fish will<NEWLINE>soon be in your hands... Out of the water, of<NEWLINE>course! However, if you are even a little bit<NEWLINE>off, ~C05the fish will steal your bait~C00!<NEWLINE>~C05Fishing is all about tactics~C00!
+~C05If you've lost all of your bait, you<NEWLINE>should try to gather some more in the<NEWLINE>surrounding areas~C00! There will almost<NEWLINE>certainly be a ~C06Gathering Point~C00 where<NEWLINE>you can find some fishing bait! Sharpen your<NEWLINE>senses and be on the lookout!
+Heh Heh Heh! Looks like you were really ~C06gone<NEWLINE>fishin'~C00! Well done! Other than the ~C06Sushifish~C00,<NEWLINE>there are ~C05fish that can be used to make<NEWLINE>gun shells, weapons and armor, or even some<NEWLINE>fish that can be sold for incredibly high<NEWLINE>prices~C00! If you become a master at ~C06Fishing~C00,<NEWLINE>it will never let you down. Never forget that!
+It is I! Your esteemed instructor! It seems<NEWLINE>you are finally getting used to this hunting<NEWLINE>business... Today I would like to instruct you<NEWLINE>on the topic of ~C06Carrying~C00. I expect<NEWLINE>you to be ready!
+Alrighty then. It seems you are up to the<NEWLINE>challenge. Today's Quest requires you to<NEWLINE>deliver a ~C06Carnivore Egg~C00. If you get<NEWLINE>good at Carrying eggs, you'll be taking a step<NEWLINE>towards serving me breakfast! Err... I mean, a<NEWLINE>step towards becoming a skilled hunter! 
+So now you may be wondering, "How do I get<NEWLINE>this ~C06Carnivore Egg~C00"? Well, let me give<NEWLINE>you a hint. It sounds like ~C06rest~C00! There<NEWLINE>you go! Think about it! What's the answer!?
+Exactly! ~C06Rest~C00 could only mean one<NEWLINE>thing - ~C06Nest~C00! The first thing you have<NEWLINE>to do is find a carnivore's ~C06Nest~C00! 
+Now there has to be a ~C06Nest~C00 somewhere<NEWLINE>around here! Which means that there should<NEWLINE>also be an ~C06Egg~C00 around here as well!<NEWLINE>~C05Scattered bones and eggshells should all<NEWLINE>be signs of a wyvern infestation~C00!
+Once you find the ~C06Nest~C00, find something<NEWLINE>that looks like an egg and press the ~B00<NEWLINE>button to examine it. If it is an ~C06Egg~C00,<NEWLINE>you'll pick it up right then and there! 
+I have one more important thing to teach you,<NEWLINE>and that is the actual delivery of an egg.<NEWLINE>What is so special about monster eggs is that<NEWLINE>they can be ~C06delivered at any time~C00 ~C05as<NEWLINE>long as you bring them back to camp~C00. 
+If you bring back an egg, you will be given<NEWLINE>~C06Pokke Points~C00 as a special reward.<NEWLINE>~C06Pokke Points~C00 are outside the realm of<NEWLINE>what I am going to teach you, but I will say<NEWLINE>~C05that they can be used to make life easier~C00<NEWLINE>in our beloved hometown of Pokke Village. For<NEWLINE>more info, just ask the other villagers.
+Of course, ~C05target items for a Quest will<NEWLINE>not earn you ~C06Pokke Points~C00. So for this<NEWLINE>Quest, the ~C06Carnivore Egg~C00 you must<NEWLINE>deliver will not earn you any points. You have<NEWLINE>to work up to earning the big buck, you know!<NEWLINE>~C05Patience, grasshopper!~C00
+Well done! You got your hands on a<NEWLINE>~C06Carnivore Egg~C00 without getting yourself killed!<NEWLINE>But don't get too confident! ~C06Carrying~C00 means<NEWLINE>you have to ~C06carry~C00 that thing until<NEWLINE>~C06delivery~C00. Just like other items, once<NEWLINE>you get an ~C06Egg~C00 back, ~C05press the ~B00 button<NEWLINE>in front of the Delivery Box to deliver it!
+An ~C06Egg~C00 is an incredibly fragile item<NEWLINE>that is very easy to break! ~C05If you are<NEWLINE>attacked by a monster or fall from a tall<NEWLINE>place, the Egg will break in your hands~C00.<NEWLINE>It's important to be able to judge the maximum<NEWLINE>height you can drop from and still have an<NEWLINE>intact egg upon landing!
+Another important thing I forgot to tell you!<NEWLINE>Since both of your hands are going to filled,<NEWLINE>~C05you can't use weapons or items~C00! And<NEWLINE>another thing... ~C05If you Sprint for too<NEWLINE>long and get tired~C00, you will drop the Egg.<NEWLINE>You have to pay close attention to all your<NEWLINE>actions!
+It seems that there are no large monsters in<NEWLINE>the area, but I will not permit you to let<NEWLINE>your guard down! When you are ~C06carrying~C00<NEWLINE>something, ~C05even a little bit of damage can<NEWLINE>lead to a tragic conclusion~C00! The key words<NEWLINE>here are "be careful"!
+One last point, the ~C06Carnivore Egg~C00 you<NEWLINE>are carrying now is small in size when<NEWLINE>compared to other eggs, so ~C05you should<NEWLINE>still be able to run at a decent clip~C00. <NEWLINE>However, don't think things will be this easy<NEWLINE>with a heavier egg. Be sure to pace yourself!
+Heh Heh Heh! You ~C06Carried~C00 that egg like<NEWLINE>it was newborn baby! Well done! But when you<NEWLINE>start really ~C06Carrying~C00 things, there<NEWLINE>will be ~C05monsters who will impede your<NEWLINE>progress~C00. However, if you use items and<NEWLINE>skills helpful to carrying, you should still<NEWLINE>succeed! Now go after those ~C06Pokke Points~C00!
+Today, I have great pleasure in being your<NEWLINE>esteemed instructor. As you seem to have<NEWLINE>become accustomed to being a hunter, I can<NEWLINE>finally proceed onto teaching you about the<NEWLINE>core of a hunter's life - ~C06Hunting~C00! I<NEWLINE>expect nothing less than preparedness!
+Good! You have truly taken up the challenge.<NEWLINE>It's time to learn about ~C06Hunting~C00, the<NEWLINE>feather in the cap of life. ~C06Hunting~C00 is<NEWLINE>comprised of both ~C06Slaying~C00 and ~C06Capturing~C00, <NEWLINE>meaning that completing either one results<NEWLINE>in a successful hunt. Master these two skills<NEWLINE>and nothing will stand between you and glory!
+~C06Slaying~C00 has a very simple meaning!<NEWLINE>~C05It is defined as killing the target<NEWLINE>monster~C00. From this defeated monster, you<NEWLINE>can carve various kinds of materials.<NEWLINE>~C03Target Monster: Giadrome<NEWLINE>~C03The Giadrome is known for its beautiful<NEWLINE>~C03crest and white scales.
+On the other hand, ~C06Capturing~C00 requires<NEWLINE>you to weaken the target monster and ~C05trap<NEWLINE>it while it is still alive~C00. While the<NEWLINE>difficulty is greater, and there is no<NEWLINE>opportunity to carve, the ~C05materials<NEWLINE>rewarded at the end of the Quest are greatly<NEWLINE>increased~C00!
+To ~C06Capture~C00 a monster, you must use<NEWLINE>items made especially for the task and fully<NEWLINE>understand their operation. First you attack<NEWLINE>to ~C05weaken the monster~C00! Once the<NEWLINE>monster has been sufficiently weakened, you<NEWLINE>must use a ~C06Pitfall Trap~C00 or a ~C06Shock<NEWLINE>Trap~C00 to ~C05snatch away that monster's freedom~C00.
+Trapping isn't the only path to success!<NEWLINE>If you ~C05hit the monster with capture items such<NEWLINE>as the ~C06Tranq Bomb~C05 enough times~C00, the monster<NEWLINE>will fall asleep and your capture attempt will<NEWLINE>be successful. ~C05If a monster is excitable,<NEWLINE>capture items will have no effect~C00. But, that<NEWLINE>doesn't mean you should just kill it!
+To commemorate today's occasion, I have put<NEWLINE>some useful items for both ~C06Slaying~C00 and<NEWLINE>~C06Capturing~C00 into your Supply Box. I know<NEWLINE>you are ~C05exploding with excitement~C00, so<NEWLINE>first sneak over to the Supply Box and take a<NEWLINE>peek!
+You looked in the Supply Box, didn't you? How<NEWLINE>was it!? ~C05You love me don't you~C00? You<NEWLINE>know... for giving you so many ~C05wonderful<NEWLINE>items~C00! There is a reason why I am such an<NEWLINE>esteemed instructor you know! Don't leave a<NEWLINE>thing in that box, and get to the hunt!
+Oh yes! There's another thing to say!<NEWLINE>"~C05Sure I can take the item, but I still<NEWLINE>don't know how to use it~C00" is a sentiment<NEWLINE>I've heard from many rookie hunters. That is<NEWLINE>why I, in my omnibenevolence, have<NEWLINE>~C05prepared explanations~C00 to soothe your<NEWLINE>laments!
+That's when you ~C05open the Menu~C00 and<NEWLINE>select ~C06Advice~C00! You'll be surprised at<NEWLINE>how much information you can learn about using<NEWLINE>items, so take a glance at it as soon as you<NEWLINE>can!
+It clearly explains everything from what is<NEWLINE>needed to battle a monster, to ~C05items<NEWLINE>necessary to sustain life in the snowy<NEWLINE>mountains~C00. ~C05Bathe yourself~C00 in the<NEWLINE>fountain of knowledge!
+In the midst of a battle with a giant monster,<NEWLINE>losing sight of your opponent is a fool's<NEWLINE>error! ~C05There are monsters who may return<NEWLINE>to their nest or head to the spring for a<NEWLINE>drink to try and recover their Health~C00!
+This is where the ~C06Paintball~C00 comes in!<NEWLINE>Press the ~B03 button to throw it against a<NEWLINE>monster, then you will be able to ~C05see the<NEWLINE>monster's position on the Map~C00! Rely on<NEWLINE>this tool and hunt the monster down! <NEWLINE>~C03~B03 button: Use item
+However, don't go thinking you've got it easy!<NEWLINE>~C05There is a limit to how long this effect<NEWLINE>lasts~C00! If you think the battle will be long<NEWLINE>and hard fought, ~C05hit the monster with another<NEWLINE>Paintball before the first one runs out~C00!<NEWLINE>If you are more of the Gunner type, you can<NEWLINE>use ~C06Paint S~C00 for the same effect!
+An area displayed as yellow on the Map denotes<NEWLINE>an area that is ~C05the current location of<NEWLINE>the monster you are tracking~C00! You'll soon <NEWLINE>discover the item's true value in the field<NEWLINE>~C05when you hit an enormous monster with a<NEWLINE>~C06Paintball~C00. Use these tricks and take<NEWLINE>down an enormous beast!
+The ~C06Flash Bomb~C00 is an item ~C05capable<NEWLINE>of blinding a monster with a sudden flash of<NEWLINE>light~C00. Depending on the monster, it has the<NEWLINE>chance of stopping them right in their tracks.<NEWLINE>Press the ~B03 button and let's see that<NEWLINE>throwing arm of yours! <NEWLINE>~C03~B03 button: Use item
+Flash Bombs are meant to blind an enemy, so<NEWLINE>~C05they have no effect if they don't blow up<NEWLINE>before a monster's eyes~C00. Difficult, I <NEWLINE>know, but practice until it works every time!<NEWLINE>Once you've become a master, you'll never want<NEWLINE>to be without Flash Bombs, but remember there<NEWLINE>are ~C05some enemies they have no effect on~C00.
+The ~C06Shock Trap~C00 is especially useful in<NEWLINE>stopping a monster's movements. It is also<NEWLINE>incredibly easy to use. ~C05Just set it onto the<NEWLINE>ground by pressing the ~B03 button~C00!<NEWLINE>~C03~B03 button: Use item
+Monsters caught in this trap ~C05will be<NEWLINE>stunned and rendered completely immobile~C00.<NEWLINE>Along with the ~C06Pitfall Trap~C00, this is<NEWLINE>an absolutely necessary item for ~C06Capturing~C00.
+It is not usually used against smaller<NEWLINE>opponents; however, the ~C06Shock Trap~C00 is<NEWLINE>notable for ~C05its effectiveness against most<NEWLINE>large monsters~C00. Even against monsters who<NEWLINE>are impervious to the ~C06Pitfall Trap~C00,<NEWLINE>the ~C06Shock Trap~C00 will allow you to<NEWLINE>successfully ~C06Capture~C00 them!
+~C06Small Barrel-Bombs~C00 are small and handy<NEWLINE>~C05time bombs~C00! They can be ~C05placed by<NEWLINE>hitting the ~B03 button~C00! Although not very<NEWLINE>powerful, they can be used to distract<NEWLINE>monsters who hate the blast and noise of a<NEWLINE>~C06Large Barrel-Bomb~C00, so mastering their<NEWLINE>uses can pay off in spades!
+But be careful not to get caught in the blast,<NEWLINE>~C05as a hunter can be damaged as well~C00! If<NEWLINE>you blow yourself up, the Quest will end in<NEWLINE>failure, not to mention a whole lot of sadness<NEWLINE>and shame. You'll never see your kids... Or<NEWLINE>eat another gourmet dinner... ~C05So be extra<NEWLINE>careful to not end up blown up~C00!
+There is one more point you should be aware<NEWLINE>of. Gunpowder is very sensitive to humidity.<NEWLINE>~C05If it is raining or snowing, you will not<NEWLINE>be able to use a ~C06Small Barrel-Bomb~C05<NEWLINE>outdoors~C00, so keep that in mind!
+A powerful bomb that ~C05explodes on impact~C00...<NEWLINE>That could only be the ~C06Large Barrel-Bomb~C00! <NEWLINE>~C05Two ~C06Large Barrel-Bombs~C05 can be placed<NEWLINE>on the Map~C00 at once. Use the ~B03 button to <NEWLINE>place a bomb. The high damage they cause can <NEWLINE>turn the tide of battle in a single blast! <NEWLINE>~C03~B03 button: Use item
+The ~C06Large Barrel-Bomb~C00 will explode if<NEWLINE>hit with a Gunner's shell or struck with a<NEWLINE>~C06Stone~C00. You can also trigger a<NEWLINE>secondary explosion by hitting it with the<NEWLINE>blast of a ~C06Small Barrel-Bomb~C00. ~C05But<NEWLINE>if you hit it accidentally with your weapon,<NEWLINE>beware~C00! And don't even think about kicking it!
+There is one more point you should be aware<NEWLINE>of. Gunpowder is very sensitive to humidity.<NEWLINE>~C05If it is raining or snowing, you will not<NEWLINE>be able to use a ~C06Large Barrel-Bomb~C05<NEWLINE>outdoors~C00, so keep that in mind!
+A ~C06Smoke Bomb~C00 is an item that allows<NEWLINE>you to ~C05conceal your position in smoke~C00.<NEWLINE>It can be put into action by using the ~B03<NEWLINE>button. It is the perfect item for ~C05running<NEWLINE>away from battle~C00, or just ~C05setting the<NEWLINE>mood for a dramatic entrance~C00! <NEWLINE>~C03~B03 button: Use item
+However! ~C05If a monster already has its<NEWLINE>sights set on you, the ~C06Smoke Bomb~C05 will<NEWLINE>have no effect~C00. That's why it is important<NEWLINE>that you stay aware of your enemy's condition.
+The power to thaw a frozen body and warm a<NEWLINE>chilled heart... This dream has become a<NEWLINE>reality with the ~C06Hot Drink~C00!
+As you know, ~C05traveling through cold<NEWLINE>environments wreaks havoc on your Stamina~C00. <NEWLINE>Your ~C06Stamina gauge~C00 will see its upper<NEWLINE>limit decrease faster than normal in<NEWLINE>these environments.
+But with a ~C06Hot Drink~C00, you have nothing<NEWLINE>to worry about. That's because it will<NEWLINE>~C05eliminate the effects of the ~C06cold~C05<NEWLINE>for a set duration of time~C00. Although if<NEWLINE>you have trouble with hot food or drink, you<NEWLINE>might want to ~C05blow on it~C00 a few times<NEWLINE>before taking a drink!
+Just because you've paid attention to my<NEWLINE>~C06Advice~C00 does not mean that you have<NEWLINE>guaranteed your ability to win! Allow me to<NEWLINE>give you some words of encouragement to cheer<NEWLINE>up that ~C05pouty face of yours~C00!
+Among the monsters, there are some ~C05who<NEWLINE>will try to recover their health when<NEWLINE>injured~C00. If you aren't able to prevent<NEWLINE>them from doing this, there is absolutely no<NEWLINE>way you will defeat them.
+For instance, it seems the ~C06Giadrome~C00<NEWLINE>likes to run away from a hunter ~C05and head<NEWLINE>to another area to recover~C00. That means, to<NEWLINE>put an end to the beast, ~C05you have to make<NEWLINE>sure it cannot run away~C00!
+This job doesn't end at simply obstructing its<NEWLINE>escape route, ~C05you must use items and try<NEWLINE>to restrict its movements as well~C00. Hah Hah<NEWLINE>Hah! That's why I was nice enough to give you<NEWLINE>so many items! ~C05I know... I thought it was<NEWLINE>awfully clever of me as well~C00!
+Monsters are living beings. ~C05If a battle<NEWLINE>drags on, they may become thirsty~C00, or<NEWLINE>~C05they may even become tired and require a<NEWLINE>break~C00. If you can predict their actions,<NEWLINE>~C05you can quickly become a thorn in their<NEWLINE>side~C00 all the way to victory! ~C05Show<NEWLINE>those beasts the little devil inside~C00!
+Heh Heh Heh! Excellent ~C06Hunting~C00! Truly<NEWLINE>well done! However, there are many beasts in<NEWLINE>the world much more powerful than a<NEWLINE>~C06Giadrome~C00. Yet no matter how powerful<NEWLINE>they are, use your wits and items to get a<NEWLINE>grip on the situation! ~C05The most important<NEWLINE>point is how you use your items and wit~C00!
+Heh Heh Heh! Incredible ~C06Capture~C00! Very<NEWLINE>well done! The key to executing a successful<NEWLINE>~C06Capture~C00 is figuring out how to weaken<NEWLINE>an opponent. A monster will tell you its<NEWLINE>condition via its movements! ~C05Watch over<NEWLINE>your opponent like a hawk~C00!
+I take my responsibility as your esteemed<NEWLINE>instructor quite serious. That is why my next<NEWLINE>lesson about ~C06Swords~C00 will be quite<NEWLINE>severe. I hope you have prepared yourself,<NEWLINE>because I expect nothing less!
+Hmm... I see you are indeed prepared! Very<NEWLINE>well. The first nugget of wisdom I feel I<NEWLINE>should share involves ~C05shared controls<NEWLINE>amongst melee weapons~C00. The information on<NEWLINE>these controls is already included in the<NEWLINE>~C06Advice~C00 section! Please check there for the<NEWLINE>basics of drawing a weapon or putting it away.
+Alright, now allow me to present the controls<NEWLINE>for ~C06Sword~C00 attacks!<NEWLINE>~C03~B02 button: Slice down<NEWLINE>~B00 button: Spin-slice<NEWLINE>~B02 button + ~B00 button: Jumping attack
+If you properly time your button presses, you<NEWLINE>can unleash a ~C05combo attack~C00. Also note<NEWLINE>that ~C05you can also attack while Guarding~C00! <NEWLINE>For details on Guarding, please refer to<NEWLINE>it in the ~C06Advice~C00 section!<NEWLINE>~C03~B05 button + ~B00 button: Guard attack
+The most important aspect of the Sword is the<NEWLINE>fact that ~C05you can still use items while<NEWLINE>Guarding~C00. Being able to use a recovery<NEWLINE>item or set a trap during the heat of battle<NEWLINE>is ~C05ridiculously~C00 convenient!<NEWLINE>~C03~B03 button and ~B05 button: Use item
+So what do you think? Do you understand the<NEWLINE>true excellence of Swords now? The weapon may<NEWLINE>be light; however, that means it combines<NEWLINE>~C05ease of use~C00 with ~C05high mobility~C00. The<NEWLINE>trick to using a Sword is figuring out how to<NEWLINE>utilize these special abilities! ~C05Now get<NEWLINE>to slicing~C00!
+Kaching! By pressing the ~B05 button, you can<NEWLINE>use your shield to ~C06Guard~C00. ~C05It trades<NEWLINE>Stamina for the ability to block damage<NEWLINE>from attacks~C00. If there is no way to escape<NEWLINE>an attack, don't hesitate to use ~C06Guard~C00!
+If your Sword is sheathed but you feel danger<NEWLINE>approaching, implement the Sword's secret<NEWLINE>technique, ~C06Instant Guard~C00! If you<NEWLINE>master using this technique at a moment's<NEWLINE>notice, you can ward off would-be attackers! <NEWLINE>~C03Instant Guard: Hold ~B05 button and press<NEWLINE>~B00 button + ~B02 button
+However, you must not overestimate this<NEWLINE>ability! ~C05If you are attacked from the<NEWLINE>opposite side of your shield, you will<NEWLINE>undoubtedly take damage~C00! Moreover, there<NEWLINE>are attacks such as gas or special breath<NEWLINE>attacks against which ~C05Guarding will<NEWLINE>have no impact at all~C00!
+An attack that is swiftly evaded is an attack<NEWLINE>that causes no damage. ~C05Even a Guard like<NEWLINE>that of an iron wall is no match for an<NEWLINE>evade~C00. Evade by the slimmest of margins or<NEWLINE>guard with firm strength? That is the profound<NEWLINE>choice enjoyed by users of the Sword!
+I take my responsibility as your esteemed<NEWLINE>instructor with the utmost seriousness. That<NEWLINE>is why my next lesson about ~C06Dual<NEWLINE>Blades~C00 will be harsh indeed. I hope you<NEWLINE>have prepared yourself, because knowing is<NEWLINE>half the battle!
+Hmm... I see you are indeed prepared! Very<NEWLINE>well. The first nugget of wisdom I feel I<NEWLINE>should share involves ~C05shared controls<NEWLINE>amongst melee weapons~C00. The information on<NEWLINE>these controls is already included in the<NEWLINE>~C06Advice~C00 section! Please check there for the<NEWLINE>basics of drawing a weapon or putting it away.
+Alright, now allow me to present the controls<NEWLINE>for attacking with ~C06Dual Blades~C00!<NEWLINE>~C03~B02 button: Slice down<NEWLINE>~B02 button + ~B00 button: Thrust attack<NEWLINE>~B00 button: Right spin-slice<NEWLINE>Analog stick left + ~B00 button: Left spin-slice
+By pressing the ~B02 button repeatedly, you<NEWLINE>can trigger a ~C05combo attack~C00. ~C05After<NEWLINE>each attack, you can hit the ~B01 button to<NEWLINE>evade~C00. Use this to avoid a monster's<NEWLINE>attack with dazzling agility!
+There is also the dreadful ~C06Demonization~C00<NEWLINE>ability you can trigger by pressing the<NEWLINE>~B05 button! ~C05Demonization trades Stamina to<NEWLINE>unlock a mysterious strength for a set period<NEWLINE>of time~C00. Details of this mysterious ability<NEWLINE>are outlined in a special, separate section.
+Their flashy, nimble attacks along with the<NEWLINE>explosive power of ~C06Demonization~C00 makes<NEWLINE>the Dual Blades a fascinating weapon choice.<NEWLINE>~C05Their usage requires unusually high<NEWLINE>dexterity, but once you get used to working<NEWLINE>with Dual Blades, you will be addicted~C00! So<NEWLINE>go get spinning until your arms fall off! 
+You may be thinking, "Here's my chance!" When<NEWLINE>that thought enters your mind, don't think,<NEWLINE>look at the ~B05 button and ~C05Push~C00,<NEWLINE>~C05Push~C00, ~C05Push~C00! OK... You only<NEWLINE>have to push the ~B05 button once. That one<NEWLINE>press will unlock an inner power from deep<NEWLINE>within your body - ~C06Demonization~C00!
+~C05While you are Demonized, your Stamina will<NEWLINE>rapidly decrease~C00. However, in return, your<NEWLINE>Dual Blades will glow red, and a tremendous<NEWLINE>attacking strength will be yours! ~C05Some<NEWLINE>new methods of attack will be unlocked~C00!<NEWLINE>Press the ~B05 button to cancel Demonization.<NEWLINE>~C03~B05 button: Release Demonization
+One of these catastrophic attacks is the<NEWLINE>~C06Devilish Dance~C00! This technique causes<NEWLINE>the blades to dance through the air at<NEWLINE>tremendous speeds, slicing through opponents<NEWLINE>instantaneously! The attack is exhilarating!<NEWLINE>~C03~B00 button + ~B02 button (while demonized):<NEWLINE>Devilish Dance 
+Once again, your esteemed instructor will<NEWLINE>instruct you in the ways of the hunting world.<NEWLINE>This lesson will cover the ~C06Great<NEWLINE>Sword~C00, so I hope you've done a great job<NEWLINE>in preparing yourself!
+Hmm... I see you are indeed prepared! Very<NEWLINE>well. The first nugget of wisdom I feel I<NEWLINE>should share involves ~C05shared controls<NEWLINE>amongst melee weapons~C00. The information on<NEWLINE>these controls is already included in the<NEWLINE>~C06Advice~C00 section! Please check there for the<NEWLINE>basics of drawing a weapon or putting it away.
+Alright, now allow me to present the great<NEWLINE>controls for attacks with the ~C06Great Sword~C00! <NEWLINE>~C03~B02 button: Vertical slice<NEWLINE>~B00 button: Side-slice<NEWLINE>~B00 button + ~B02 button: Slice up 
+~C05You can connect the various attacks into<NEWLINE>one long combo~C00. By linking the various<NEWLINE>attacks, you will become one endless flow of<NEWLINE>destruction! At first glace, you may think<NEWLINE>that the ~C06Great Sword~C00 is the perfect<NEWLINE>weapon, but it does have its weakness. It is<NEWLINE>~C05incredibly heavy~C00. 
+This heft means that ~C05the ~C06Great<NEWLINE>Sword~C05 is swung slower than a sword~C00 and<NEWLINE>~C05you cannot run with a ~C06Great Sword~C05<NEWLINE>at the ready position~C00. Be aware of these<NEWLINE>limitations.  But if you master this weapon<NEWLINE>you can be confident in both offense and<NEWLINE>defense!
+Bahching! By pressing the ~B05 button, you<NEWLINE>can use your enormous sword as a shield to<NEWLINE>~C06Guard~C00. ~C05It trades Stamina for the<NEWLINE>ability to block damage from attacks~C00. <NEWLINE>If there is no way to escape an attack, don't<NEWLINE>hesitate to use ~C06Guard~C00!
+If your Great Sword is not at the ready but<NEWLINE>you feel danger approaching, implement its<NEWLINE>secret technique, ~C06Instant Guard~C00! If<NEWLINE>you master using this technique at a moment's<NEWLINE>notice, you can ward off would-be attackers!<NEWLINE>~C03Instant Guard: Hold ~B05 button and press<NEWLINE>~B00 button + ~B02 button
+Just don't rely on this technique too heavily!<NEWLINE>~C05If you are attacked from a direction not<NEWLINE>covered by the weapon, you will take<NEWLINE>damage~C00! Not to mention that ~C05no form of<NEWLINE>Guarding is going to be effective against<NEWLINE>certain attacks~C00 such as gas or special<NEWLINE>breath attacks!
+Unlike other weapons, when Guarding with the<NEWLINE>Great Sword, the blade of the weapon itself <NEWLINE>actually becomes your shield. Due to this, as<NEWLINE>you Guard, your ~C06Sharpness~C05 will slowly<NEWLINE>decrease~C00! If you rely on Guard too heavily,<NEWLINE>you'll put a great deal of wear and tear on<NEWLINE>the blade... Make sure you don't ruin it!
+Finally, the day has come when I will teach<NEWLINE>you a truly secret technique! The ~C06Charge<NEWLINE>slice~C05 is the Great Sword's mysterious<NEWLINE>special attack~C00. I was going to keep this<NEWLINE>technique to myself, but then I thought you<NEWLINE>might be able to master it... Don't let me<NEWLINE>down!
+It might be intimidating at first, but<NEWLINE>its usage is rather simple. ~C05That's why you<NEWLINE>can use it as much as you like, you busy<NEWLINE>bee~C00! The power you unleash from your blade<NEWLINE>~C05depends on how long you charge the attack~C00!<NEWLINE>~C03Hold the ~B02 button: Charge power<NEWLINE>~Release ~B02 button: Charge slice
+However, when you are charging up for the<NEWLINE>attack, you cannot evade or Guard. You will be<NEWLINE>left ~C05completely defenseless~C00. There is<NEWLINE>just one last thing to remember... If you<NEWLINE>score a hit, ~C05you must remember to strike<NEWLINE>your glorious victory pose~C00!
+Once again, your esteemed instructor will<NEWLINE>instruct you in the ways of the hunting world.<NEWLINE>This lesson will cover the long and short of<NEWLINE>the ~C06Long Sword~C00, so I hope you are<NEWLINE>properly prepared!
+Hmm... I see you are indeed prepared! Very<NEWLINE>well. The first nugget of wisdom I feel I<NEWLINE>should share involves ~C05shared controls<NEWLINE>amongst melee weapons~C00. The information on<NEWLINE>these controls is already included in the<NEWLINE>~C06Advice~C00 section! Please check there for the<NEWLINE>basics of drawing a weapon or putting it away.
+Alright, now allow me to present the controls<NEWLINE>for attacking with the ~C06Long Sword~C00!<NEWLINE>~C03~B02 button: Forward slice<NEWLINE>~B00 button: Thrust<NEWLINE>~B00 button + ~B02 button: Sweeping slice
+Each attack can be linked to another attack.<NEWLINE>~C05However there are some attacks that cannot<NEWLINE>be linked in a combo~C00, so make sure you<NEWLINE>remember all of the connections. Also, if you<NEWLINE>press the ~B01 button, ~C05you can immediately<NEWLINE>roll to evade~C00!
+As you score hits on opponents, ~C05the red<NEWLINE>gauge below the Stamina gauge~C00 will begin<NEWLINE>to fill up. This gauge is called the<NEWLINE>~C06Spirit gauge~C00 and will be covered more<NEWLINE>thoroughly in another section! Now get<NEWLINE>swinging!
+The ~C06Spirit gauge~C00 is located under the Stamina<NEWLINE>gauge. If you allow this gauge to charge <NEWLINE>fully, it will blink and ~C05your Attack and <NEWLINE>Sharpness will increase for a limited time~C00. <NEWLINE>~C05You'll love that swinging lifestyle~C00!<NEWLINE>~C03A full Spirit gauge increases Attack<NEWLINE>and Sharpness.
+Muhahahahaha! Did you like my evil laugh!?<NEWLINE>Well, then you will surely pay attention when<NEWLINE>I tell you to press the ~B05 button. Why?<NEWLINE>Because then you can transfer all your stored<NEWLINE>Spirit energy into the blade and attack. It is<NEWLINE>aptly named the ~C06Spirit Blade~C00! I've got<NEWLINE>a knack for naming, don't I?
+You can press the ~B05 button to activate the<NEWLINE>~C06Spirit Blade~C00 at any time; however, if<NEWLINE>you do not have any power charged in your<NEWLINE>~C06Spirit gauge~C00 this will have very little<NEWLINE>effect. Store energy and then use the attack!<NEWLINE>~C03~B05 button: Spirit Blade
+The true worth of the ~C06Spirit Blade~C00 is<NEWLINE>seen when executing a combo. If used properly<NEWLINE>during a combo, you may trigger a ~C05special<NEWLINE>combo technique~C00! Why don't you take a<NEWLINE>swing at it!
+Once again, your esteemed instructor will<NEWLINE>instruct you in the ways of the hunting world.<NEWLINE>This lesson will hammer into you the basics of<NEWLINE>the ~C06Hammer~C00, so I hope you are properly<NEWLINE>prepared!
+Hmm... I see you are indeed prepared! Very<NEWLINE>well. The first nugget of wisdom I feel I<NEWLINE>should share involves ~C05shared controls<NEWLINE>amongst melee weapons~C00. The information on<NEWLINE>these controls is already included in the<NEWLINE>~C06Advice~C00 section! Please check there for the<NEWLINE>basics of drawing a weapon or putting it away.
+Alright, now allow me to present the controls<NEWLINE>for attacking with the ~C06Hammer~C00!<NEWLINE>~C03~B02 button: Smash down<NEWLINE>~B00 button: Side-smash<NEWLINE>~B05 button: Charge power
+By pressing the ~B02 button multiple times,<NEWLINE>you can ~C05string together a combo of up to 3<NEWLINE>~C06Smash down~C05 attacks~C00. For more<NEWLINE>information about ~C06Charge power~C00 refer<NEWLINE>to the special section within ~C06Advice~C00!<NEWLINE>It's something you ~C05really should<NEWLINE>check~C00!
+Continuing on, there are some additional<NEWLINE>points to Hammer home. When fighting a large<NEWLINE>monster, ~C05a forceful hammer strike to the<NEWLINE>head will temporarily stun the beast~C00! Use<NEWLINE>this to your advantage! 
+The Hammer also allows you ~C05to run around<NEWLINE>with the weapon drawn~C00, and more than makes<NEWLINE>up for its inability to Guard with ludicrous<NEWLINE>Attack power! Now go lay the smash down!
+The ~C06Charge attack~C00 is a Hammer's most<NEWLINE>incredible ability. If you can master the<NEWLINE>devastating attacks this ~C05charged state~C00<NEWLINE>creates, you'll be popular with members of the<NEWLINE>opposite sex who love a down and dirty<NEWLINE>powerful attack! Or maybe they'll like you for<NEWLINE>~C05your massive muscle-bound arms~C00!
+The longer you hold the ~B05 button, the more<NEWLINE>explosive power you can charge. ~C05Depending<NEWLINE>on how long you charge, your attack will reach<NEWLINE>one of three levels of power~C00. That being<NEWLINE>said, ~C05as you charge power, your Stamina<NEWLINE>will decrease~C00. So make sure to keep an eye<NEWLINE>on your Stamina gauge!
+If you fully charge your Hammer and release<NEWLINE>the ~B05 button while moving, you will unleash<NEWLINE>the secret ~C05Whirlwind~C00 attack. This will<NEWLINE>knock any enemies around you straight off<NEWLINE>their feet! ~C05And if you hit the ~B02 button<NEWLINE>while spinning...~C00! Hah Hah Hah! I don't<NEWLINE>want to spoil your fun! Try it out yourself!
+Once again, your esteemed instructor will<NEWLINE>instruct you in the ways of the hunting world.<NEWLINE>This lesson will teach you to soothe or<NEWLINE>bludgeon a savage beast with the sounds of the<NEWLINE>~C06Hunting Horn~C00! The concert is about to<NEWLINE>begin, so ready thyself!
+Hmm... I see you are indeed prepared! Very<NEWLINE>well. The first nugget of wisdom I feel I<NEWLINE>should share involves ~C05shared controls<NEWLINE>amongst melee weapons~C00. The information on<NEWLINE>these controls is already included in the<NEWLINE>~C06Advice~C00 section! Please check there for the<NEWLINE>basics of drawing a weapon or putting it away.
+Alright, now allow me to present the controls<NEWLINE>for attacking with the ~C06Hunting Horn~C00!<NEWLINE>~C03~B02 button: Right swing<NEWLINE>Analog stick left + ~B02 button: Left swing<NEWLINE>~B00 button: Poke<NEWLINE>~B00 button + ~B02 button: Overhead smash
+If you properly time your button presses, you<NEWLINE>can unleash a ~C05combo attack~C00. Pressing<NEWLINE>the ~B01 button while attacking allows you to<NEWLINE>integrate an evasive roll into these combos!<NEWLINE>Just like a Hammer, the ~C06Hunting Horn~C00<NEWLINE>allows you ~C05to run with your weapon at the<NEWLINE>ready~C00. 
+However, you won't become band leader just<NEWLINE>using a ~C06Hunting Horn~C00 as a weapon. A<NEWLINE>~C05horn is, after all, something you<NEWLINE>play~C00! Start building up your ~C05lung<NEWLINE>capacity~C00 and refer to the special section<NEWLINE>covering a ~C06Hunting Horn's~C00 musical<NEWLINE>abilities! ~C05Do re mi fa so la ti SMASH~C00!
+Pressing the ~B05 button will start the<NEWLINE>~C06Recital~C00. On the upper part of the<NEWLINE>screen, you will see an ~C05incredibly cute<NEWLINE>little~C06 Music gauge~C00. As you continue<NEWLINE>your ~C06Recital~C00, your notes will be saved<NEWLINE>there.<NEWLINE>~C03~B05 button: Begin/End Recital
+~C05During a Recital, pressing a button will<NEWLINE>change the musical notes~C00. This will cause<NEWLINE>the notes on the screen to change color. The<NEWLINE>color of these notes ~C05depends on the horn~C00.<NEWLINE>~C03During a Recital press the ~B00 button, <NEWLINE>~B03 button, ~B02 button, and ~B00 button +<NEWLINE>~B02 button to change the musical notes.
+There can be up to four notes displayed on the<NEWLINE>~C06Music gauge~C00. ~C05Combining the various<NEWLINE>colors of musical notes will cause various<NEWLINE>effects~C00! ~C05Recitals can also be linked<NEWLINE>in with attacks~C00, so play a tune and then<NEWLINE>bash some skulls!
+Now as a special treat, I will grant you <NEWLINE>some pieces of music for the horn that you<NEWLINE>may borrow!~C05 Ta-da~C00!  <NEWLINE>~C03White - White: Increase foot speed <NEWLINE>Blue - Blue - Red: Light Wind has no effect <NEWLINE>Red - Blue - White: Increase Max Health +10
+What!? You want me to teach you more!? Hah Hah<NEWLINE>Hah! In your house, read the ~C06Hunting Horn<NEWLINE>Sheet Music~C00 in ~C06Melee Weapons Info~C00<NEWLINE>located on your ~C06Bookshelf~C00. ~C05It's a<NEWLINE>great book with lots of musical information<NEWLINE>contained within~C00! You can thank me by<NEWLINE>reading it when you go home!
+Once again, your esteemed instructor will<NEWLINE>instruct you in the ways of the hunting world.<NEWLINE>This lesson will teach you to stab your way to<NEWLINE>success with the ~C06Lance~C00. Prepare<NEWLINE>yourself for a poignant lesson!
+Hmm... I see you are indeed prepared! Very<NEWLINE>well. The first nugget of wisdom I feel I<NEWLINE>should share involves ~C05shared controls<NEWLINE>amongst melee weapons~C00. The information on<NEWLINE>these controls is already included in the<NEWLINE>~C06Advice~C00 section! Please check there for the<NEWLINE>basics of drawing a weapon or putting it away.
+Alright, now allow me to present the controls<NEWLINE>for attacking with the ~C06Lance~C00! <NEWLINE>~C03~B02 button: Medium thrust <NEWLINE>~B00 button: Upper thrust <NEWLINE>~B02 button + ~B00 button: Charge <NEWLINE>~B05 button + ~B00 button or ~B02 button: <NEWLINE>Guard attack
+When your weapon is at the ready, pressing the<NEWLINE>~B01 button will allow you to perform a<NEWLINE>~C06back-step~C00. If you use the analog stick<NEWLINE>during a ~C06medium thrust~C00 or ~C06upper<NEWLINE>thrust~C00, you can perform a quick ~C06side-step~C00.<NEWLINE>~C05These steps can be connected up to three<NEWLINE>times~C00!
+The ~C06medium thrust~C00 and ~C06upper<NEWLINE>thrust~C00 can further be ~C05combined up to<NEWLINE>three times in a combo attack~C00! Add in a<NEWLINE>side-step or a back-step, ~C05and you can<NEWLINE>match your combo to the movements of your<NEWLINE>opponent, continuing the attack~C00!
+The most noteworthy elements of the Lance are<NEWLINE>its ability to launch medium range attacks<NEWLINE>thanks to its length, and its high speed<NEWLINE>Guarding ability. ~C05Pressing the ~B01 button<NEWLINE>causes a back-step instead of a forward<NEWLINE>jump~C00. Once you get used to this, it<NEWLINE>becomes a great asset! Now get stabbing!
+Kaching! By pressing the ~B05 button, you can<NEWLINE>use your shield to ~C06Guard~C00. ~C05It<NEWLINE>trades Stamina for the ability to block<NEWLINE>damage from attacks~C00. If there is no way<NEWLINE>to escape an attack, don't hesitate to use<NEWLINE>~C06Guard~C00!
+If your Lance is not at the ready but you feel<NEWLINE>danger approaching, implement the Lance's<NEWLINE>secret technique, ~C06Instant Guard~C00! If<NEWLINE>you master using this technique at a moment's<NEWLINE>notice, you can ward off would-be attackers! <NEWLINE>~C03Instant Guard: Hold ~B05 button and press<NEWLINE>~B00 button + ~B02 button
+However, you must not overestimate this<NEWLINE>ability! ~C05If you are attacked from the<NEWLINE>opposite side of your shield, you will<NEWLINE>undoubtedly take damage~C00! Moreover, there<NEWLINE>are attacks such as gas or special breath <NEWLINE>attacks against which ~C05Guarding will<NEWLINE>have no impact at all~C00!
+Compared to other types of weapons, the<NEWLINE>Lance's bulky shield is incredibly reliable!<NEWLINE>~C05It can take tons of punishment and still<NEWLINE>block any damage to its user~C00! 
+That's not all! ~C05You can move and even<NEWLINE>attack from a Guard position~C00! They say a<NEWLINE>Lance has a rock-hard Guard you know.<NEWLINE>Actually, I say that... I like alliteration. I<NEWLINE>also say that Defense is the greatest attack!<NEWLINE>Wait... That's not right...
+Once again, your esteemed instructor will<NEWLINE>instruct you in the ways of the hunting world.<NEWLINE>Sometimes you feel like using a gun...<NEWLINE>Sometimes you wanna melee. But the<NEWLINE>~C06Gunlance~C00 has both abilities so you<NEWLINE>don't have to choose! Prepare for a lesson in<NEWLINE>diversity!
+Hmm... I see you are indeed prepared! Very<NEWLINE>well. The first nugget of wisdom I feel I<NEWLINE>should share involves ~C05shared controls<NEWLINE>amongst melee weapons~C00. The information on<NEWLINE>these controls is already included in the<NEWLINE>~C06Advice~C00 section! Please check there for the<NEWLINE>basics of drawing a weapon or putting it away.
+Alright, now allow me to present the controls<NEWLINE>for attacking with the ~C06Gunlance~C00!<NEWLINE>~C03~B02 button: Forward thrust<NEWLINE>~B00 button + ~B02 button: Upward swing<NEWLINE>~B00 button: Fire<NEWLINE>~B05 button + ~B02 button: Guard attack<NEWLINE>~B02 button while moving: Rushing upward thrust
+When your weapon is at the ready, pressing the<NEWLINE>~B01 button will allow you to perform a<NEWLINE>~C06back-step~C00. If you use the analog stick<NEWLINE>during a ~C06forward thrust~C00 or ~C06upward<NEWLINE>swing~C00, you can perform a quick ~C06side-step~C00.
+The ~C06forward thrust~C00 and ~C06upward<NEWLINE>swing~C00 can further be ~C05combined up to<NEWLINE>three times in a combo attack~C00! Add in a<NEWLINE>side-step or a back-step, ~C05and you can<NEWLINE>match your combo to the movements of your<NEWLINE>opponent, continuing the attack~C00!
+~C05The basics of the Gunlance are very similar<NEWLINE>to the Lance~C00. It has a long, narrow attack<NEWLINE>range, high defensive abilities, and the habit<NEWLINE>forming back-step. Practicing with a Lance<NEWLINE>will also prove beneficial when using the<NEWLINE>Gunlance. Shooting and jabbing and juking, oh<NEWLINE>my! The Gunlance has it all! 
+Even though it is still a melee weapon,<NEWLINE>~C05underneath the Stamina gauge, it has <NEWLINE>brilliantly shining Shell Marks~C00! By just<NEWLINE>pressing the ~B00 button, you can ~C05shoot off<NEWLINE>a shell with a gunpowder bang~C00! <NEWLINE>~C03~B00 button: Fire
+However, unlike a Bowgun, the Gunlance does<NEWLINE>not actually fire real shells. Also, you must<NEWLINE>be careful due to its ~C05short firing<NEWLINE>range~C00. All this bad news comes with some<NEWLINE>good news... ~C05You can fire during an upward<NEWLINE>swing~C00. If you fire upwards, ~C05I have no<NEWLINE>doubt you'll touch the sky~C00!
+When the Shell Marks have all disappeared, you<NEWLINE>must reload your weapon. ~C05While Guarding or<NEWLINE>stepping, press the ~B00 button~C00 to reload.
+There is one thing you must remember about the<NEWLINE>Gunlance. ~C05As you fire, the Sharpness of the<NEWLINE>weapon decreases~C00! If the Sharpness hits<NEWLINE>rock bottom, the Sharpness icon will turn<NEWLINE>bright red, and ~C05you can no longer fire~C00! <NEWLINE>~C03When Sharpness reaches a minimal level, you<NEWLINE>are no longer able to fire.
+The ~C06Gunlance~C00 has another incredible<NEWLINE>ability besides firing. This ability is<NEWLINE>called ~C06Wyvern's Fire~C00! Harnessing principles <NEWLINE>derived from a monster's breath attack, this<NEWLINE>is at the leading edge of technology! <NEWLINE>~C03~B00 button + ~B02 button (while Guarding):<NEWLINE>Load & Activate Wyvern's Fire
+~C06Wyvern's Fire~C00 is incredibly powerful,<NEWLINE>and since it does not use gunpowder, you<NEWLINE>~C05don't have to worry about expending<NEWLINE>shots~C00! However, after activation,<NEWLINE>Wyvern's Fire has a long refresh time, so be<NEWLINE>aware that ~C05when the heat slats are open,<NEWLINE>you cannot activate Wyvern's Fire~C00!
+Of course, using ~C06Wyvern's Fire~C00 also<NEWLINE>~C05affects the Gunlance's Sharpness~C00. This<NEWLINE>is why it is important to recognize the<NEWLINE>increased need for ~C06Whetstones~C00 when<NEWLINE>using the Gunlance. Soon you'll be preaching<NEWLINE>the ~C06Whetstone's~C00 praises far and wide!
+The ~C06Gunlance~C00 is a weapon packed with<NEWLINE>power. While it may seem difficult to operate,<NEWLINE>if you can master its intricacies, you will be<NEWLINE>unstoppable. Just how awesome are Gunlances?<NEWLINE>So awesome. And being awesome is about the<NEWLINE>most important thing in the world, if I do say<NEWLINE>so myself. And I do. Because I can.
+Ah yes! It is I! Your esteemed instructor!<NEWLINE>Today I shall instruct you on the finer points<NEWLINE>of the ~C06Light Bowgun~C00. It will require<NEWLINE>all of your attention and I expect you to be<NEWLINE>100% prepared and diligent. I will accept<NEWLINE>nothing less! Now prepare to proceed!
+Hmm... It seems you are as diligent as I had<NEWLINE>hoped. Unlike melee weapons, there are no<NEWLINE>major operational differences between the<NEWLINE>~C06Light~C00 and ~C06Heavy~C00 Bowguns.<NEWLINE>Consult the ~C06Advice~C00 section to confirm<NEWLINE>the basic usage for each weapon class!
+Now allow me to instruct you on the merit of<NEWLINE>the ~C06Light Bowgun~C00. The key point to the<NEWLINE>~C06Light Bowgun~C00 is its ~C05ability to<NEWLINE>handle an abundance of ammunition~C00! Oh, and<NEWLINE>it also allows ~C05incredibly light footwork~C00!<NEWLINE>So the two merits of the ~C06Light Bowgun~C00... <NEWLINE>Doh! I couldn't keep it to just one!
+Oh, and there's another one I forgot! When<NEWLINE>using the Light Bowgun, specific ammo types<NEWLINE>allow you to ~C06Rapid Fire~C00! ~C05As you<NEWLINE>shoot each shell, it will automatically fire<NEWLINE>multiple projectiles~C00! It's an incredible<NEWLINE>evolution of technology! 
+The Light Bowgun also has the ability to fire<NEWLINE>a variety of support shells. It is a weapon<NEWLINE>with a variety of tactics and uses, however it<NEWLINE>is also said that ~C05using a Light Bowgun<NEWLINE>will test the skills of its user~C00! Keep<NEWLINE>that in mind! ~C05Happy shooting~C00!
+Now I shall inform you of the various parts<NEWLINE>that can be used to ~C06Improve~C00 the<NEWLINE>~C06Light Bowgun~C00. You can upgrade various<NEWLINE>parts at the ~C06Crafting Shop~C00 in the<NEWLINE>village, so ~C05don't even think of asking me<NEWLINE>to do it~C00!
+Attaching a ~C06Silencer~C00 to your Bowgun<NEWLINE>will ~C05quiet the sound caused by firing the<NEWLINE>weapon~C00. This means ~C05monsters will have<NEWLINE>a harder time honing in on your location~C00!
+The ~C06Long Barrel~C00 extends the barrel<NEWLINE>normally found on the ~C06Bowgun~C00. Thanks<NEWLINE>to this barrel ~C05the deviation on the shell<NEWLINE>is reduced, increasing its accuracy~C00.It<NEWLINE>also increases muzzle velocity, so you can<NEWLINE>expect an overall increase in performance!
+So you want to put both on your Light Bowgun!?<NEWLINE>Hah Hah Hah! I can see why, so I'll forgive<NEWLINE>you for being greedy! ~C05The bad news is that you<NEWLINE>can only put one of these parts on at a time~C00.<NEWLINE>So pick the part the suits your style best!
+Ah yes! It is I! Your esteemed instructor!<NEWLINE>Today I shall instruct you on the finer points<NEWLINE>of the ~C06Heavy Bowgun~C00. It will require<NEWLINE>all of your attention and I expect you to be<NEWLINE>100% prepared and diligent. I will accept<NEWLINE>nothing less! Now prepare to proceed!
+Hmm... It seems you are as diligent as I had<NEWLINE>hoped. Unlike melee weapons, there are no<NEWLINE>major operational differences between the<NEWLINE>~C06Light~C00 and ~C06Heavy~C00 Bowguns.<NEWLINE>Consult the ~C06Advice~C00 section to confirm<NEWLINE>the basic usage for each weapon class!
+I shall now instruct you on the merit of the<NEWLINE>~C06Heavy Bowgun~C00. This can be summed up in<NEWLINE>one phrase - "~C05overwhelming firepower~C00"!
+Compared to the ~C06Light Bowgun~C00, each<NEWLINE>shot is incredibly powerful. Furthermore,<NEWLINE>~C05there are numerous attack oriented shells<NEWLINE>among those available for use~C00. Even at<NEWLINE>long range, you can score massive damage.
+However, one of the Heavy Bowgun's faults must<NEWLINE>be noted. ~C05When your weapon is at the<NEWLINE>ready, it is impossible to run~C00. Your<NEWLINE>movement speed will be greatly reduced, so<NEWLINE>planning ahead is of the utmost importance!<NEWLINE>Now let's get to business!
+Now I shall inform you of the various parts<NEWLINE>that can be used to ~C06Improve~C00 the<NEWLINE>~C06Heavy Bowgun~C00. You can upgrade various<NEWLINE>parts at the ~C06Crafting Shop~C00 in the<NEWLINE>village, so ~C05don't even think of doing it<NEWLINE>yourself~C00!
+By attaching a ~C06Shield~C00, ~C05it will<NEWLINE>allow you to automatically Guard when on the<NEWLINE>receiving end of an attack~C00. While you<NEWLINE>won't reap any benefits when firing or<NEWLINE>reloading, being able to Guard while walking<NEWLINE>is a huge plus. This is a perfect way to make<NEWLINE>up for your decreased foot speed!
+The ~C06Power Barrel~C00 attaches to the<NEWLINE>barrel normally found on the ~C06Bowgun~C00.<NEWLINE>While I am not terribly versed on the<NEWLINE>specifics, ~C05attaching this to your Bowgun<NEWLINE>will increase Attack power~C00! If you want to<NEWLINE>expound upon the power of the ~C06Heavy<NEWLINE>Bowgun~C00, this is the perfect upgrade!
+So you want to put both on your Heavy Bowgun!?<NEWLINE>Hah Hah Hah! I can see why, so I'll forgive<NEWLINE>you for being greedy! ~C05The bad news is that you<NEWLINE>can only put one of these parts on at a time~C00.<NEWLINE>So pick the part the suits your style best!
+Ah yes! It is I! Your esteemed instructor!<NEWLINE>Today I shall instruct you on the finer points<NEWLINE>of the ~C06Bow~C00. This lesson will be<NEWLINE>especially strict and harsh, so I expect you<NEWLINE>to be prepared! I will accept nothing less!
+That is the response I expected from you! As a<NEWLINE>long range weapon, the Bow has ~C05a different<NEWLINE>feeling than a ~C06Bowgun~C00. Its controls<NEWLINE>are also unique, meaning careful study is<NEWLINE>required to properly use the Bow. Thus it is<NEWLINE>highly recommended you consult the ~C06Advice~C00<NEWLINE>section for details.
+Now allow me to present the controls for<NEWLINE>attacking with the ~C06Bow~C00! <NEWLINE>~C03~B00 button: Melee attack<NEWLINE>~B02 button: Draw bow<NEWLINE>Hold ~B02 button (while bow is drawn): Charge<NEWLINE>Release ~B02 button: Fire<NEWLINE>~B05 button + directional buttons: Aim
+Pressing the ~B01 button to evade ~C05while<NEWLINE>running will cause a forward roll~C00.<NEWLINE>However, when your Bow is at the ready, ~C05it<NEWLINE>will cause you to back-step if you are<NEWLINE>standing still~C00. Use this to evade and also<NEWLINE>adjust attack distance!<NEWLINE>~C03The ~B01 button allows two types of evades.
+Another one of the joys of the ~C06Bow~C00<NEWLINE>when compared to the ~C06Bowgun~C00 is the<NEWLINE>fact that the Bow has ~C05no limit on the<NEWLINE>number of shots that can be fired~C00! Fire<NEWLINE>away until you are completely satisfied!<NEWLINE>~C05Just remember to think of the environment~C00!
+If you continue to hold the ~B02 button after<NEWLINE>the bow is drawn, ~C05you can consume Stamina<NEWLINE>and charge that strength in the Bow~C00.<NEWLINE>Depending on how long you charge, ~C05you will<NEWLINE>fire multiple arrows on varied trajectories~C00!
+Moreover, ~C05you can run, even when the Bow<NEWLINE>has been drawn~C00! Properly using the Bow<NEWLINE>while exploiting this special ability is quite<NEWLINE>exhilarating, but it will require a lot of<NEWLINE>practice on the part of the Hunter! That means<NEWLINE>you!
+In the ~C06Item Window~C00, you can select<NEWLINE>bottles of Arrow Coatings to dip the heads of<NEWLINE>your arrows into. Firing an arrow that has<NEWLINE>been dipped in a coating will ~C05infuse it <NEWLINE>with the qualities of the substance it has<NEWLINE>been exposed to~C00!  <NEWLINE>~C03~B00 button + ~B02 button: Apply Coating
+In the ~C06Item Window~C00 on the bottom right<NEWLINE>of the screen, only the currently equipped<NEWLINE>Arrow Coating is colored ~C05yellow~C00. Keep<NEWLINE>this distinction in mind when you attempt to<NEWLINE>switch to another bottle. 
+You must also pay attention to the ~C05upper<NEWLINE>left portion of the screen~C00! Under the<NEWLINE>Stamina gauge, you will normally see<NEWLINE>~C06OFF~C00 displayed; however, when a coating<NEWLINE>is applied, ~C05the remaining number of<NEWLINE>arrows with that particular Arrow Coating~C00<NEWLINE>is displayed! Keep this in mind!
+There are various types of coatings, ranging<NEWLINE>from those that can affect the status of its<NEWLINE>victim to those that can raise the strength of<NEWLINE>the arrow. As they can be made via<NEWLINE>~C06Combining~C00, if you plan on using a Bow,<NEWLINE>you must understand how to come into<NEWLINE>possession of each type of Arrow coating.
+Hah Hah Hah! You can't spell instructor<NEWLINE>without instruct! That's why I'm so esteemed<NEWLINE>in this world... Because I instruct! And now I<NEWLINE>shall instruct you on the basics of melee<NEWLINE>weapons!<NEWLINE>~C03~B02 button: Ready weapon<NEWLINE>~B03 button: Put away readied weapon
+The incredibly popular ~C06ready attack~C00 is<NEWLINE>exactly as the name describes, an attack<NEWLINE>that coincides with readying your weapon.<NEWLINE>Although not very powerful, it is quick and<NEWLINE>~C05easy to use~C00! <NEWLINE>~C03~B02 button (while moving): Ready attack
+To kick, all you must do is press the SELECT<NEWLINE>button! However, only the Great Sword allows<NEWLINE>you to kick when the weapon is readied.<NEWLINE>The action of the ~B05 button, on the other<NEWLINE>hand, changes depending on the weapon!<NEWLINE>~C03SELECT button: Kick<NEWLINE>~B05 button: Special ability (depends on weapon)
+While this is not exactly in the realm of<NEWLINE>basic controls, I will tell you about this<NEWLINE>technique because I like you. It is the method<NEWLINE>of triggering your special technique even<NEWLINE>though your weapon is not at the ready! <NEWLINE>~C03Hold ~B05 button, ~B00 button + ~B02 button:<NEWLINE>Special technique from unreadied weapon
+Yep! That about covers the basics!<NEWLINE>~C05Becoming accustomed to each type of<NEWLINE>control~C00, is the first step in a successful<NEWLINE>hunter's lifestyle. For instruction on<NEWLINE>handling your readied weapon, try each<NEWLINE>weapon's ~C06Weapon Mastery~C00 Quest!
+Hah Hah Hah! You can't spell instructor<NEWLINE>without instruct! That's why I'm so esteemed<NEWLINE>in this world... Because I instruct! Now I<NEWLINE>shall instruct you on the basics of the<NEWLINE>Bowgun!  <NEWLINE>~C03~B02 button: Ready weapon<NEWLINE>~B03 button: Put away readied weapon
+Now, as your instructor, allow me to instruct<NEWLINE>you on what to do when your weapon is at the<NEWLINE>ready.<NEWLINE>~C03~B02 button: Reload<NEWLINE>~B04 button + directional buttons: Move sight<NEWLINE>~B00 button: Fire<NEWLINE>~B00 button + ~B02 button: Melee attack
+Precision firing a Bowgun requires you to use<NEWLINE>a scope! The shortcut on the path to mastery<NEWLINE>is paved by properly entering the ~C05scope<NEWLINE>screen~C00 from the normal game screen. <NEWLINE>~C03~B05 button: Switch to scope <NEWLINE>Analog stick: Move sight
+~C05Shells are indispensable to a Bowgun~C00!<NEWLINE>If you see the words ~C05RELOAD~C00 in the<NEWLINE>upper left part of the screen, ~C05Reload<NEWLINE>immediately~C00! After you press the ~B04<NEWLINE>button to open the ~C06Item Window~C00, press<NEWLINE>the ~B01 button or ~B02 button to select which<NEWLINE>type of shell to use!
+Depending on which type of shell you use, the<NEWLINE>benefits of a Bowgun change. You can obtain<NEWLINE>shells by purchasing them or using the<NEWLINE>~C06Combine~C00 command to make your own. If<NEWLINE>you find a type of shell that particularly<NEWLINE>suits your Bowgun, try it out and become a<NEWLINE>true ~C05lord of war~C00!
+<NEW SECTION>
+
+"%s"
+「%s」
+Update Information
+A new movie has been added to<NEWLINE>the Gallery.
+dummy
+New Quest at the Training School.
+dummy
+Monster Log Updated!!
+Length:
+End
+----.-
+Longest:
+Shortest:
+%4d.%1d
+End Reward Payment
+Total Reward:
+dummy
+Contract Fee:
+Reward:
+Quest Cleared
+Quest Failed
+Time Remaining:%3d
+Quest Score:
+Current Money:
+Total Points:
+Lost Points:%7d
+<Fainted: %1d Time(s)>
+<Quest Exp Points>
+<Quest Cleared>
+Bonus Points:%7d
+dummy
+dummy
+dummy
+dummy
+Current Guild Points:
+<Hunter Rank:  %d>
+Time Remaining:%3d
+dummy
+dummy
+Sell Account Items
+Time Remaining:%2d
+Head to the Training School west of the Village.
+Award Acquired!
+A new color, Rainbow, has been<NEWLINE>added to the S-Series armor<NEWLINE>color selection option at the<NEWLINE>Item Box.
+You've received a new award:
+dummy
+dummy
+dummy
+Guild Card<NEWLINE>upgraded.
+dummy
+dummy
+dummy
+dummy
+dummy
+Rank Up!
+Exit
+High Score:
+High Score Updated.
+Account Item Delivery
+%4dz×%2d
+Reward Ttl/Pnt Convert:
+%7dz/%7dpts
+Current Pokke Points:
+%7dz
+%7dpts
+%7dz×2
+%d/%d
+Training School Points Earned
+Clear Time:
+Quest Clear:
+Monsters Slain:
+Time Attack Bonus:
+Item Sale Amount:
+Point Multiplier:
+×%3d%
+Points Earned:
+Records Updated
+%2d:%2d
+End Point Conversion
+Points Earned:
+Pokke Points Equiv:
+Training School Points Converion
+Well, well.<NEWLINE>I don't usually get<NEWLINE>too many visitors<NEWLINE>here. Are you lost,<NEWLINE>youngster?
+What is it, youngster?<NEWLINE>Is there something<NEWLINE>stuck to my face?
+You don't say? What<NEWLINE>business might a<NEWLINE>hunter have with me?
+Can't you take a<NEWLINE>hint, young'un?<NEWLINE>As you can see,<NEWLINE>I'm busy!<NEWLINE>Go on! Be off with<NEWLINE>you then!
+You lazy dog!!<NEWLINE>You can't rely on the<NEWLINE>help of others<NEWLINE>forever! Now off with<NEWLINE>you!
+Come again?<NEWLINE>I'm afraid my hearing<NEWLINE>isn't what it used to<NEWLINE>be. 
+Well I'll be! You have<NEWLINE>a #,<NEWLINE>don't you!? Hmm... You<NEWLINE>wouldn't consider<NEWLINE>trading it for one of<NEWLINE>my prized possessions,<NEWLINE>would you?
+dummy
+Pfft. I should have<NEWLINE>guessed! Now shoo!
+Well, since you're<NEWLINE>here, I'll give you<NEWLINE>this. You take care of<NEWLINE>it now, you hear?
+Well I'll be! You have<NEWLINE>a #,<NEWLINE>don't you!? Hmm... You<NEWLINE>wouldn't consider<NEWLINE>trading it for one of<NEWLINE>my prized possessions,<NEWLINE>would you?
+So you've got a good<NEWLINE>head on those strong <NEWLINE>shoulders! This one's<NEWLINE>a treasure of mine, <NEWLINE>so treat it well!
+Oh my... It looks like<NEWLINE>you are loaded down<NEWLINE>with items!
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+Hey there! It's time<NEWLINE>to go search for some<NEWLINE>treasure.
+Out in the field,<NEWLINE>there are lots of<NEWLINE>hidden treasures. You<NEWLINE>should look everywhere<NEWLINE>for it! 
+You might also find<NEWLINE>treasure when you slay<NEWLINE>a monster.
+If you bring the<NEWLINE>treasure you find to<NEWLINE>me, I will give you<NEWLINE>points for it. Go get<NEWLINE>some treasure!
+Wahhhooo! You found<NEWLINE>some treasure!
+Woooooooooo! This,<NEWLINE>this, this is really<NEWLINE>an incredible<NEWLINE>treasure! 
+You should be able to<NEWLINE>find more treasure if<NEWLINE>you search hard<NEWLINE>enough. Now go out<NEWLINE>there and make me<NEWLINE>proud! 
+Items
+Combine
+Quest Info
+Gestures
+Advice
+Pause
+Status
+Equipment Detail
+Reference
+Options
+Abandon Quest
+--------
+Status Display
+Map Display
+Camera Settings
+Scope Targeting
+Aiming Controls
+Camera Type
+X-Axis Cntl Type
+Status Display
+~C10Map Display~C00
+Camera Settings
+Scope Targeting
+Aiming Controls
+Camera Type
+X-Axis Cntl Type
+ON
+OFF
+ON
+OFF
+NORMAL
+REVERSE1
+REVERSE2
+NORMAL
+REVERSE1
+REVERSE2
+NORMAL
+REVERSE1
+REVERSE2
+TYPE 1
+TYPE 2
+TYPE 3
+TYPE 1
+TYPE 2
+~C10OFF~C05
+~B03 Map Zoom In
+~B03 Map ZoomOut
+~B02 Beacn
+ 　 　~C05《Abandon Quest》~C00<NEWLINE><NEWLINE> Player status will revert to<NEWLINE> that of before beginning the<NEWLINE> Quest. If you want to redo<NEWLINE> this Quest you will have to<NEWLINE> start from the beginning.<NEWLINE> Is this OK?
+Take reward
+End
+Monsters Hunted:
+Monsters Slain:
+Items Delivered:
+FrtIntegrty:
+TwnIntegrty:
+Treasure Points Acquired:
+TtlReward:
+RwdRemain:
+TimeRmain:
+(0% Quest Failure)
+%s%
+%s:
+Paused.
+Delivered Treasure & Points
+Current Treasure Points:%6d
+Total: %4d
+×
+%d Treasure Points Acquired!
+Movement Speed Up
+Attacks Harder To Break
+Attack Up [Lo]
+Attacks More Powerful
+Attack Up [Hi]
+Defense Up [Lo]
+Defense More Powerful
+Defense Up [Hi]
+Health Inc [Lo]
+Health Inc [Mid]
+Health Inc [Hi]
+Wind Reduce
+Wind Cancel
+Wind All Cancel
+No Stamina Loss [Lo]
+No Stamina Loss [Hi]
+No Stamina Loss Extnd
+Clairvoyance
+Health Rec [Weak]
+Health Rec [Lo]
+Health Rec [Mid]
+Health Rec [High]
+HealthRec[Lo]&Deodorant
+HealthRec[Mid]&Deodorant
+HealthRec[Weak]&Antidote
+HealthRec[Lo]&Antidote
+HealthRec[Mid]&Antidote
+Recover Spd Up [Lo]
+Recover Spd Up [Hi]
+Heavenly Protection
+No Cold & Snow Res
+No Heat
+Hear Protect [Lo]
+Hear Protect [Hi]
+No Faint
+No Paralysis
+No Quakes
+Element Attack Up
+Fire Res Up [Lo]
+Fire Res Increased
+Fire Res Up [Hi]
+Water Res Up [Lo]
+Water Res Increased
+Water Res Up [Hi]
+Thunder Res Up [Lo]
+Thunder Res Increased
+Thunder Res Up [Hi]
+Ice Res Up [Lo]
+Ice Res Increased
+Ice Res Up [Hi]
+Dragon Res Up [Lo]
+Dragon Res Increased
+Dragon Res Up [Hi]
+????????

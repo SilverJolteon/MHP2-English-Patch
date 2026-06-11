@@ -14,10 +14,22 @@ new_section = "<NEW SECTION>"
 
 data = {
     "ULJM05156": {
-        "0003": ["general", 0x08, 0]
+        "0003": ["general", 0x08, 0],
+        "9308": ["game0", 0x08, 0],
+        "9309": ["game1", 0x08, 0],
+        "9660": ["tavern", 0x4C, 1],
+        "9661": ["pokke", 0x84, 1],
+        "9662": ["farm", 0x44, 1],
+        "9663": ["kitchen", 0x14, 1]
     },
     "ULUS10266": {
-        "0003": ["general", 0x08, 0]
+        "0003": ["general", 0x08, 0],
+        "9308": ["game0", 0x08, 0],
+        "9309": ["game1", 0x08, 0],
+        "9660": ["tavern", 0x4C, 1],
+        "9661": ["pokke", 0x84, 1],
+        "9662": ["farm", 0x44, 1],
+        "9663": ["kitchen", 0x14, 1]
     },
     "ULJM05066": {
         "0003": ["general", 0x08, 0],
@@ -111,7 +123,7 @@ def dumpQuestText(key, folder, path, start, encoding):
         print(f"Dumping strings to \"{output}\"...");
         with open(input, "rb") as fp:
             data = fp.read()
-            with open(output, "w", encoding="utf-8") as out:
+            with open(output, "w", encoding=encoding) as out:
                 langOff = int.from_bytes(data[start:start+4], byteorder="little", signed=False)
                 off = int.from_bytes(data[langOff+4*lang:langOff+4*lang+4], byteorder="little", signed=False)
                 for i in range(4):
@@ -134,7 +146,7 @@ def dumpNPCText(key, folder, path, start, encoding):
     print(f"Dumping strings to \"{output}\"...");
     with open(input, "rb") as fp:
         data = fp.read()
-        with open(output, "w", encoding="utf-8") as out:
+        with open(output, "w", encoding=encoding) as out:
             def dump(b, sec):
                 sec_off = sec
                 while(sec_off < getOffset(data, sec)+b):
@@ -182,9 +194,9 @@ def dumpGameText(key, folder, path, start, encoding):
 
 def extractFiles(folder):
     path = os.path.join(build_dir, folder, "DATA.BIN")
-    encoding = ""
-    if(folder == "ULJM05066" or folder == "ULUS10084"): encoding = "shift_jis_2004"
-    else: encoding = "utf-8"
+    encoding = "utf-8"
+    #if(folder == "ULJM05156" or folder == "ULUS10266"): encoding = "shift_jis_2004"
+    #else: encoding = "utf-8"
     for key, value in data[folder].items():
         print(f"Extracting file \"{key}\" from {folder}.iso...");
         file = os.path.join(build_dir, folder, key)
