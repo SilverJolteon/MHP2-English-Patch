@@ -1,0 +1,22 @@
+2,Welcome to the High<NEWLINE>Rank Quest counter of<NEWLINE>the Hunter's Guild<NEWLINE>Outpost in Pokke<NEWLINE>Village! What level<NEWLINE>Quest would you like<NEWLINE>to initiate?
+2,Here are the Quests<NEWLINE>available at this<NEWLINE>time.
+1,This Quest requires a<NEWLINE>Contract Fee of<NEWLINE>$z.<NEWLINE>OK?
+1,Recruit hunters for<NEWLINE>this Quest?
+0,A recruitment notice<NEWLINE>for this Quest has<NEWLINE>been placed on the<NEWLINE>Quest Board. We wish<NEWLINE>you the best of luck.
+1,Look for another<NEWLINE>Quest?
+0,Thanks for visiting<NEWLINE>the Hunter's Guild. We<NEWLINE>look forward to<NEWLINE>working with you<NEWLINE>again.
+2,It seems you don't<NEWLINE>have enough money.
+0,So you're heading off<NEWLINE>alone? Well, then may<NEWLINE>the light of luck<NEWLINE>shine upon you!
+1,This Quest does not<NEWLINE>require a Contract<NEWLINE>Fee. Select this<NEWLINE>Quest?
+1,Welcome to the<NEWLINE>Hunter's Guild!<NEWLINE>This Quest is<NEWLINE>presently under<NEWLINE>contract. Would you<NEWLINE>like to cancel this<NEWLINE>contract?
+1,If there are other<NEWLINE>hunter's registered,<NEWLINE>the members of this<NEWLINE>Quest will be<NEWLINE>dissolved. OK?
+0,Contract cancelled. We<NEWLINE>look forward to<NEWLINE>working with you<NEWLINE>again. 
+2,Welcome to the<NEWLINE>Hunter's Guild!
+2,This reception desk is<NEWLINE>for offering work to<NEWLINE>only the absolute best<NEWLINE>hunters.
+2,Unfortunately, you<NEWLINE>just aren't quite up<NEWLINE>to the caliber of<NEWLINE>hunters we are looking<NEWLINE>for.
+0,Please come back when<NEWLINE>you have improved your<NEWLINE>standing.
+2,Welcome to the<NEWLINE>Hunter's Guild Outpost<NEWLINE>in Pokke Village!
+2,You have truly<NEWLINE>arrived. The Guild has<NEWLINE>recognized you as the<NEWLINE>best of the best, and<NEWLINE>thus allowed you to<NEWLINE>partake in High Rank<NEWLINE>Quests.
+2,Be aware that the<NEWLINE>Guild cannot guarantee<NEWLINE>full support on your<NEWLINE>High Rank Quest<NEWLINE>endeavors.
+0,For more details,<NEWLINE>please consult with<NEWLINE>the Guild Manager<NEWLINE>before you depart on<NEWLINE>your Quest. 
+0,dummy

@@ -1,0 +1,21 @@
+0,This is a purrfect<NEWLINE>field. You can pick<NEWLINE>the grass and the<NEWLINE>berries, nya.
+0,dummy
+0,dummy
+0,dummy
+0,dummy
+2,This is a purrfect<NEWLINE>field. If you give me<NEWLINE>a seed, I will raise<NEWLINE>it until you come back<NEWLINE>nya. And not just<NEWLINE>seeds, I'll raise<NEWLINE>grass too, meow.
+2,If you've got some<NEWLINE>Dung or Worms I can<NEWLINE>use as fertilizer,<NEWLINE>I'll spread them for<NEWLINE>you, nya! If the soil<NEWLINE>is fertile, the crops<NEWLINE>will increase, meow!
+0,Once the crops grow,<NEWLINE>you can examine the<NEWLINE>rows and gather them<NEWLINE>up, meow. The more<NEWLINE>rows you have, the<NEWLINE>more rows you should<NEWLINE>examine!
+1,Pick seeds or<NEWLINE>fertilizer, then<NEWLINE>decide which row you'd<NEWLINE>like me to work on and<NEWLINE>I'll do my magic! Do<NEWLINE>you want to work the<NEWLINE>land, meow?
+1,You want me to use<NEWLINE>that item, nya!? If<NEWLINE>it's alright with you,<NEWLINE>I'll get to work!
+1,Giving up, meow? If<NEWLINE>you give up now,<NEWLINE>everything will go<NEWLINE>back to how it was!
+0,dummy
+0,dummy
+1,dummy
+1,dummy
+1,dummy
+0,Alright, nya. If you<NEWLINE>have something for me<NEWLINE>to do in the field,<NEWLINE>just tell me, purrrrr.
+0,dummy
+0,I don't have any items<NEWLINE>to use, meow! I need<NEWLINE>to get some seeds or<NEWLINE>fertilizer!
+0,dummy
+0,The crops are in the<NEWLINE>field, nya. You should<NEWLINE>pick them before you<NEWLINE>plant or fertilize. Go<NEWLINE>to the crops and press<NEWLINE>the ~B03 button to<NEWLINE>gather them, meow.

@@ -1,0 +1,1296 @@
+
+?
+dummy
+z
+∞
+×
+dummy
+ID
+NAME:
+:
+dummy
+mins
+No
+Yes
+dummy
+Amount
+Info
+Next
+Back
+Requires
+Departure Prep
+Cancel Departure
+Menu
+Status
+Unable To Rec
+Move
+Zoom In
+Zoom Out
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+★
+/
+1P
+2P
+3P
+4P
+dummy
+Weapon
+Armor
+Great Swd/Long Swd
+Sword/Dual Blades
+Hammer/HuntingHorn
+Lance/Gunlance
+Bowgun/Bow
+Helmet
+Plate
+Gauntlets
+Waist
+Leggings
+Gunner Use
+Blademaster Use
+Female Use
+Male Use
+Female Gunner Use
+Male Gunner Use
+Female Blademaster Use
+Male Blademaster Use
+Type: Gunner
+Type: Blademaster
+~C00Please select a weapon to<NEWLINE>purchase.
+~C00Please select a piece of<NEWLINE>armor to purchase.
+~C00Equip this item now?
+~C00Equip this item now?<NEWLINE>~C05Equipping this weapon will<NEWLINE>unequip your current armor.<NEWLINE>OK?~
+~C05This item cannot be<NEWLINE>equipped in your current<NEWLINE>hunter type. OK?
+~C00Please select the equipment <NEWLINE>you would like to sell.
+Press the SELECT button to<NEWLINE>view equipment.
+No sample available.
+~B03Skill Info
+Weaponcraft
+Armorcraft
+Decorations
+Create Weapon
+Improve Weapon
+Create Armor
+Improve Armor
+Create Decoration
+Attach Decoration
+Remove Decoration
+Level Up
+Attach Silencer
+Remove Silencer
+Attach Long Barrel
+Remove Long Barrel
+Attach Zoom Scope
+Attach Fixed Scope
+Attach Shield
+Remove Shield
+Attach Power Barrel
+Remove Power Barrel
+~C00Create which weapon?
+~C00Improve which weapon?
+~C00Create which armor?
+~C00Improve which armor?
+~C00Execute which improvement?
+~C00Creating this requires the<NEWLINE>raw materials necessary for<NEWLINE>creation plus $z. OK?
+~C00Improving requires materials<NEWLINE>plus $z. ~C05Equipped items<NEWLINE>will be removed~C00. Improve now?
+~C00Improving requires the raw <NEWLINE>materials necessary plus<NEWLINE>$z. Improve now?
+~C00Equip this item now?
+??????
+~C00Equip this item now?<NEWLINE>~C05Equipping this weapon will<NEWLINE>unequip your current armor.<NEWLINE>OK?
+~C05This item cannot be<NEWLINE>equipped in your current<NEWLINE>hunter type. OK?
+~C00[Level Up]： Attack<NEWLINE>strength, initial velcoity,<NEWLINE>and accuracy increases. 
+~C00[Attach Silencer]：On loan<NEWLINE>from shop. Quiets your weapon,<NEWLINE>making it more difficult for<NEWLINE>monsters to aim for you.
+~C00[Remove Silencer]：Restores<NEWLINE>your weapon to normal, and<NEWLINE>returns the item to the shop.
+~C00[Attach Long Barrel]：On<NEWLINE>loan from shop. Accuracy and<NEWLINE>initial velocity greatly<NEWLINE>increases. 
+~C00[Remove Long Barrel]：<NEWLINE>Restores your weapon to<NEWLINE>normal, and returns the item<NEWLINE>to the shop.
+~C00[Attach Zoom Scope]：On<NEWLINE>loan from the shop. Zoom in<NEWLINE>and out by pressing the<NEWLINE>left button and right button.
+~C00[Attach Fixed Scope]：<NEWLINE>Restores Fixed Scope to<NEWLINE>weapon. Returns Zoom Scope to<NEWLINE>the shop. 
+~C00[Attach Shield]：On<NEWLINE>loan from the shop. Attaching<NEWLINE>a Shield enables Auto-Guard<NEWLINE>functionality.
+~C00[Remove Shield]：<NEWLINE>Restores your weapon to<NEWLINE>normal, and returns the item<NEWLINE>to the shop.
+~C00[Attach Power Barrel]：On<NEWLINE>loan from the shop. Raises<NEWLINE>weapon accuracy and power.
+~C00[Remove Power Barrel]：<NEWLINE>Restores your weapon to<NEWLINE>normal, and returns the item<NEWLINE>to the shop.
+~C00$z refitting fee<NEWLINE>required. OK?
+~C00$z refitting fee <NEWLINE>required. OK? <NEWLINE>~C05Remove Silencer.
+~C00$z refitting fee <NEWLINE>required. OK? <NEWLINE>~C05Remove Long Barrel.
+~C00$z refitting fee <NEWLINE>required. OK? <NEWLINE>~C05Remove Shield.
+~C00$z refitting fee <NEWLINE>required. OK? <NEWLINE>~C05Remove Power Barrel.
+Cannot be further improved.
+dummy
+~C00Select the Decoration you'd<NEWLINE>like to create.
+~C00Attach to which piece of<NEWLINE>equipment?
+~C00Attach to which piece of<NEWLINE>equipment?<NEWLINE>~C05Open Slots: %d
+~C00Attach to which piece of<NEWLINE>equipment? ~C02There are no open<NEWLINE>Slots on this piece of<NEWLINE>equipment.
+~C02This Decoration cannot be<NEWLINE>attached to the selected <NEWLINE>equipment.
+~C02This Decoration cannot be<NEWLINE>attached because there are<NEWLINE>not enough open Slots.
+~C02This Decoration cannot be<NEWLINE>attached because you do not<NEWLINE>have enough money.
+~C00Attach which Decoration?
+~C00Attach which Decoration?<NEWLINE>~C05Open Slots: %d
+~C00Attaching requires the<NEWLINE>Decoration plus $z. OK?
+You do not have the<NEWLINE>Decoration.
+~C00Remove Decorations from which<NEWLINE>piece of equipment?
+~C00Remove Decorations from which<NEWLINE>piece of equipment?<NEWLINE>~C02No Decorations are attached to<NEWLINE>this equipment.
+~C00Remove which Decoration?
+$z required.
+No Decorations can be crafted.
+Req Slots:
+$z required. OK?
+Meal A:
+Meal B:
+Select a Meal
+Attack Strength Increased!
+Defense Strength Increased!
+Health Increased!
+Stamina Increased!
+Fire Resistance Increased!
+Water Resistance Increased!
+Thunder Resistance Increased!
+Dragon Resistance Increased!
+Ice Resistance Increased!
+Health Decreased!
+Stamina Decreased!
+~C05Today's menu ~C00%d/2
+－－－－－－－－
+You don't have enough money.
+No chefs are present.
+%s skill activated.
+%s's Felyne Level is now %s!
+Order Food
+Quit
+Meat Scraps
+Tough Meat
+Rubbery Jerky
+Pumpkin
+Twinshroom
+Jungle Onion
+Clamchip
+Scalefish
+Bone Taco
+Chunky Rice
+Furahiya Wheat
+Mixed Beans
+Oily Raisins
+Sticky Cream
+Powdered Cheese
+Hopi
+Cubesteak
+Spicy Sausage
+Wild Bacon
+Spotted Onion
+Young Potato
+Mild Herb
+Sliced Cactus
+Snake Salmon
+Tuna Head
+Hardtack
+Snowy Rice
+Fruity Jam
+Northern Orange
+Carefree Yogurt
+Aged Cheese
+Furahiya Cola
+Juicy Rib Roast
+Meatwagon
+Great Mutton
+Cudgel Onion
+Western Parsley
+Spicy Carrots
+Horseshoe Crab
+Curved Shrimp
+Spiky Blowfish
+Warwheat
+Kut Beans
+Tasty Rice
+Frozen Apples
+Buffalo Butter
+Chili Cheese
+Panish
+Princess Pork
+Gator Ribmeat
+Dragon Foot
+Cannon Lettuce
+Rare Onion
+Scented Celery
+King Squid
+Queen Shrimp
+Pink Caviar
+Megabagel
+Ancient Beans
+Kokoto Rice
+Burning Mango
+Lifejam
+Royale Cheese
+Blessed Wine
+Dragon Tail
+Bigmeat
+Dragon Head
+King Turkey
+King Truffle
+Fatty Tomato
+Demonshroom
+1000-Year Crab
+Hairy Tuna
+Crimson Seabream
+Heaven Bread
+Gold Rice
+Soul Beans
+Emerald Durian
+Kirin Cheese
+Goldenfish Brew
+It tasted... normal.
+Simple and appealing.
+Delicate and delicious!
+This is kinda good!
+What a well-rounded flavor!
+It's strangely delicious!
+Tastes healthy!
+What an invigorating flavor!
+Good and good for you too!
+Such a fresh flavor!
+Creamy and delicious!
+A perfect amount of sweetness!
+A powerful flavor!
+Mucho flavor!
+Tastes wild!
+Spicy and satisfying!
+A one-of-a-kind texture!
+Tastes very healthy!
+Impressively flavorful!
+An exquisite taste!
+Now this is a hearty meal!
+An exquisitely divine flavor!
+The epitome of flavor!
+Rich and fulfilling taste!
+A rich and luxurious flavor!
+An elegant flavor!
+Rich and sweet!
+A perfect match!
+A finely-aged taste!
+Bold yet sensitive flavor!
+A one-two punch of flavor!
+Wow! Double the essence!
+Whoa! Smells fishy...
+You don't feel so good...
+Sweet, yet... fishy!
+Flavor beyond imagination...
+This tastes absolutely gross!
+This is utterly vile...
+You can't even describe this!
+A dangerous taste...
+You feel a little dizzy...
+CLEAR!!
+Put In Item
+Take Out Item
+Change Equipment
+Arrange Items
+Sell Item
+Put In Item
+Take Out Item
+~C10Change Equipment~C00
+Arrange Items
+Sell Item
+Rotate
+Menu OFF
+Menu ON
+Camera
+Item
+Equipment
+Item
+~C10Equipment
+~C00That will be ~C05%dz~C00.
+This will be taken for free.
+~C00~B03Skill Info
+~C00~B03Return
+~C00~B01Confirm　~B00Cancel
+  %d/%d
+~C00~B03Status
+~C00~B03Info
+Total incl. Decorations: %dz
+Select Qty
+Change Equipment
+Equipment Set
+EditEquipmentSet
+Reg Curr Equip
+Chg S-Series Clr
+◆
+~C00◆ ~C%02d%s
+Color List
+White
+Black
+Red
+Pink
+Orange
+Yellow
+Green
+Jade Green
+Deep Blue
+Blue
+Purple
+Rainbow
+Select item to deposit.
+Item deposited.
+~C02The Item Box is full.
+Select item to remove.
+Select where to place item. 
+How many would you like to<NEWLINE>remove?
+~C02Cannot carry any more of this<NEWLINE>item.
+Item removed.
+Exchange item.<NEWLINE>OK?
+dummy
+Select the Equipment to be<NEWLINE>changed.
+Change Equipment.<NEWLINE>~C05Equipping this weapon will<NEWLINE>unequip your current armor. OK?~
+~C02Cannot remove weapon.
+~C02This item cannot be equipped<NEWLINE>in your current hunter type.
+~C02Cannot Equip.
+Change Equipment.
+Remove Equipment.
+Equip.
+Equipping...
+Equipment Changed.
+Please select the item you would<NEWLINE>like to replace.
+Please select the equipment you<NEWLINE>would like to replace. 
+Please select the item you would<NEWLINE>like to sell. 
+Please select the equipment you<NEWLINE>would like to sell. 
+Please select<NEWLINE>the number of items<NEWLINE>you would like to sell.
+<NEWLINE>OK?
+~C02You cannot sell items that<NEWLINE>are currently equipped. 
+OK to sort?
+Please select the set you<NEWLINE>would like to edit.
+Please select the part you<NEWLINE>would like to edit and <NEWLINE>register.
+Register this equipment.
+You cannot equip the currently<NEWLINE>selected weapon.
+The currently selected weapon<NEWLINE>cannot be joined with certain<NEWLINE>armor. OK? 
+~C02No set is currently<NEWLINE>registered.
+Registered. Update this<NEWLINE>equipment?
+Select the weapon to be<NEWLINE>registered.
+Select the equipment to be<NEWLINE>registered.
+Cannot remove weapon.
+Remove currently registered<NEWLINE>equipment.
+Please select where to<NEWLINE>register current equipment.
+Register current equipment<NEWLINE>here?
+You cannot equip this armor<NEWLINE>with your current weapon.
+Please select the set to<NEWLINE>equip.
+Change equipment?
+Put away how many items?
+No Quest Requests
+No Open Quest Slots
+Password Set:
+Recruiting Note:
+1/3
+Quest Member:
+2/3
+Reward:
+ContractFee:
+Time Limit:
+Location:
+Special Conditions:
+Main Monsters:
+3/3
+Waiting for Players
+Confirm
+Players:
+Quest Details
+Quest Level:
+Goal Condition:
+Fail Condition:
+Client:
+Quest Details:
+LV★
+Required HR: 1
+LV★★
+Required HR: 1
+LV★★★
+Required HR: 1
+LV★★★★
+Required HR: 2
+LV★★★★★
+Required HR: 3
+LV★★★★★★
+Required HR: 4
+LV★★★★★★★
+Required HR: 5
+LV★★★★★★★★
+Required HR: 6
+? ? ? ?
+Urgent Quest
+Event Quest
+Items
+Combine
+Quest Info
+Gestures
+Player Info
+Guild Card
+Status
+Equipment Detail
+Reference
+Options
+Player Log
+Take Item
+Open Item Bag and check current<NEWLINE>item inventory.
+Combine items. 
+Check current quest status and<NEWLINE>contract conditions.
+Communicate using Gestures. 
+Displays player info for all<NEWLINE>hunters in the Gathering Hall.
+Check/Show Guild Card. 
+Check your own status information.<NEWLINE>
+Check Equipment details. 
+Check materials.
+Go to Option Settings.
+Check Gathering Hall history.
+Receive item sent by another<NEWLINE>player.
+Check your Guild Card.
+Edit your Guild Card.
+Send your Guild Card to another<NEWLINE>player.
+Open Card List and check another<NEWLINE>player's Guild Card.
+dummy
+dummy
+Place item into Item Bag. When<NEWLINE>the Item Bag is full, you can<NEWLINE>switch out other items.
+Send to Item Box. If the Item Box<NEWLINE>is full, you will not be able to<NEWLINE>send the item.
+Sell remaining items and exit.
+Buy
+Sell
+How many will you buy?
+How many will you sell?
+That will be $z.<NEWLINE>OK?
+That will be $z. <NEWLINE>Would you still like<NEWLINE>to sell these items?
+~C05Price including Decorations<NEWLINE>will be $z. ~C00Would you<NEWLINE>like to sell these items?
+~C00Please select an item to<NEWLINE>purchase. 
+~C00Please select an item to<NEWLINE>purchase. <NEWLINE>~C02Item Bag is full. (It can<NEWLINE>only carry 24 types of items.)
+~C00Please select the item you<NEWLINE>would like to sell.
+This item has no attached<NEWLINE>value. Would you still like<NEWLINE>to sell this item?
+Name   :
+Weapon :
+HR     :
+dummy
+Slaying Quest
+Gathering Quest
+Hunting Quest
+Special Quest
+TreasureHuntersQuest
+Sit Down
+Stand Up
+Depart on a Quest
+Check Quest Board
+Save Game Data
+Open Item Box
+Open Small Item Box
+dummy
+Departure Prep Complete
+Order Food
+Enter House
+Exit
+Offline Gathering Hall
+Online Gathering Hall
+Go to Pokke Farm
+Return to Pokke Village
+Enter the Felyne Kitchen
+Return to Bedroom
+Enter Cave
+Return to Pokke Farm
+Check Felyne Board
+Open Bookshelf
+Go to the Training School
+Harvest Crops
+Go Fishing
+Mine Ore
+Gather Bugs
+Collect Mushrooms
+Collect Honey
+Ascend Ladder
+Descend Ladder
+Select Destination
+Home
+Pokke Farm
+Felyne Kitchen
+Training School
+??????
+dummy
+dummy
+Quest under contract.
+You got 1500z!
+No password entered.
+No message entered.
+Monster List has been updated.
+Item Box storage capacity has increased!
+Item Box has reached maximum storage capacity.
+Registration has been closed for this Quest.
+This Quest has reached the maximum number of players. 
+Item Box is full.
+dummy
+Caution! You do not have any bullets!
+Too many items...
+"Proof of a Hero" has been added to your Gallery.
+You can now watch all game cinemas in your Gallery.
+Change Piggie's clothes at the Bookshelf.
+Equipment sent to the Item Box.
+Decoration sent to the Item Box.
+You can now change S-Series armor color at the Item Box.
+New fashions have been added for Piggie!
+          has entered<NEWLINE>the Gathering Hall.
+          has departed<NEWLINE>on a Quest.
+          has returned<NEWLINE>from a Quest.
+          has left<NEWLINE>the Gathering Hall.
+Examine
+Edit
+Give
+Card List
+Processing...
+dummy
+You do not meet the requirements to initiate<NEWLINE>this Quest.
+You do not meet the requirements to join this<NEWLINE>Quest. 
+An error occurred while transmitting Quest<NEWLINE>Data.
+Cannot confirm Quest Details. <NEWLINE><NEWLINE>This Quest has either been <NEWLINE>dissolved, or has already begun.
+Quest joined. <NEWLINE>You can complete Quest preparations<NEWLINE>by pressing the ~B03 button in front<NEWLINE>of the departure area.
+Unable to connect.
+Password incorrect.
+This Quest is no longer accepting hunters.
+Quest has reached the maximum number of<NEWLINE>hunters.
+There are members who have not completed<NEWLINE>preparations. Would you still like to embark<NEWLINE>on the Quest?
+Would you like to embark on the Quest?
+Cancel departure preparations?
+Quest Party Dissolved.
+The WLAN switch is turned off. Please push the<NEWLINE>WLAN switch to the on position.
+A communications error has occurred. <NEWLINE>The WLAN switch was turned off.
+A communications error has occurred. 
+Unable to enter because the room is full.
+Which Gathering Hall<NEWLINE>would you like to join?
+There are no Event Quests.
+Select another Gathering Hall? <NEWLINE>(Selecting "No" will return you to Pokke<NEWLINE>Village.)
+Arthur
+Arnold
+Almond
+Ashley
+Apple
+Annie
+Alan
+Emmanuelle
+Gary
+Khan
+Kid
+Gilbert
+Graham
+Crystal
+Kei
+Kain
+Cocoa
+Conan
+Shiva
+Jim
+Shoe
+Sammy
+Shot
+Silvia
+Scorpion
+Scott
+Sarah
+Diana
+Dan
+Rob
+Chibi
+Charles
+David
+Timothy
+Telly
+Drew
+Thomas
+Donald
+Toni
+Tom
+Dora
+Natalie
+Pai
+Patricia
+Hank
+Pete
+Pia
+Shelly
+Fay
+Blake
+Helga
+Boyd
+Brandon
+Mack
+Marco
+Mai
+Micha
+Milo
+Musashi
+Yoshitsune
+Rafael
+Rey
+Leon
+Laura
+Oscar
+Oliver
+Ken
+Bucky
+Kojiro
+Simon
+Ludovic
+Jessica
+Jesper
+Jasmine
+Jack
+Gianluigi
+Ginger
+Enric
+Spike
+Sebastian
+Sofie
+Charlie
+Tracy
+Hanzo
+Benkei
+Holly
+Maggie
+Masamune
+Misty
+Janet
+Molly
+Florian
+Ryu
+Lilly
+Laurie
+Rocky
+Felyne
+Tea Felyne
+Lemon
+Grape
+Muscot
+Melynx
+Blk Melynx
+Ylw Melynx
+Moody
+Secret
+Short Hair
+Tea Tiger
+Ylw Tiger
+Ash Tiger
+SilverTigr
+FreshTiger
+Red Tiger
+White
+Black
+Deep Blue
+Pink
+Blue
+Tea
+Brown
+Peppermint
+Gold
+Blk & Wht
+Tea Spots
+Blue Spots
+Red Spots
+Purple
+Deep Sea
+Orange
+Jet Black
+Hire
+Dismiss
+Select a Felyne to hire.
+Select a Felyne to dismiss.
+The headhunting fee will be<NEWLINE>$z. Hire Felyne?
+Hire Felyne?
+Dismiss Felyne?
+~C02You cannot hire <NEWLINE>any more Felynes.~C00
+~C02You cannot dismiss<NEWLINE>all of the Felynes.~C00
+~C05Dismissing this Felyne will<NEWLINE>cancel your current BBQ order<NEWLINE>and you will lose the items. OK?~C00
+Felyne Lvl
+Main Ingrd
+Info Level
+Lineage
+Specialty Skill
+Meat
+Vegetble
+Fish
+Bran
+Fruit
+Milk
+Drink
+Shift Chart
+Order
+Uniform
+BBQ Service
+BBQ Pickup
+Felyne Shift
+Break
+Chef
+Break Time
+Dismiss
+Change Order
+Chef's Suit
+Cook's Coat
+You can change the number of<NEWLINE>Felynes preparing the meal, or<NEWLINE>dismiss a Felyne altogether.
+Change your Chef order. The<NEWLINE>highest ranking Chef affects<NEWLINE>the no. of ingredients.
+Check the uniform of Felynes<NEWLINE>working in the Felyne Kitchen.
+Request a Felyne cook your meat<NEWLINE>or fish via the Felyne BBQ<NEWLINE>Service.
+Pick up your previously placed<NEWLINE>Felyne BBQ Service order.
+Select the Felyne whose order<NEWLINE>you would like to change.
+Select where you'd like to<NEWLINE>place the Felyne.
+Select uniform.
+Select the item you would like to<NEWLINE>have BBQ'ed.
+Select the number of items you'd<NEWLINE>like to have BBQ'ed. You can cook<NEWLINE>up to 10 items at a time.
+Select the Felyne you would like<NEWLINE>to have perform the BBQing.
+Your order will cost $z.<NEWLINE>OK?
+Dismissing this Felyne will cancel your<NEWLINE>current BBQ order and you will lose the<NEWLINE>items. OK?
+LV%s：
+~B01Select  ~B00Cancel
+Intro
+FS LVL
+HR:
+Chief'sQuest
+GHLowRankQst
+GHHighRnkQst
+Training Sch
+:
+X
+TreasureHQst
+Treasure Points
+Awards
+Monster Log
+Turn Page
+Name
+Num Hunted
+Length
+Guild Card
+No.
+Name
+FriendshipLV
+Exmn
+Edit
+Give
+Conf
+Rtrn
+Del
+Delete this Guild Card?
+Deleted
+Title
+dummy
+Send Guild Card?
+Sending...
+Sent Guild Card to
+Unable to send Guild Card to
+Received Guild Card from
+File
+Slct
+Send
+Num of Guild Cards Received:%2d
+You can file %2d more cards.
+Already sent Guild<NEWLINE>Card to
+Following players cannot<NEWLINE>accept any more Guild Cards:
+Training Records
+Training Dtl
+Fastest Time
+Highest Pnts
+Group Training Records
+Rank
+Yian Kut-Ku Training
+Congalala Training
+Khezu Training
+DaimyoHermitaur Training
+Blangonga Training
+Yian Garuga Training
+Tigrex Training
+Diablos Training
+Gravios Training
+Kirin Training
+Cephadrome Training
+Plesioth Training
+ShogunCeanataur Training
+Rathalos Training
+Rajang Training
+Yian Kut-Ku Exercises
+Cephadrome Exercises
+Rathian Exercises
+Challenge Quest 1
+Challenge Quest 2
+Challenge Quest 3
+Challenge Quest 4
+Challenge Quest 5
+Challenge Quest 6
+Challenge Quest 7
+Challenge Quest 8
+Challenge Quest 9
+Challenge Quest 10
+Challenge Quest 11
+Challenge Quest 12
+Challenge Quest 13
+Monster Hunter Fiesta 1
+Monster Hunter Fiesta 2
+Monster Hunter Fiesta 3
+Monster Hunter Fiesta 4
+none
+Beginner
+Experienced
+Braggart
+Nobody
+Novice
+Helper
+Courageous
+Hunter
+Pokke
+Comrade
+Caretaker
+Hunter
+First Class
+Master
+Guild
+Knight
+Silver
+Trump Card
+Ace
+Gold
+Ultimate Hero
+Pinnacle
+Velociprey
+Giaprey
+Genprey
+Ioprey
+Bullfango
+Kut-Ku
+Gypceros
+Cephalos
+Rathian
+Khezu
+Plesioth
+Monoblos
+Diablos
+Basarios
+Gravios
+Rathalos
+Kirin
+Garuga
+Hermitaur
+Ceanataur
+Blangonga
+Congalala
+Rajang
+Tigrex
+Kushala
+Chameleos
+Teostra
+Lunastra
+Gaoren
+Lao-Shan
+Akantor
+Fatalis
+Vulcan
+Roots
+Blue
+White
+Green
+Crimson
+Brute
+Red
+Fury
+Yellow
+Sakura
+Lightning
+Jade
+Metallic
+Darkness
+Shadow
+Scorcher
+Sky Blue
+Squall
+Black
+Unmatched
+Heaven&Earth
+Lion
+Comedian
+Angered
+Destruction
+Blizzard
+Silence
+Haze
+Hell Fire
+Lies
+Savior
+Hero
+Dragon Slayer
+Dragon Knight
+Azure
+Snow
+Emerald
+Maroon
+Fang
+Blood Red
+Deep Purple
+Mellow Yellow
+Valkyrie
+Bright White
+Water
+Heart
+Dessert
+Penumbral
+Flame
+Soul
+Thunder
+Ebony
+Shield
+Braid
+Ice
+Rose
+Boss
+Wild
+Cyclone
+Silent
+Kaiser
+Empress
+Fake
+Ancient
+Tycoon
+Dragon
+Calamity
+Blue Talon
+White Snow
+Green Fang
+Crimson Toxin
+Reckless
+Red Bird
+Flash
+Sandstorm
+Wyverness
+Two Face
+Rapids
+One Horned
+Demon Pair
+Hidden Cliff
+Pyroclastic
+King
+Thunder God
+Dark Wolf
+Solid Shield
+Sharp Saber
+Hercules
+Buffoon
+Golden
+Evil Tiger
+Windstorm
+Rusty
+Blast
+1000 Colors
+Flame Emperor
+Princess
+Fortress
+Dragon Sealer
+Violent King
+Dragon Ruiner
+Dragon King
+Dragon Ruler
+Queen
+Ruler
+Chicken
+Professor
+Prisoner
+Transporter
+Jungle
+Desert
+Swamp
+Mountains
+Volcano
+Forest&Hills
+Tower
+Guide
+Blackbelt
+Expert
+Instructor
+Vagrant
+Stranger
+Rookie
+Walker
+Thief
+Beast
+Fighter
+Warrior
+Berserker
+Mercenary
+Archer
+Veteran
+Attacker
+Iron
+Breaker
+Samurai
+Sniper
+Assassin
+Grand
+Buster
+Strider
+Saber
+Slayer
+Guardian
+Lord
+Brave
+Champion
+Heroic
+Monster
+Legend
+Lazy
+Angler
+Sword
+Blade
+Lance
+Hammer
+Dual Blades
+Light Bowgun
+Heavy Bowgun
+Katana
+Bow
+Gunlance
+Hunting Horn
+Weapon
+Farmer
+Fisher
+Mechanic
+Miner
+Boomer
+Entomologist
+Mincer
+Mushroom
+Honey
+Explorer
+Felyne
+Kitchen
+Bleeder
+Chef
+Treasure
+Adventurer
+Perfect
+Replay
+Overpowering
+Sage
+Beautiful
+Kokoto
+Jumbo
+Minegarde
+Dondruma
+none
+of
+and
+for
+by
+or
+from
+to
+Colored
+Called
+Family
+&
++
+-
+×
+?
+!
+=
+～
+・
+/
+:
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+Beginning Hunter's Title
+Cleared all of the Village<NEWLINE>Chief's ★ Quests.
+Cleared all of the Village<NEWLINE>Chief's ★★ Quests.
+Cleared all of the Village<NEWLINE>Chief's ★★★ Quests.
+Cleared all of the Village<NEWLINE>Chief's ★★★★ Quests.
+Cleared all of the Village<NEWLINE>Chief's ★★★★★ Quests.
+Cleared all of the Village<NEWLINE>Chief's Quests.
+Cleared all of the<NEWLINE>★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>★★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>★★★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>★★★★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>★★★★★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>★★★★★★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>★★★★★★★ Gathering<NEWLINE>Hall Quests.
+Cleared all of the<NEWLINE>★★★★★★★★ Gathering<NEWLINE>Hall Quests.
+   Velocidrome hunted down.
+   Giadrome hunted down.
+   Gendrome hunted down.
+   Iodrome hunted down.
+   Bulldromes hunted down.
+   Yian Kut-Ku hunted down.
+   Gypceros hunted down.
+   Cephadrome hunted down.
+   Rathian hunted down.
+   Khezu hunted down.
+   Plesioth hunted down.
+   Monoblos hunted down.
+   Diablos hunted down.
+   Basarios hunted down.
+   Gravios hunted down.
+   Rathalos hunted down.
+   Kirin slayed.
+   Yian Garuga hunted down.
+   Daimyo Hermitaurs hunted<NEWLINE>down.
+   Shogun Ceanataurs hunted<NEWLINE>down.
+   Blangongas hunted down.
+   Congalalas hunted down.
+   Rajang hunted down.
+   Tigrex hunted down.
+   Kushala Daora slayed.
+   Chameleos slayed.
+   Teostra slayed.
+   Lunastra slayed.
+   Shen Gaoren slayed.
+   Lao-Shan Lung slayed.
+   Akantor slayed.
+   Fatalis slayed.
+   unimaginably evil dragons<NEWLINE>slayed.
+   dragons of ancestral<NEWLINE>origins slayed.
+Hunted down all monsters<NEWLINE>worthy of a Silver Crown<NEWLINE>for their size.
+Hunted down all monsters<NEWLINE>worthy of a Gold Crown<NEWLINE>for their size.
+Hunted down all monsters<NEWLINE>worthy of a Small Crown<NEWLINE>for their size.
+Hunted all monster color<NEWLINE>variations.
+Captured all capture target<NEWLINE>monsters.
+Successfully carried many<NEWLINE>objects.
+Cleared 20 Quests in the <NEWLINE>Jungle zone.
+Cleared 20 Quests in the <NEWLINE>Desert zone.
+Cleared 20 Quests in the <NEWLINE>Swamp zone.
+Cleared 20 Quests in the <NEWLINE>Snowy Mountains zone.
+Cleared 20 Quests in the <NEWLINE>Volcano zone.
+Cleared 20 Quests in the <NEWLINE>Forest and Hills zone.
+Cleared 20 Quests in the <NEWLINE>area of the Tower.
+Over 100 Quests cleared.
+Cleared all solo Battle<NEWLINE>Training Quests for all<NEWLINE>weapons.
+Cleared all solo Special<NEWLINE>Training Quests for all<NEWLINE>weapons.
+Cleared all Group Training<NEWLINE>Quests.
+Earned a large number of<NEWLINE>Guild Points.
+Abandoned over 50 Quests.
+Fished out a Plesioth.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Swords.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Great Swords.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Lances.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Hammers.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Dual Blades.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Light Bowguns.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Heavy Bowguns.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Long Swords.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Bows.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Gunlances.
+In possession of a great<NEWLINE>number of hard to obtain<NEWLINE>Hunting Horns.
+Acquired all weapon titles.
+Upgraded Pokke Farm with<NEWLINE>Field Row +2.
+Upgraded Pokke Farm with<NEWLINE>Fishing Pier +2.
+Upgraded Pokke Farm with<NEWLINE>a Casting Machine.
+Upgraded Pokke Farm with<NEWLINE>Mining Point +3.
+Upgraded Pokke Farm with<NEWLINE>a Mining Bomb.
+Upgraded Pokke Farm with<NEWLINE>Insect Thicket +3.
+Upgraded Pokke Farm with<NEWLINE>a Bug Tree.
+Upgraded Pokke Farm with<NEWLINE>Mushroom Tree +2.
+Upgraded Pokke Farm with<NEWLINE>a Modified Bee Hive.
+Upgraded Pokke Farm with<NEWLINE>Trenya's Boat.
+Combined level of all hired <NEWLINE>Felynes is above 15.
+Combined level of all hired <NEWLINE>Felynes is above 25.
+Combined level of all hired <NEWLINE>Felynes is above 35.
+Combined level of all hired <NEWLINE>Felynes is above 45.
+Acquired a Gold Crown in all<NEWLINE>zones.
+Acquired all Rare Treasure<NEWLINE>List entries on the Guild<NEWLINE>Card.
+Obtained all Awards.
+Played for more than 100<NEWLINE>hours.
+Possesses more than 200000z.
+Completed Combo List.
+Capable of changing your <NEWLINE>Symbol Color.
+Download Title 1
+Download Title 2
+Download Title 3
+Download Title 4
+Proof of completing Pokke<NEWLINE>Beginner Quests. Earned a<NEWLINE>present from the Chief.
+Proof of completing Pokke<NEWLINE>Intermediate Quests. Shows<NEWLINE>courage in the brutal cold.
+Proof of completing Pokke<NEWLINE>Hard Quests. When worn, it<NEWLINE>is quite warm.
+Proof of completing all<NEWLINE>Pokke Quests. Proves one is<NEWLINE>a first-class hunter.
+Proof of slaying a Kirin.<NEWLINE>Retains the beauty of its<NEWLINE>thousand-year mane.
+Proof of slaying an<NEWLINE>Akantor. Its brilliance<NEWLINE>captivates the soul.
+Symbol of continued hunting<NEWLINE>success against giant<NEWLINE>monsters. 
+Symbol of continued hunting<NEWLINE>success against small<NEWLINE>beasts. 
+Proof of mastering all<NEWLINE>Gathering Hall ★ and ★★<NEWLINE>Quests. No longer a novice.
+Proof of mastering all<NEWLINE>Gathering Hall 3★ to 5★<NEWLINE>Quests. Shows true courage.
+Proof of mastering all<NEWLINE>Gathering Hall 6★ to 8★<NEWLINE>Quests. A true achievement.
+Proof of passing all Battle<NEWLINE>Training at the Training<NEWLINE>School. This protects you.
+Proof of passing all<NEWLINE>Special Training at the<NEWLINE>Training School.
+Proof of passing all Group<NEWLINE>Training at the Training<NEWLINE>School. Sign of true power.
+Record of the incredibly<NEWLINE>powerful colored monsters.<NEWLINE>Confirms all rare breeds.
+Report created from records<NEWLINE>of captured monsters.<NEWLINE>Proves successful captures.
+Pure piece of Machalite<NEWLINE>Ore. Beautiful, it is proof<NEWLINE>of Mining Area development.
+Rare insect found in this<NEWLINE>area. Proves development<NEWLINE>of insect gathering area.
+Splendid pink-scaled fish<NEWLINE>found during spring. Proves<NEWLINE>Fishing Pier development.
+A rare red flower found in<NEWLINE>an area with deep snow.<NEWLINE>Proof of Field development.
+A letter from a grown-up<NEWLINE>Felyne saying, "Thanks, you<NEWLINE>were a great master, meow!"
+Proof of combining<NEWLINE>proficiency. Feels like you<NEWLINE>can use anything, anytime.
+Dirty, but divine smithing<NEWLINE>hammer of a famed Wyverian.<NEWLINE>A weapon collector's seal.
+Map recording your hunting<NEWLINE>trek. Proof of travel to<NEWLINE>all game areas.
+  Set %2d
+dummy
+%2d/%2d
+dummy
+Register
+No Equipment
+dummy
+dummy
+dummy
+dummy
+dummy
+Renovate
+Point Exchange
+Explain Points
+Select an area to renovate.
+$pts. OK?
+Renovation Complete.
+~C00Select the item you'd like<NEWLINE>to exchange for Pokke Points.
+~C00Select the item you'd like<NEWLINE>to exchange for Pokke Points.<NEWLINE>~C02Item Bag is full. (It can<NEWLINE>only carry 24 types of items.)
+Exchange how many items?
+ON
+OFF
+Select OnlineGthrngH
+AUTO
+MANUAL
+dummy
+White Cat Hammer
+Black Cat Hammer
+Gold Cat Hammer
+A White Cat Hammer for beginners.<NEWLINE>The ultimate in usability.
+A Black Cat Hammer for<NEWLINE>intermediate users. It has a<NEWLINE>reliability you can trust.
+A Gold Cat Hammer for advanced<NEWLINE>users. Using this could be the key<NEWLINE>to getting rare items.
+Receive Item
+Send Item to Item Box
+Finish
+Select the item to receive,<NEWLINE>then put it in the Item Bag.<NEWLINE>　　　　　　　　　　　　　　Info
+Select the item to receive,<NEWLINE>then send it to the Item Box.<NEWLINE>　　　　　　　　　　　　　　Info
+Select the item<NEWLINE>you'd like to plant.
+Select the row where you'd<NEWLINE>like to plant this item.
+Press the ~B00 button to exit.
+Row Level
+None
+Left :
+Right:
+Middl:
+Destination
+PokkePts

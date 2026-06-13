@@ -1,0 +1,62 @@
+2,Good day to you! You<NEWLINE>must be the hunter I<NEWLINE>just heard about.<NEWLINE>You're quite the topic<NEWLINE>of conversation in the<NEWLINE>village.
+2,Have you met the<NEWLINE>Village Chief? Well,<NEWLINE>do you see the large<NEWLINE>blue rock of ore at<NEWLINE>the back of the open<NEWLINE>plaza?
+0,The old lady next to<NEWLINE>that is actually the<NEWLINE>Village Chief. I think<NEWLINE>it would be best if<NEWLINE>you went over and said<NEWLINE>hello!
+0,The old lady standing<NEWLINE>next to the large blue<NEWLINE>rock of ore is the<NEWLINE>Village Chief. Don't<NEWLINE>forget to say hello to<NEWLINE>her.
+2,Oh, wait until you<NEWLINE>hear this story! You<NEWLINE>should learn important<NEWLINE>lessons from others,<NEWLINE>because this guy<NEWLINE>obviously didn't!
+2,A hunter went out to<NEWLINE>find some Mountain<NEWLINE>Herbs by himself, but<NEWLINE>ran into a brutal<NEWLINE>monster called a<NEWLINE>Giadrome instead! Now<NEWLINE>what would you do?
+2,Any ideas? A Giadrome<NEWLINE>can spit icy liquid,<NEWLINE>freezing its prey and<NEWLINE>allowing it to attack<NEWLINE>at will, you know!
+2,Well, if I were you, I<NEWLINE>would be really<NEWLINE>careful. Since you<NEWLINE>aren't at full<NEWLINE>strength, I'd<NEWLINE>recommend you run away<NEWLINE>as fast as you can!
+0,When it's time to run<NEWLINE>for your life, press<NEWLINE>the ~B05 button to<NEWLINE>dash with all your<NEWLINE>strength. Don't ever<NEWLINE>forget this, OK!?
+2,A Giadrome can spit<NEWLINE>icy liquid, freezing<NEWLINE>its prey and allowing<NEWLINE>it to attack at will.
+0,If the Giadrome has<NEWLINE>the upper hand, don't<NEWLINE>fight a losing battle,<NEWLINE>but instead run for<NEWLINE>your life. Press the <NEWLINE>~B05 button to get out<NEWLINE>of there.
+2,Oh, wait until you<NEWLINE>hear this story! You<NEWLINE>should learn important<NEWLINE>lessons from others,<NEWLINE>because this guy<NEWLINE>obviously didn't!
+2,Recently, a hunter ran<NEWLINE>into a strange wyvern<NEWLINE>with a glittering<NEWLINE>luminescence. He was<NEWLINE>really interested in<NEWLINE>it, so he got closer.
+2,If it would have<NEWLINE>attacked him, there<NEWLINE>would have been<NEWLINE>nothing he could've<NEWLINE>done about it! Kinda<NEWLINE>scary, huh!?
+2,You must be careful.<NEWLINE>If a monster launches<NEWLINE>a surprise attack,<NEWLINE>hold the ~B05 button <NEWLINE>and then press the<NEWLINE>~B02 button and <NEWLINE>~B00 button to Guard.
+0,Of course, your weapon<NEWLINE>must be capable of<NEWLINE>Guarding. If you want<NEWLINE>to know more about<NEWLINE>weapons, visit the<NEWLINE>esteemed instructor at<NEWLINE>the Training School.
+2,You must be careful.<NEWLINE>If a monster launches<NEWLINE>a surprise attack,<NEWLINE>hold the ~B05 button <NEWLINE>and then press the<NEWLINE>~B02 button and <NEWLINE>~B00 button to Guard.
+0,Of course, your weapon<NEWLINE>must be capable of<NEWLINE>Guarding. If you want<NEWLINE>to know more about<NEWLINE>weapons, visit the<NEWLINE>esteemed instructor at<NEWLINE>the Training School.
+2,Oh, wait until you<NEWLINE>hear this story! You<NEWLINE>should learn important<NEWLINE>lessons from others,<NEWLINE>because this guy<NEWLINE>obviously didn't!
+2,Recently, even though<NEWLINE>everyone's heard the<NEWLINE>Blangonga roar in the<NEWLINE>distance, someone<NEWLINE>decided they must see<NEWLINE>it for themselves and<NEWLINE>headed for the nest.
+2,He found it, but in<NEWLINE>the end, the Blangonga<NEWLINE>turned him into a<NEWLINE>snowman with its cold<NEWLINE>breath and crushed him<NEWLINE>with its enormous<NEWLINE>arms... Scary, huh?
+0,You must be careful.<NEWLINE>If you end up a<NEWLINE>snowman, use a Thawing<NEWLINE>Agent. As long as<NEWLINE>you've got this,<NEWLINE>you'll be able to<NEWLINE>escape in no time.
+2,If you get frozen<NEWLINE>solid like a snowman,<NEWLINE>use a Thawing Agent.<NEWLINE>It will let you get<NEWLINE>the snow off your body<NEWLINE>with ease.
+0,How do you get Thawing<NEWLINE>Agents? Sometimes they<NEWLINE>are one of your Supply<NEWLINE>Items, but you can<NEWLINE>make them yourself<NEWLINE>with Rumblefish and<NEWLINE>Fire Herb.
+2,Oh, wait until you<NEWLINE>hear this story! You<NEWLINE>should learn important<NEWLINE>lessons from others,<NEWLINE>before you head off<NEWLINE>and make a fool of<NEWLINE>yourself!
+2,The Tigrex they<NEWLINE>spotted in the Snowy<NEWLINE>Mountains sure is<NEWLINE>terrifying! Just the<NEWLINE>name alone is enough<NEWLINE>to make a child dash<NEWLINE>for cover!
+2,There was once a<NEWLINE>hunter in this village<NEWLINE>who stood up to a<NEWLINE>Tigrex.
+0,Everyone was against<NEWLINE>his plan, putting up<NEWLINE>all sorts of reasons<NEWLINE>why he shouldn't go.<NEWLINE>You understand, don't<NEWLINE>you? Fighting a Tigrex<NEWLINE>is a fool's errand!
+2,There was once a<NEWLINE>hunter in this village<NEWLINE>who stood up to a<NEWLINE>Tigrex.
+0,Everyone was against<NEWLINE>his plan, putting up<NEWLINE>all sorts of reasons<NEWLINE>why he shouldn't go.<NEWLINE>You understand, don't<NEWLINE>you? Fighting a Tigrex<NEWLINE>is a fool's errand!
+2,Oh, wait until you<NEWLINE>hear this story! You<NEWLINE>should learn important<NEWLINE>lessons from others,<NEWLINE>before you head off<NEWLINE>and make a fool of<NEWLINE>yourself!
+2,Lately, the hill<NEWLINE>country has played<NEWLINE>host to a pair of fire<NEWLINE>wyverns! It's rare to<NEWLINE>see a breeding pair,<NEWLINE>so people actually<NEWLINE>want to visit there!
+2,There was once a<NEWLINE>hunter in this village<NEWLINE>who got it in his head<NEWLINE>to face off against<NEWLINE>two wyverns at once...
+0,Everyone told him to<NEWLINE>stop, and thankfully<NEWLINE>they were able to talk<NEWLINE>some sense into him...<NEWLINE>Fighting two fire<NEWLINE>wyverns at once is an<NEWLINE>absolute death wish!
+2,There was a hunter in<NEWLINE>this village who go it<NEWLINE>in his head to face<NEWLINE>off against two<NEWLINE>wyverns at once...
+0,Everyone told him to<NEWLINE>stop, and thankfully<NEWLINE>they were able to talk<NEWLINE>some sense into him...<NEWLINE>Fighting two fire<NEWLINE>wyverns at once is an<NEWLINE>absolute death wish!
+2,Oh, wait until you<NEWLINE>hear this story! You<NEWLINE>should learn important<NEWLINE>lessons from others,<NEWLINE>before you head off<NEWLINE>and make a fool of<NEWLINE>yourself!
+2,Don't even think about<NEWLINE>going to the town<NEWLINE>these days. If rumors<NEWLINE>are correct, an<NEWLINE>enormous monster has<NEWLINE>laid siege to it!
+2,Long ago, the same<NEWLINE>monster is said to<NEWLINE>have attacked the<NEWLINE>town, causing a single<NEWLINE>hunter to declare that<NEWLINE>he would save the town<NEWLINE>from destruction.
+0,Everyone pressured him<NEWLINE>to rethink his plan...<NEWLINE>Trying to save an<NEWLINE>entire town by oneself<NEWLINE>would be a tall order<NEWLINE>for any hero!
+2,Long ago, when the<NEWLINE>town was under siege,<NEWLINE>there was a hunter who<NEWLINE>declared that he would<NEWLINE>save the everyone from<NEWLINE>destruction.
+0,Everyone pressured him<NEWLINE>to rethink his plan...<NEWLINE>Trying to save an<NEWLINE>entire town by oneself<NEWLINE>would be a tall order<NEWLINE>for any hero!
+2,Oh, wait until you<NEWLINE>hear this story! There<NEWLINE>is an important lesson<NEWLINE>to be had here!
+2,Now that Shen Gaoren<NEWLINE>has been defeated,<NEWLINE>people say the land is<NEWLINE>free of danger and<NEWLINE>walk around outside<NEWLINE>without a care in the<NEWLINE>world.
+2,But monsters still<NEWLINE>inhabit this land. A<NEWLINE>hunter's job does not<NEWLINE>end because one beast<NEWLINE>met its end. Everyone<NEWLINE>needs to recognize<NEWLINE>that!
+0,The silly hunter who<NEWLINE>said he would face off<NEWLINE>against a powerful<NEWLINE>monster is no longer<NEWLINE>with us, is he? The<NEWLINE>only one protecting<NEWLINE>this village is you.
+2,The silly hunter who<NEWLINE>said he would face off<NEWLINE>against a powerful<NEWLINE>monster is no longer<NEWLINE>with us, is he?
+0,He must have gone off<NEWLINE>into seclusion<NEWLINE>somewhere... Nah, it's<NEWLINE>not even worth<NEWLINE>pondering.
+2,Oh, wait until you<NEWLINE>hear this story! You<NEWLINE>should learn important<NEWLINE>lessons from others,<NEWLINE>because this guy<NEWLINE>obviously didn't!
+2,The mysterious giant<NEWLINE>black wyvern called<NEWLINE>Akantor is an<NEWLINE>absolutely terrifying<NEWLINE>beast! 
+2,There was once a<NEWLINE>hunter in this village<NEWLINE>who said he would face<NEWLINE>the Akantor himself.
+0,He left the village<NEWLINE>cheerful and full of<NEWLINE>courage... never to<NEWLINE>return. You understand<NEWLINE>this lesson, right?<NEWLINE>The Akantor is not to<NEWLINE>be trifled with!
+2,There was once a<NEWLINE>hunter in this village<NEWLINE>who said he would face<NEWLINE>the Akantor himself.
+0,He left the village<NEWLINE>cheerful and full of<NEWLINE>courage... never to<NEWLINE>return. You understand<NEWLINE>this lesson, right?<NEWLINE>The Akantor is not to<NEWLINE>be trifled with!
+2,Oh, wait until you<NEWLINE>hear this!
+2,When you were out and<NEWLINE>about on a Quest, I<NEWLINE>met the hunter I have<NEWLINE>told you about so many<NEWLINE>times!
+2,The one who ignored<NEWLINE>the advice of others<NEWLINE>and went off to face<NEWLINE>the Akantor alone.
+2,I was sure he would<NEWLINE>not return for all of<NEWLINE>eternity... But the<NEWLINE>truth is he took one<NEWLINE>look at Akantor and<NEWLINE>ran away without even<NEWLINE>taking a swing.
+0,He felt that he could<NEWLINE>never again face the<NEWLINE>other villagers, and<NEWLINE>decided not to return<NEWLINE>home... At least he is<NEWLINE>safe.
+2,Of course, I've never<NEWLINE>seen an Akantor<NEWLINE>myself. The kind of<NEWLINE>courage it takes to<NEWLINE>even ponder fighting<NEWLINE>something so<NEWLINE>terrifying is amazing!
+2,To think that you were<NEWLINE>able to slay an<NEWLINE>Akantor... That means<NEWLINE>that you are truly the<NEWLINE>model of a courageous<NEWLINE>hero.
+0,Even though the only<NEWLINE>thing I can offer you<NEWLINE>is a friendly chat, I<NEWLINE>hope you will stay in<NEWLINE>this village forever!

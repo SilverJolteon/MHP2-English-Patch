@@ -1,0 +1,199 @@
+2,Welcome to you! I've<NEWLINE>heard about you from<NEWLINE>the Village Chief. You<NEWLINE>must be the new<NEWLINE>hunter!
+2,This is the counter<NEWLINE>for the Hunter Guild<NEWLINE>Outpost here in Pokke<NEWLINE>Village. I am the<NEWLINE>Guild Manager here!
+2,The Guild created<NEWLINE>these outposts to<NEWLINE>connect with hunters<NEWLINE>who do not have the<NEWLINE>ability to travel to<NEWLINE>large towns.
+2,At this counter,<NEWLINE>multiple hunters can<NEWLINE>initiate Quests<NEWLINE>together. Of course,<NEWLINE>you can always<NEWLINE>initiate a Quest alone<NEWLINE>at this counter too.
+2,However, to prevent<NEWLINE>you from taking a<NEWLINE>Quest that is far<NEWLINE>beyond your abilities,<NEWLINE>we have implemented a<NEWLINE>ranking system, called<NEWLINE>Hunter Rank.
+2,Be aware that<NEWLINE>depending on your<NEWLINE>Hunter Rank, the<NEWLINE>Quests that you can<NEWLINE>take are different.
+2,If you'd like more<NEWLINE>details on Hunter<NEWLINE>Rank, you should go<NEWLINE>talk to the maiden<NEWLINE>nearby.
+2,Let's see now... What<NEWLINE>else do I have to<NEWLINE>explain to you? Ahh,<NEWLINE>that's right. How to<NEWLINE>enter the Gathering<NEWLINE>Hall!
+2,There are two ways to<NEWLINE>enter the Gathering<NEWLINE>Hall. One is to press<NEWLINE>the ~B03 button and<NEWLINE>the other method is to<NEWLINE>press the ~B00 button.
+2,Pressing the ~B03 button<NEWLINE>to enter will put you<NEWLINE>into the Offline<NEWLINE>Gathering Hall. When<NEWLINE>you'd like to do the<NEWLINE>Guild's work alone,<NEWLINE>use the ~B03 button.
+2,Using the ~B00 button<NEWLINE>will enter you into<NEWLINE>the Online Gathering<NEWLINE>Hall. If you want to<NEWLINE>tackle a Guild Quest<NEWLINE>with your mates, use<NEWLINE>this option.
+0,Whew... That tired me<NEWLINE>out! If you didn't<NEWLINE>quite understand<NEWLINE>something, ask the<NEWLINE>maiden close by here.<NEWLINE>The Guild is at your<NEWLINE>service!
+0,dummy
+0,dummy
+0,dummy
+0,dummy
+0,dummy
+0,dummy
+2,Hello! I hope all is<NEWLINE>well with you. 
+2,Today allow me to<NEWLINE>explain the remaining<NEWLINE>areas of departing on<NEWLINE>a Quest and Hunter<NEWLINE>Rank.
+2,When you choose to<NEWLINE>depart on a Quest,<NEWLINE>there are two ways you<NEWLINE>can go about it.
+2,One way of departing<NEWLINE>on a Quest is to sign<NEWLINE>up. When you want to<NEWLINE>initiate a Quest<NEWLINE>yourself, just talk<NEWLINE>with the girl at the<NEWLINE>reception counter.
+2,The second method is<NEWLINE>to join a Quest. To<NEWLINE>the right of the door<NEWLINE>inside is a Quest<NEWLINE>Board that lists all<NEWLINE>of the currently open<NEWLINE>Quests you can take.
+2,Special requests<NEWLINE>require that you sign<NEWLINE>up for them yourself,<NEWLINE>so never fail to rise<NEWLINE>up to the challenge.
+2,Hmm... What next...<NEWLINE>Ah, how to raise your<NEWLINE>Hunter Rank. You can<NEWLINE>raise your rank by<NEWLINE>completing specific<NEWLINE>level Quests from the<NEWLINE>Guild or the Chief.
+2,If an Urgent Quest is<NEWLINE>requested, you'll be<NEWLINE>able to initiate it.<NEWLINE>Success will also<NEWLINE>cause your Hunter Rank<NEWLINE>to rise.
+2,The specific Quests<NEWLINE>needed to rise in<NEWLINE>level are within one<NEWLINE>level. For instance,<NEWLINE>to rise to level 4,<NEWLINE>the Quests will be<NEWLINE>found only in level 3.
+2,Of course, if you plan<NEWLINE>on becoming stronger,<NEWLINE>you must challenge<NEWLINE>various Quests and<NEWLINE>gather assorted items<NEWLINE>to achieve your goal. 
+2,I must also mention<NEWLINE>Guild Points to you.<NEWLINE>If you save up these<NEWLINE>points, you may earn a<NEWLINE>Title.
+0,These Titles appear on<NEWLINE>your Guild Card. It<NEWLINE>must be noted that<NEWLINE>Guild Points are in no<NEWLINE>way related to Hunter<NEWLINE>Rank.
+2,There are two ways to<NEWLINE>raise your Hunter <NEWLINE>Rank:<NEWLINE>①: Challenge various <NEWLINE>Quests.<NEWLINE>②: Initiate specific <NEWLINE>Quests yourself.
+2,Keep these in mind as<NEWLINE>you set out on your<NEWLINE>journey as a hunter.<NEWLINE>Of course, if you plan<NEWLINE>on becoming strong you<NEWLINE>must challenge a wide<NEWLINE>variety of Quests.
+0,You can also earn<NEWLINE>Guild Points, which<NEWLINE>serve as a reward for<NEWLINE>your service to the<NEWLINE>Guild. If you save<NEWLINE>them, you can earn a<NEWLINE>special Title.
+0,dummy
+2,Hello! I hope all is<NEWLINE>well with you. 
+2,Today I'll explain to<NEWLINE>you the differences in<NEWLINE>materials earned<NEWLINE>between Quests here at<NEWLINE>the Gathering Hall and<NEWLINE>the Village Chief's<NEWLINE>Quests.
+2,Materials are<NEWLINE>generally divided into<NEWLINE>two levels. Upper rank<NEWLINE>materials and lower<NEWLINE>rank materials.
+2,Upper rank materials<NEWLINE>can be earned on<NEWLINE>Gathering Hall Quests<NEWLINE>level 6 and above. You<NEWLINE>can also earn them<NEWLINE>by working hard<NEWLINE>at Pokke Farm.
+2,Upper rank monster<NEWLINE>materials often have<NEWLINE>"hard" or "plus"<NEWLINE>attached to their<NEWLINE>names. I'm not sure of<NEWLINE>the naming used for<NEWLINE>ores or insects.
+2,Thus, crafting or<NEWLINE>strengthening items at<NEWLINE>the crafting shop<NEWLINE>which requires<NEWLINE>carapace will be<NEWLINE>restricted to the<NEWLINE>upper ranks.
+2,Lower rank materials<NEWLINE>can be earned on<NEWLINE>Quests from the<NEWLINE>Village Chief, levels<NEWLINE>1 to 5.
+2,On the easy level 1<NEWLINE>and 2 Gathering Hall<NEWLINE>Quests, the materials<NEWLINE>you can acquire are<NEWLINE>limited. Don't be<NEWLINE>disappointed with the<NEWLINE>items you obtain!
+2,These are good to<NEWLINE>start with, but once<NEWLINE>you get some real<NEWLINE>power, it would be<NEWLINE>wise to quit taking<NEWLINE>level 1 and 2 Quests.
+2,The level 3 to 5<NEWLINE>Quests from the<NEWLINE>Village Chief allow<NEWLINE>you to obtain<NEWLINE>basically the same<NEWLINE>items.
+2,With Gathering Hall<NEWLINE>Quests, the difficulty<NEWLINE>is higher and thus the<NEWLINE>rewards are a bit more<NEWLINE>rewarding. For<NEWLINE>example, you'll often<NEWLINE>obtain Monster Bone+.
+0,As you proceed through<NEWLINE>the Village Chief's<NEWLINE>Quests, or when you<NEWLINE>have comrades you'd<NEWLINE>like to hunt with,<NEWLINE>you'll find the Quests<NEWLINE>here quite useful.
+2,Materials are divided<NEWLINE>into high rank and low<NEWLINE>rank. High rank<NEWLINE>materials can be<NEWLINE>earned on Gathering<NEWLINE>Hall Quests level 6<NEWLINE>and above.
+0,All other Quests will<NEWLINE>earn you low rank<NEWLINE>materials. Be aware<NEWLINE>that level 1 and 2<NEWLINE>Gathering Hall Quests<NEWLINE>have a limit on the<NEWLINE>materials you'll earn.
+0,dummy
+2,Hello! I hope all is<NEWLINE>well with you. 
+2,Hmm... What should we<NEWLINE>talk about today. Oh<NEWLINE>yes, have you been<NEWLINE>using the crafting<NEWLINE>shop at all?
+2,The art of crafting<NEWLINE>has recently received<NEWLINE>a kick in the pants<NEWLINE>and the crafting shop<NEWLINE>is working hard to<NEWLINE>implement this new<NEWLINE>technology.
+2,It seems that the<NEWLINE>strengthening of melee<NEWLINE>weapons has become a<NEWLINE>shorter process and a<NEWLINE>greater number of<NEWLINE>derivations can be<NEWLINE>achieved.
+2,Plenty of weapons can<NEWLINE>be improved, or<NEWLINE>crafted. But the<NEWLINE>materials needed for<NEWLINE>each are different,<NEWLINE>thus I can't recommend<NEWLINE>which path is best.
+2,The strengthening of<NEWLINE>armor has also seen a<NEWLINE>revolution thanks to<NEWLINE>new materials. You can<NEWLINE>now improve armor with<NEWLINE>a single special item!
+2,However, you cannot<NEWLINE>change how the armor<NEWLINE>looks. If you want to<NEWLINE>upgrade to S-Series or<NEWLINE>U-Series armor, the<NEWLINE>only means is via<NEWLINE>crafting.
+0,Hmm... That's about<NEWLINE>it. I know there are<NEWLINE>lots of hard to<NEWLINE>understand points<NEWLINE>regarding crafting...<NEWLINE>I'm confused myself!
+2,The art of crafting<NEWLINE>has recently<NEWLINE>benefited from<NEWLINE>changes in technology,<NEWLINE>resulting in changes<NEWLINE>to how we do business.
+2,Now there are melee<NEWLINE>weapons that can be<NEWLINE>made via crafting or<NEWLINE>improvement. However,<NEWLINE>there are times when<NEWLINE>the required materials<NEWLINE>are different.
+2,If you obtain special<NEWLINE>materials, crafting<NEWLINE>may be the easiest,<NEWLINE>but there are also<NEWLINE>times when grinding<NEWLINE>the improvement path<NEWLINE>is more enjoyable.
+0,What about armor, you<NEWLINE>ask? If you've got an<NEWLINE>Armor Sphere, it seems<NEWLINE>improvement is an<NEWLINE>option. The world has<NEWLINE>truly become a better<NEWLINE>place, hasn't it?
+2,Hello! I hope all is<NEWLINE>well with you. 
+2,I was wondering, have<NEWLINE>you ever heard of<NEWLINE>elder dragons? The<NEWLINE>Guild requests these<NEWLINE>monsters be slayed by<NEWLINE>hunters who have<NEWLINE>proven their mettle.
+2,Most elder dragons are<NEWLINE>vulnerable to weapons<NEWLINE>with Dragon element.<NEWLINE>It is quite beneficial<NEWLINE>to have elder dragon<NEWLINE>materials when making<NEWLINE>these weapons.
+2,Huh? Chicken or the<NEWLINE>egg problem you say?<NEWLINE>Well, don't worry! You<NEWLINE>can still make Dragon<NEWLINE>element weapons<NEWLINE>without those rare<NEWLINE>materials.
+2,For instance, the<NEWLINE>Lance called the<NEWLINE>Growling Wyvern or<NEWLINE>weapons made from<NEWLINE>Ruststone can carry<NEWLINE>Dragon element.
+0,If you want to know<NEWLINE>more about elder<NEWLINE>dragons, go have a<NEWLINE>chat with the old man<NEWLINE>outside the Gathering<NEWLINE>Hall. 
+2,Weapons with Dragon<NEWLINE>element are effective<NEWLINE>against elder dragons.<NEWLINE>These weapons are easy<NEWLINE>to make with elder<NEWLINE>dragon material, but<NEWLINE>it's not required.
+2,For instance, the<NEWLINE>Lance called the<NEWLINE>Growling Wyvern or<NEWLINE>weapons made from<NEWLINE>Ruststone can carry<NEWLINE>Dragon element.
+0,If you want to know<NEWLINE>more about elder<NEWLINE>dragons, go have a<NEWLINE>chat with the old man<NEWLINE>outside the Gathering<NEWLINE>Hall. 
+2,Hello! I hope all is<NEWLINE>well with you. Perhaps<NEWLINE>it is time for you to<NEWLINE>try our Quests along<NEWLINE>with those from the<NEWLINE>Village Chief, eh?
+2,The Guild has worked<NEWLINE>hard to make sure its<NEWLINE>hunters have the very<NEWLINE>best opportunities.
+2,For instance, fighting<NEWLINE>against huge monsters<NEWLINE>or using siege weapons<NEWLINE>at the fort or town,<NEWLINE>such as the Ballista,<NEWLINE>Great Cannon, or<NEWLINE>Dragonator.
+2,It doesn't happen in<NEWLINE>small villages like<NEWLINE>this, but large towns<NEWLINE>are often the victims<NEWLINE>of attack by gigantic<NEWLINE>monsters.
+0,The Guild provides<NEWLINE>hunters opportunities<NEWLINE>to take these Quests<NEWLINE>via the Guild<NEWLINE>Outposts. Even you may<NEWLINE>be requested to come<NEWLINE>into our service.
+2,The Guild has prepared<NEWLINE>weapons for use<NEWLINE>against giant<NEWLINE>monsters. They are<NEWLINE>called the Ballista,<NEWLINE>Great Cannon, and the<NEWLINE>Dragonator.
+0,If the fortress or<NEWLINE>town is attacked, the<NEWLINE>Guild issues an urgent<NEWLINE>request to hunters via<NEWLINE>its Outposts. You too<NEWLINE>may be requested to<NEWLINE>join the fight.
+0,dummy
+0,dummy
+2,Hello! I hope all is<NEWLINE>well with you. You've<NEWLINE>pretty much conquered<NEWLINE>all of the Village<NEWLINE>Chief's Quests, have<NEWLINE>you not?
+2,You know, I'd be<NEWLINE>extremely happy if you<NEWLINE>were to take on some<NEWLINE>of the Quests waiting<NEWLINE>here at the Gathering<NEWLINE>Hall.
+2,If you are able to<NEWLINE>ascend to the High<NEWLINE>Rank Quests above<NEWLINE>level 6, you should be<NEWLINE>able to craft superbly<NEWLINE>powerful equipment.
+2,That reminds me, if<NEWLINE>you were to also put<NEWLINE>your all into Pokke<NEWLINE>Farm, you should be<NEWLINE>able to find some high<NEWLINE>rank items.
+0,Well, only ore and<NEWLINE>insect items, but if<NEWLINE>you are not ready for<NEWLINE>Gathering Hall Quests,<NEWLINE>the Farm is a good<NEWLINE>place to pour effort<NEWLINE>into.
+2,As you progress<NEWLINE>through the Gathering<NEWLINE>Hall Quests, you can<NEWLINE>begin to sign up for<NEWLINE>High Rank Quests.
+2,However, getting up to<NEWLINE>that level is<NEWLINE>difficult, so you<NEWLINE>might want to put some<NEWLINE>time and energy into<NEWLINE>Pokke Farm.
+0,High rank ore and<NEWLINE>insect items can be<NEWLINE>acquired there, or so<NEWLINE>I hear... Good luck!
+2,Hello! I hope all is<NEWLINE>well with you. So...<NEWLINE>How do you feel about<NEWLINE>High Rank Quests?
+2,I might have mentioned<NEWLINE>this before, but High<NEWLINE>Rank Quests are truly<NEWLINE>quite difficult.
+2,Supply Items will be<NEWLINE>limited and you may<NEWLINE>not start the Quest at<NEWLINE>your base camp...
+2,You are also often<NEWLINE>subjected to a<NEWLINE>disadvantaged start,<NEWLINE>surrounded by<NEWLINE>monsters; however, I'm<NEWLINE>sure you can handle<NEWLINE>it!
+0,Ah yes... Starting a<NEWLINE>Quest from an unknown<NEWLINE>location... There may<NEWLINE>be times that this is<NEWLINE>to your advantage, or<NEWLINE>so I hear.
+2,High Rank Quests can<NEWLINE>be truly difficult...<NEWLINE>Strong monsters, no<NEWLINE>Supply Items... The<NEWLINE>works.
+0,However, I hear from<NEWLINE>some hunters that<NEWLINE>starting from an<NEWLINE>unknown location can<NEWLINE>actually be a stroke<NEWLINE>of luck!
+2,The incredibly violent<NEWLINE>and previously unknown<NEWLINE>wyvern that recently<NEWLINE>appeared is apparently<NEWLINE>called an Akantor.
+2,Our Guild research has<NEWLINE>revealed this to be<NEWLINE>its name after looking<NEWLINE>into distant folklore<NEWLINE>and Felyne legends.
+2,It is said to be an<NEWLINE>incredibly rugged<NEWLINE>beast with both its<NEWLINE>rock-like face and<NEWLINE>back covered with<NEWLINE>sharp, spiny growths. 
+0,A fight with it should<NEWLINE>prove to be incredibly<NEWLINE>dangerous... Even for<NEWLINE>you. Huh? Did I say<NEWLINE>something wrong?
+2,The Guild is still in<NEWLINE>the middle of research<NEWLINE>into the Akantor.
+0,It is sharp, spiny,<NEWLINE>spiky, spooky,<NEWLINE>scary... So many<NEWLINE>S-words that I can't<NEWLINE>think of anything else<NEWLINE>to say but good luck!
+2,Hello! I hope all is<NEWLINE>well with you. It<NEWLINE>seems to be with the<NEWLINE>way you are walking<NEWLINE>around these days!
+2,You've become famous<NEWLINE>for slaying the<NEWLINE>Akantor, even among<NEWLINE>members of the Guild.
+2,I suppose you are<NEWLINE>incredibly busy these<NEWLINE>days, but I'd love to<NEWLINE>be able to interview<NEWLINE>you and collect some<NEWLINE>data.
+0,But I figured you were<NEWLINE>more interested in<NEWLINE>surmounting Quest<NEWLINE>after Quest... I'm<NEWLINE>looking forward to<NEWLINE>your tales!
+2,You've become famous<NEWLINE>for slaying the<NEWLINE>Akantor, even among<NEWLINE>members of the Guild.
+0,I wish you good luck<NEWLINE>in the future... For<NEWLINE>the sake of the<NEWLINE>Guild... and for me.
+0,dummy
+0,dummy
+0,dummy
+0,dummy
+2,Hello! I hope all is<NEWLINE>well with you. 
+2,I've got a bit of a<NEWLINE>strange request for<NEWLINE>you today. Slaying a<NEWLINE>level 2 Rathalos and a<NEWLINE>level 2 Rathian...
+2,Fire wyverns are<NEWLINE>incredibly strong, so<NEWLINE>this is not your<NEWLINE>ordinary level 2<NEWLINE>Quest.
+0,But since it is a<NEWLINE>level 2 Quest, the<NEWLINE>materials you get<NEWLINE>won't be that great.<NEWLINE>However, it is perfect<NEWLINE>for gathering fire<NEWLINE>wyvern materials.
+0,dummy
+2,Hello there! I've got<NEWLINE>wonderful news for you<NEWLINE>today!
+2,Guild Headquarters has<NEWLINE>sent out an urgent<NEWLINE>request! If you<NEWLINE>succeed at this,<NEWLINE>you'll be able to<NEWLINE>initiate level 4<NEWLINE>Quests!
+2,Also note that the<NEWLINE>requestor, the Guild<NEWLINE>Master, is the old<NEWLINE>Wyverian man in charge<NEWLINE>of the Guild in the<NEWLINE>town.
+0,Take care of yourself,<NEWLINE>as you'll be facing a<NEWLINE>Blangonga in this<NEWLINE>Quest. He is a rather<NEWLINE>disagreeable foe, so<NEWLINE>always keep your guard<NEWLINE>up!
+0,dummy
+2,Hello there! Congrats<NEWLINE>on clearing the Urgent<NEWLINE>Quest for level 4!<NEWLINE>Now other level 4<NEWLINE>Quests are available<NEWLINE>to you.
+2,These Quests are<NEWLINE>difficult, so do your<NEWLINE>very best. If you<NEWLINE>overcome level 4, you<NEWLINE>will unlock the Urgent<NEWLINE>Quest that leads to<NEWLINE>level 5.
+2,Which reminds me to<NEWLINE>mention that those who<NEWLINE>initiate these Quests<NEWLINE>will receive double<NEWLINE>the reward upon<NEWLINE>completion.
+0,However, if you fail,<NEWLINE>your contract fee will<NEWLINE>be forfeited to the<NEWLINE>Guild. It is our line<NEWLINE>of work after all...
+0,dummy
+2,Hello there! The<NEWLINE>Urgent Quest to level<NEWLINE>5 has been requested!
+0,Don't just pretend to<NEWLINE>do your best this<NEWLINE>time! You are facing a<NEWLINE>Tigrex! It's a brutal<NEWLINE>foe, so exercise<NEWLINE>caution!
+0,dummy
+2,Hello there! Congrats<NEWLINE>on clearing the Urgent<NEWLINE>Quest for level 5!<NEWLINE>Now other level 5<NEWLINE>Quests are available<NEWLINE>to you.
+2,Level 5 is home to<NEWLINE>incredibly difficult<NEWLINE>Quests! You'll have to<NEWLINE>give it everything<NEWLINE>you've got.
+0,Ahh yes... A small<NEWLINE>token to congratulate<NEWLINE>you on your success...<NEWLINE>I hope you find it<NEWLINE>useful.
+0,dummy
+2,Hello there! Listen to<NEWLINE>this one! I can't<NEWLINE>believe it!
+2,The fort that the<NEWLINE>Guild controls is<NEWLINE>desperately in need of<NEWLINE>reinforcements. It is<NEWLINE>under attack by a<NEWLINE>gigantic monster!
+2,The fort was placed<NEWLINE>along a path often<NEWLINE>used by monsters and<NEWLINE>is defended by weapons<NEWLINE>like the Ballista and<NEWLINE>Great Cannon.
+2,It also has a<NEWLINE>Dragonator, a powerful<NEWLINE>short-range weapon.<NEWLINE>The mix of short and<NEWLINE>long-range attacks is<NEWLINE>key to defending the<NEWLINE>fort.
+0,Finally, according to<NEWLINE>the Guild, success in<NEWLINE>this Quest will<NEWLINE>qualify you for entry<NEWLINE>into High Rank Quests.
+0,dummy
+2,Hello there! It seems<NEWLINE>that you've defended<NEWLINE>our Guild Fort without<NEWLINE>a hitch. Well done.
+2,This achievement has<NEWLINE>formally led the Guild<NEWLINE>to recognize you as a<NEWLINE>first-class hunter and<NEWLINE>qualify you for High<NEWLINE>Rank Quests.
+2,However, it is my duty<NEWLINE>to inform you of<NEWLINE>several details<NEWLINE>regarding High Rank<NEWLINE>Quests.
+2,During a High Rank<NEWLINE>Quest, the ability of<NEWLINE>the Guild to support<NEWLINE>you is, shall I say,<NEWLINE>lacking. For instance,<NEWLINE>Supply Items...
+2,You won't always get<NEWLINE>them as you should,<NEWLINE>and you may have to<NEWLINE>begin work without<NEWLINE>them... Delivering<NEWLINE>supplies is awfully<NEWLINE>dangerous you see.
+2,There is also a chance<NEWLINE>that you will begin<NEWLINE>the Quest far from<NEWLINE>your normal base camp.
+2,It is not unusual for<NEWLINE>one to start from a<NEWLINE>strange, completely<NEWLINE>unknown location.
+2,There are obviously<NEWLINE>obstacles to surmount,<NEWLINE>but the high quality<NEWLINE>items make up for them<NEWLINE>I think... All you can<NEWLINE>do now is your best.
+2,Well, I guess that is<NEWLINE>it... Except for one<NEWLINE>thing. The Guild<NEWLINE>Elders have bestowed<NEWLINE>their mark of<NEWLINE>appreciation as a<NEWLINE>reward.
+0,I'm told you can take<NEWLINE>it to the crafting<NEWLINE>shop and exchange it<NEWLINE>for equipment.
+0,dummy
+2,Hello there. I have<NEWLINE>another request from<NEWLINE>the Guild.
+2,It seems that none<NEWLINE>other than a Lao-Shan<NEWLINE>Lung is approaching<NEWLINE>the fort.
+0,If you succeed, you<NEWLINE>will be able to<NEWLINE>initiate level 7<NEWLINE>Quests. Good luck.
+0,dummy
+2,Hello there! You<NEWLINE>repelled Lao-Shan<NEWLINE>Lung! Moreover, it<NEWLINE>wasn't even a normal<NEWLINE>variety Lao-Shan Lung!
+2,You've truly become<NEWLINE>quite powerful,<NEWLINE>haven't you? I suppose<NEWLINE>a reward is in order.
+0,Not to mention you are<NEWLINE>now able to initiate<NEWLINE>level 7 Quests. They<NEWLINE>are very difficult, so<NEWLINE>do your best!
+0,dummy
+2,Hello there! I've got<NEWLINE>some terrible news.<NEWLINE>Not one, but two<NEWLINE>Tigrex have appeared<NEWLINE>in the Snowy<NEWLINE>Mountains!
+2,It isn't just the<NEWLINE>Guild that is in<NEWLINE>distress, the two<NEWLINE>Tigrex have caused<NEWLINE>damage to the local<NEWLINE>area. You have to be<NEWLINE>extremely careful!
+0,If you succeed, you<NEWLINE>will be able to<NEWLINE>initiate the<NEWLINE>incredibly high level<NEWLINE>8 Quests!
+0,dummy
+2,Oh my oh my oh my...<NEWLINE>You repelled not one,<NEWLINE>but two Tigrex! An<NEWLINE>amazing feat!
+2,You are now able to<NEWLINE>initiate the maximum<NEWLINE>level of Quests -<NEWLINE>level 8! I've said it<NEWLINE>before, but this time<NEWLINE>it's true... These are<NEWLINE>difficult!
+0,That is why I hope<NEWLINE>this present will come<NEWLINE>in handy for you! Good<NEWLINE>luck!
+0,dummy
+2,Oh no... We've got<NEWLINE>another urgent report<NEWLINE>from the Guild.
+2,Guild Headquarters<NEWLINE>reports that a town is<NEWLINE>under attack. It is an<NEWLINE>important town that<NEWLINE>must be defended!
+0,The town, like the<NEWLINE>fort, is equipped with<NEWLINE>weapons such as the<NEWLINE>Ballista and the<NEWLINE>Dragonator. Be sure to<NEWLINE>make use of them.
+0,dummy
+2,Hello there! Thank you<NEWLINE>once again for saving<NEWLINE>the Guild!
+2,The town is truly in<NEWLINE>your debt. As such,<NEWLINE>the Guild Elders have<NEWLINE>seen fit to reward you<NEWLINE>for your service...
+2,Huh? This can't be<NEWLINE>true! I have<NEWLINE>incredible news for<NEWLINE>you!
+2,I'm not sure of the<NEWLINE>details, but the Guild<NEWLINE>is reporting that an<NEWLINE>unknown wyvern has<NEWLINE>been sighted!
+2,In fact, we aren't<NEWLINE>sure if it is actually<NEWLINE>a wyvern or an elder<NEWLINE>dragon! I can't<NEWLINE>believe it... It is<NEWLINE>incredibly... Scary!
+2,The Guild pursued the<NEWLINE>beast and has pinned<NEWLINE>down its location to<NEWLINE>the back of the<NEWLINE>Volcanic Belt. Its<NEWLINE>power has prevented<NEWLINE>them from slaying it.
+2,It is your turn to<NEWLINE>rise! The Guild<NEWLINE>Defense Committee<NEWLINE>believes only you have<NEWLINE>the power to slay the<NEWLINE>beast. 
+0,I'm sure their faith<NEWLINE>is not misplaced. You<NEWLINE>should be fine... I<NEWLINE>think. I simply won't<NEWLINE>accept a world where<NEWLINE>you can't slay<NEWLINE>anything.
+2,My oh my! You did it!<NEWLINE>You slayed the<NEWLINE>Akantor! Absolutely<NEWLINE>wonderful!
+2,You didn't get eaten<NEWLINE>like a juicy morsel or<NEWLINE>impaled by a sharp<NEWLINE>nasty fang! I was so<NEWLINE>worried about you! In<NEWLINE>my dreams of course...
+2,It's good to know that<NEWLINE>my conscious mind was<NEWLINE>so right about you! I<NEWLINE>must say I'm very<NEWLINE>proud... Of you of<NEWLINE>course! 
+2,Oh yes! I've got a<NEWLINE>present for you! I'm<NEWLINE>sure you will make<NEWLINE>great use of these!
+0,Allow me to say a few<NEWLINE>last words... Your<NEWLINE>style? Impetuous. Your<NEWLINE>defenses? Impregnable.<NEWLINE>You're without a doubt<NEWLINE>the world's bravest<NEWLINE>monster hunter!
+0,dummy
+2,Hello there! It seems<NEWLINE>you have cleared all<NEWLINE>of the ★★★ and <NEWLINE>above Quests from the<NEWLINE>Guild Outpost.
+0,That means that I<NEWLINE>should give you a<NEWLINE>present. Lovely<NEWLINE>things, these<NEWLINE>presents, and I'm sure<NEWLINE>you'll love this one!
+2,Well hello there! It<NEWLINE>seems you've got a<NEWLINE>wonderful comrade with<NEWLINE>you today!
+2,It is incredibly<NEWLINE>important as a hunter<NEWLINE>to have comrades you<NEWLINE>can trust.
+2,I hope that, from now<NEWLINE>on, you can join<NEWLINE>forces with your<NEWLINE>comrades and do your<NEWLINE>best in the service of<NEWLINE>the Guild... No... In<NEWLINE>the service of all!
+0,I think that you<NEWLINE>deserve a present to<NEWLINE>commemorate this<NEWLINE>wonderful occasion.<NEWLINE>I'm sure you'll find<NEWLINE>some use for this.
+2,Hello there! It seems<NEWLINE>you've got a great<NEWLINE>friend in tow with you<NEWLINE>today! 
+2,For a hunter, having a<NEWLINE>friend to hunt with is<NEWLINE>an incredibly<NEWLINE>important thing. 
+2,I hope that, from now<NEWLINE>on, you can join<NEWLINE>forces with your<NEWLINE>comrades and do your<NEWLINE>best in the service of<NEWLINE>the Guild... No... In<NEWLINE>the service of all!
+0,I think that you<NEWLINE>deserve a present to<NEWLINE>commemorate this<NEWLINE>wonderful occasion.<NEWLINE>I'm sure you'll find<NEWLINE>some use for this.
+2,Well hello there! It<NEWLINE>seems like you are<NEWLINE>doing quite well!
+2,Which reminds me that<NEWLINE>I have something I've<NEWLINE>been meaning to give<NEWLINE>you!
+2,I was planning on<NEWLINE>giving it to you<NEWLINE>earlier, but we just<NEWLINE>haven't had a chance<NEWLINE>to talk lately...
+0,You haven't been<NEWLINE>ignoring me, have<NEWLINE>you!? Hmm... It think<NEWLINE>there was something<NEWLINE>else I wanted to talk<NEWLINE>to you about, but I<NEWLINE>forget what it is...
+2,Hello and welcome! I<NEWLINE>hope you have been<NEWLINE>doing well!
+0,If you are interested<NEWLINE>in initiating a Quest,<NEWLINE>please go and talk<NEWLINE>with the girl at the<NEWLINE>counter next to here.

@@ -1,0 +1,25 @@
+－－－－－－
+Dummy
+Add a Field Row. <NEWLINE>Now you can gather<NEWLINE>even more plants.
+Add a Field Row.<NEWLINE>Gather more plants<NEWLINE>than ever before.
+Dummy
+Extend the Fishing Pier.<NEWLINE>The number of fish you can<NEWLINE>catch will be increased.
+Extend the Fishing Pier.<NEWLINE>Catch more fish than ever<NEWLINE>before!
+Fires off a net capable of<NEWLINE>catching many fish. Beware<NEWLINE>of the usage limits.
+Dummy
+Expand the number of<NEWLINE>Mining Points. You can now<NEWLINE>obtain rare ores.
+Expand the number of<NEWLINE>Mining Points. You can now<NEWLINE>obtain even rarer ores.
+Expand the number of<NEWLINE>Mining Points. Obtain even<NEWLINE>more rare ores!
+Using bombs, you can do a<NEWLINE>ton of mining. Beware of<NEWLINE>the usage limits. 
+Dummy
+Add a strange thicket with<NEWLINE>a smell loved by insects.<NEWLINE>Collect rare bugs!
+Add a strange thicket with<NEWLINE>a smell loved by insects.<NEWLINE>Collect rarer bugs!
+Add a strange thicket with<NEWLINE>a smell loved by insects.<NEWLINE>Collect more rare bugs!
+Shake a tree and gather<NEWLINE>the bugs! Beware of the<NEWLINE>usage limits!
+Plant a tree for mushrooms<NEWLINE>to grow upon.
+Plant a tree for high<NEWLINE>quality mushrooms to grow<NEWLINE>upon. 
+Plant a tree for top<NEWLINE>quality mushrooms to grow<NEWLINE>upon. Top-class item.
+Install a prototype Bee<NEWLINE>Hive. Not very efficient<NEWLINE>for gathering Honey.
+Install a production model<NEWLINE>Bee Hive. Produces more<NEWLINE>Honey than its prototype.
+Install a modified model<NEWLINE>Bee Hive. More Honey than<NEWLINE>a Production Bee Hive.
+Construct a boat that will<NEWLINE>prove useful to Trenya<NEWLINE>during his adventures.

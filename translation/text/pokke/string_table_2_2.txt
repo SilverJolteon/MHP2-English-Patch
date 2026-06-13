@@ -1,0 +1,25 @@
+0,Hello... meow! So you<NEWLINE>need new weapons or<NEWLINE>armor? If you don't<NEWLINE>have materials, this<NEWLINE>is the purrfect place<NEWLINE>to buy them. What can<NEWLINE>I do for you, nya?
+1,dummy
+1,dummy
+0,Thank you! Thank you!<NEWLINE>Come back soon, meow!
+2,dummy
+2,dummy
+2,Meow! So you need new<NEWLINE>weapons or armor?<NEWLINE>Don't nya know that it<NEWLINE>is impurrtant that<NEWLINE>hunters have the best<NEWLINE>armor and weapons!?
+2,If you have materials,<NEWLINE>then the crafting shop<NEWLINE>next door can make<NEWLINE>something for you. But<NEWLINE>if not, then you'll<NEWLINE>have to buy your items<NEWLINE>brand new, meow!
+2,I'll even sell you<NEWLINE>armor that they can't<NEWLINE>craft next door! Next<NEWLINE>time, I'll get some<NEWLINE>purrific armor for<NEWLINE>you, meow!
+0,It's just right now<NEWLINE>our stocks are a<NEWLINE>little low, nya... But<NEWLINE>when you don't have<NEWLINE>materials, step right<NEWLINE>up! But buy a lot...<NEWLINE>I've gotta eat, meow!
+0,dummy
+2,You're back, nya!<NEWLINE>Would you like some<NEWLINE>new weapons or armor?<NEWLINE>We've gotten some<NEWLINE>hunter's goods in just<NEWLINE>for you, meow!
+2,We've got items that<NEWLINE>are purrfect for those<NEWLINE>who aren't satisfied<NEWLINE>with just a Mafumofu!<NEWLINE>Give the Chain line,<NEWLINE>Hunter line, or Battle<NEWLINE>line of armor a try!
+0,But those lines of<NEWLINE>armor aren't very good<NEWLINE>at keeping out the<NEWLINE>cold, meow. If you are<NEWLINE>going to the mountains<NEWLINE>make sure to take<NEWLINE>purrcautions, meow!
+0,dummy
+2,It's you, meow! To<NEWLINE>celebrate you slaying<NEWLINE>that dodo Blangonga,<NEWLINE>we've stocked some new<NEWLINE>armor!
+2,We've got three pairs<NEWLINE>of special boots made<NEWLINE>from special alloys.<NEWLINE>Try the Silver Metal<NEWLINE>Boots, Dark Metal<NEWLINE>Boots, or Pink Metal<NEWLINE>Boots, nya!
+2,They can't be crafted<NEWLINE>from materials, so<NEWLINE>they're really<NEWLINE>beautiful boots! They<NEWLINE>have high defense too!<NEWLINE>I wish I was a puss in<NEWLINE>boots, meow!
+0,But not the pink boots<NEWLINE>because those are only<NEWLINE>worn by women!<NEWLINE>Anyways, have yourself<NEWLINE>a look, nya!
+0,dummy
+2,Ahh! You're here!<NEWLINE>You're here! Meow!<NEWLINE>Meow! We've got some<NEWLINE>amazing armor set<NEWLINE>aside made from a<NEWLINE>special alloy paws<NEWLINE>above the rest, meow! 
+2,The Chrome Metal Coat<NEWLINE>and Chrome Metal Boots<NEWLINE>are black with a gold<NEWLINE>line that's absolutely<NEWLINE>the cat's meow... I'm<NEWLINE>purring just thinking<NEWLINE>about it, meow!
+0,If I was a hunter, I'd<NEWLINE>definitely wear them,<NEWLINE>nya! Sorry, I got<NEWLINE>carried away... You<NEWLINE>should still check out<NEWLINE>that armor though,<NEWLINE>meow!
+0,dummy
+0,dummy

@@ -1,0 +1,27 @@
+0,Welcome! What can I do<NEWLINE>for you today? From<NEWLINE>everyday items to<NEWLINE>items for your<NEWLINE>hunter's manual, we<NEWLINE>carry a wide<NEWLINE>selection.
+1,dummy
+0,Thank you. Come back<NEWLINE>soon.
+0,dummy
+2,Well, hello there.<NEWLINE>You're the new hunter,<NEWLINE>right? This general<NEWLINE>store should have all<NEWLINE>of the various items<NEWLINE>you need. 
+2,We carry everything<NEWLINE>from daily necessities<NEWLINE>like Herbs to the<NEWLINE>various specialty<NEWLINE>items needed for a<NEWLINE>hunter's life. Let us<NEWLINE>know what you need.
+2,Unfortunately ever<NEWLINE>since the last hunter<NEWLINE>retired, our normal<NEWLINE>supply routes have<NEWLINE>dried up... So we<NEWLINE>don't have our full<NEWLINE>compliment of stock.
+0,That's why we've been<NEWLINE>looking forward to<NEWLINE>your arrival for so<NEWLINE>long. Your success<NEWLINE>will mean we will be<NEWLINE>able to return our<NEWLINE>stock to normal!
+2,Welcome once again!<NEWLINE>You've come at just<NEWLINE>the right time too!<NEWLINE>One of our supply<NEWLINE>routes opened up and<NEWLINE>we just got in some<NEWLINE>new items!
+2,Look at this one! This<NEWLINE>is the Organizer Guide<NEWLINE>we just got in! It<NEWLINE>increases the space of<NEWLINE>your Item Box. Isn't<NEWLINE>that incredible?
+0,How about the Book of<NEWLINE>Combos 3. It's our<NEWLINE>pick for hunters who<NEWLINE>like to combine during<NEWLINE>a Quest. We've also<NEWLINE>got bowgun shells and<NEWLINE>lots of other items!
+0,dummy
+2,Welcome! So you got<NEWLINE>rid of the Blangonga,<NEWLINE>huh? Well, thanks to<NEWLINE>you, we've been able<NEWLINE>to stock even more<NEWLINE>items! 
+2,Here's one of the new<NEWLINE>items we got in. It's<NEWLINE>the Book of Combos 4.<NEWLINE>If you carry it along<NEWLINE>with Books 1, 2, and<NEWLINE>3, your success rate<NEWLINE>will skyrocket!
+2,We've also got some<NEWLINE>new monster info. I<NEWLINE>figured you would be<NEWLINE>interested because a<NEWLINE>hunter of your level<NEWLINE>requires the latest<NEWLINE>information!
+0,Finally, we received<NEWLINE>some powerful bowgun<NEWLINE>shells and a wide<NEWLINE>assortment of useful<NEWLINE>items.
+0,dummy
+2,Welcome again! I've<NEWLINE>got excellent news! A <NEWLINE>new supply route has<NEWLINE>opened and it is all<NEWLINE>thanks to you! 
+2,We've now got some<NEWLINE>excellent products to<NEWLINE>show you! I recommend<NEWLINE>the Mega Pickaxe and<NEWLINE>the Mega Bugnet. They<NEWLINE>are both very hard to<NEWLINE>break.
+2,Another recommendation<NEWLINE>is the Book of Combos<NEWLINE>5. Using it with the<NEWLINE>other books will make<NEWLINE>combining failure a<NEWLINE>thing of the past.
+0,We've also got a great<NEWLINE>item for a hunter like<NEWLINE>yourself! In the dark<NEWLINE>about elder dragons<NEWLINE>and their ilk? Not for<NEWLINE>long with a collection<NEWLINE>of monster info!
+0,dummy
+2,Welcome! Thanks to<NEWLINE>you, this little<NEWLINE>village has become<NEWLINE>famous! Our supply<NEWLINE>routes have increased<NEWLINE>to the point there's<NEWLINE>no more stock room!
+2,Thanks to our great<NEWLINE>stock, I can recommend<NEWLINE>some items today! How<NEWLINE>about the Backpacker<NEWLINE>Guide. It'll increase<NEWLINE>your Item Box capacity<NEWLINE>to the limit!
+2,We were also able to<NEWLINE>stock some shells for<NEWLINE>Gunners. Particularly<NEWLINE>the Pellet S Lv3 and<NEWLINE>Pierce S Lv3. We've<NEWLINE>also gotten in some<NEWLINE>new monster info.
+0,The fact that we are<NEWLINE>so well stocked is<NEWLINE>100% thanks to you.<NEWLINE>Truly, we can't thank<NEWLINE>you enough.
+0,dummy

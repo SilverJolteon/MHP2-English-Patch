@@ -1,0 +1,76 @@
+2,Huh!? M-Master!?
+2,I'm sorry, nya. I made<NEWLINE>a mistake... I thought<NEWLINE>you were someone else.<NEWLINE>Let me make it up to<NEWLINE>you by showing you<NEWLINE>around the Gathering<NEWLINE>Hall.
+2,The girl at the back<NEWLINE>over there works for<NEWLINE>the Hunter's Shoppe.<NEWLINE>They sell lots of<NEWLINE>helpful items, meow.
+2,To the left of the<NEWLINE>Hunter's Shoppe maiden<NEWLINE>is the Quest Board.<NEWLINE>There you can sign up<NEWLINE>for other hunter's<NEWLINE>Quests.
+2,To the right of the<NEWLINE>maiden is a small Item<NEWLINE>Box, nya. You can't<NEWLINE>store equipment in<NEWLINE>there, but you can<NEWLINE>place other small<NEWLINE>items in there.
+2,To the right of that<NEWLINE>box is an old man<NEWLINE>wearing a helmet. That<NEWLINE>is the one and only<NEWLINE>Treshi, meow!
+0,Treshi's special<NEWLINE>Treasure Hunters<NEWLINE>Quests have fantastic<NEWLINE>rewards in either cash<NEWLINE>or Pokke Points! You<NEWLINE>can do them alone, so<NEWLINE>try them out, nya!
+2,The exit in the back<NEWLINE>is where you can<NEWLINE>depart on a Quest once<NEWLINE>you've signed up for<NEWLINE>one or initiated your<NEWLINE>own, meow.
+2,One day, my master<NEWLINE>left through that very<NEWLINE>door, nya... He still<NEWLINE>hasn't come back.
+0,Master... How long<NEWLINE>must I wait here for<NEWLINE>you, meow...?
+2,Huh!? M-Master!?
+2,I'm sorry, nya. I made<NEWLINE>a mistake... I thought<NEWLINE>you were someone else.<NEWLINE>I've been waiting here<NEWLINE>day and night for my<NEWLINE>master to return, nya.
+2,Day and night... That<NEWLINE>reminds me! Hunters<NEWLINE>can go out on Quests<NEWLINE>at either day or<NEWLINE>night!
+2,Daytime might be great<NEWLINE>hunting weather, while<NEWLINE>the night might bring<NEWLINE>heavy rains, and all<NEWLINE>of it can change<NEWLINE>depending on where you<NEWLINE>are and the time, nya.
+2,When it is raining,<NEWLINE>you can't use bombs.<NEWLINE>My master said that<NEWLINE>was really tough,<NEWLINE>meow.
+0,My master is an<NEWLINE>excellent hunter, nya!<NEWLINE>I'm sure that no<NEWLINE>matter if it is day or<NEWLINE>night where he is, he<NEWLINE>is doing great!
+2,Daytime might be great<NEWLINE>hunting weather, while<NEWLINE>the night might bring<NEWLINE>heavy rains, and all<NEWLINE>of it can change<NEWLINE>depending on where you<NEWLINE>are and the time, nya.
+2,When it is raining,<NEWLINE>you can't use bombs.<NEWLINE>My master said that<NEWLINE>was really tough,<NEWLINE>meow.
+0,My master is an<NEWLINE>excellent hunter, nya!<NEWLINE>I'm sure that no<NEWLINE>matter if it is day or<NEWLINE>night where he is, he<NEWLINE>is doing great!
+2,Huh!? M-Master!?
+2,I'm sorry, nya. I made<NEWLINE>a mistake... I thought<NEWLINE>you were someone else.<NEWLINE>My master went out on<NEWLINE>a hunt and still<NEWLINE>hasn't come back<NEWLINE>yet...
+2,Proving one's skill<NEWLINE>means proving yourself<NEWLINE>during a hunt... That<NEWLINE>is one of my master's<NEWLINE>favorite sayings.
+2,Each piece of armor<NEWLINE>has a certain amount<NEWLINE>of Skill Points. All<NEWLINE>of these points are<NEWLINE>added up and can cause<NEWLINE>a skill to activate,<NEWLINE>meow!
+2,If you have 10 points<NEWLINE>in the Paralysis line,<NEWLINE>that will activate the<NEWLINE>Para Duration Halved<NEWLINE>skill. Saving up more<NEWLINE>points will unlock<NEWLINE>even better skills!
+0,I'm glad the lecture<NEWLINE>master gave me about<NEWLINE>skills has finally<NEWLINE>come in handy, meow!
+2,Each piece of armor<NEWLINE>has a certain amount<NEWLINE>of Skill Points. All<NEWLINE>of these points are<NEWLINE>added up and can cause<NEWLINE>a skill to activate,<NEWLINE>meow!
+2,If you have 10 points<NEWLINE>in the Paralysis line,<NEWLINE>that will activate the<NEWLINE>Para Duration Halved<NEWLINE>skill. Saving up more<NEWLINE>points will unlock<NEWLINE>even better skills!
+0,I'm glad the lecture<NEWLINE>master gave me about<NEWLINE>skills has finally<NEWLINE>come in handy, meow!
+2,Huh!? M-Master!?
+2,I'm sorry, nya. I made<NEWLINE>a mistake... I thought<NEWLINE>you were someone else.<NEWLINE>My master went to slay<NEWLINE>a giant monster and<NEWLINE>still hasn't come back<NEWLINE>yet...
+2,Knowing the weak<NEWLINE>points of an enemy is<NEWLINE>vital to defeating<NEWLINE>it... That's what<NEWLINE>master used to always<NEWLINE>say, meow.
+2,Some monsters are weak<NEWLINE>against fire while<NEWLINE>others are weak versus<NEWLINE>water. Using weapons<NEWLINE>with elemental powers<NEWLINE>is the way to exploit<NEWLINE>these weaknesses!
+2,My master is a hunter<NEWLINE>with an abundance of<NEWLINE>knowledge, meow.<NEWLINE>That's why he promised<NEWLINE>to come back after<NEWLINE>defeating his most<NEWLINE>powerful foe...
+0,Master... How long<NEWLINE>must I wait here for<NEWLINE>you, meow...?
+2,Some monsters are weak<NEWLINE>against fire while<NEWLINE>others are weak versus<NEWLINE>water. Using weapons<NEWLINE>with elemental powers<NEWLINE>is the way to exploit<NEWLINE>these weaknesses!
+0,My master is a hunter<NEWLINE>with an abundance of<NEWLINE>knowledge, meow.<NEWLINE>That's why he promised<NEWLINE>to come back after<NEWLINE>defeating his most<NEWLINE>powerful foe...
+2,Huh!? M-Master!?
+2,I'm sorry, nya. I made<NEWLINE>a mistake... I thought<NEWLINE>you were someone else.<NEWLINE>My master stood here<NEWLINE>and proclaimed he'd be<NEWLINE>victorious, and then<NEWLINE>set off to battle.
+2,He always used to say<NEWLINE>that you have to aim<NEWLINE>for a monster's weak<NEWLINE>point! It's the only<NEWLINE>way to deal massive<NEWLINE>damage, meow!
+2,What places are weak<NEWLINE>against blows or open<NEWLINE>to shots, whether<NEWLINE>you should aim for the<NEWLINE>tail or the head.<NEWLINE>These decisions are<NEWLINE>key to a hunter, meow!
+0,I wonder if my master<NEWLINE>is still fighting with<NEWLINE>that monster, meow...<NEWLINE>I'm so worried, nya.
+2,He always used to say<NEWLINE>that you have to aim<NEWLINE>for a monster's weak<NEWLINE>point! It's the only<NEWLINE>way to deal massive<NEWLINE>damage, meow!
+2,What places are weak<NEWLINE>against blows or open<NEWLINE>to shots, whether<NEWLINE>you should aim for the<NEWLINE>tail or the head.<NEWLINE>These decisions are<NEWLINE>key to a hunter, meow!
+0,I wonder if my master<NEWLINE>is still fighting with<NEWLINE>that monster, meow...<NEWLINE>I'm so worried, nya.
+2,Huh!? M-Master!?
+2,I'm sorry, nya. I made<NEWLINE>a mistake... I thought<NEWLINE>you were someone else.<NEWLINE>My master is a truly<NEWLINE>glorious hunter, but<NEWLINE>he left on a hunt and<NEWLINE>still hasn't returned.
+2,My master is so<NEWLINE>glorious that he has a<NEWLINE>collection of Titles<NEWLINE>and Awards to his<NEWLINE>credit, meow!
+2,The Titles and Awards<NEWLINE>you earn upon meeting<NEWLINE>special conditions are<NEWLINE>purroof of your worth<NEWLINE>as a hunter, nya!
+2,Your Awards are<NEWLINE>recorded on the Guild<NEWLINE>Card, and you can also<NEWLINE>chose your favorite<NEWLINE>Title to be displayed<NEWLINE>there as well!
+0,My master's Guild Card<NEWLINE>is my most purrized<NEWLINE>possession, nya!
+2,The Titles and Awards<NEWLINE>you earn upon meeting<NEWLINE>special conditions are<NEWLINE>purroof of your worth<NEWLINE>as a hunter, nya!
+2,Your Awards are<NEWLINE>recorded on the Guild<NEWLINE>Card, and you can also<NEWLINE>chose your favorite<NEWLINE>Title to be displayed<NEWLINE>there as well!
+0,My master's Guild Card<NEWLINE>is my most purrized<NEWLINE>possession, nya!
+2,Huh!? M-Master!?
+2,I'm sorry, nya. I made<NEWLINE>a mistake... I thought<NEWLINE>you were someone else.<NEWLINE>I am really close to<NEWLINE>my master, but he went<NEWLINE>on a hunt and hasn't<NEWLINE>come back yet, nya.
+2,My master's Guild Card<NEWLINE>Friendship Level<NEWLINE>wouldn't be high<NEWLINE>enough for him even if<NEWLINE>he had 100 hearts!
+2,If you build up your<NEWLINE>Friendship Level, the<NEWLINE>Guild Manager is<NEWLINE>liable to give you a<NEWLINE>really nice item,<NEWLINE>meow.
+0,When my master comes<NEWLINE>back, we are going to<NEWLINE>go together and<NEWLINE>collect our item, nya!
+2,If you build up your<NEWLINE>Friendship Level, the<NEWLINE>Guild Manager is<NEWLINE>liable to give you a<NEWLINE>really nice item,<NEWLINE>meow.
+0,When my master comes<NEWLINE>back, we are going to<NEWLINE>go together and<NEWLINE>collect our item, nya!
+2,Huh!? M-Master!?
+2,I'm sorry, nya. I made<NEWLINE>a mistake... I thought<NEWLINE>you were someone else.<NEWLINE>But I've got that<NEWLINE>feeling that my master<NEWLINE>is really close by,<NEWLINE>meow!
+2,I hear that a sinister<NEWLINE>black Akantor is also<NEWLINE>nearby... My master<NEWLINE>said that was the<NEWLINE>monster he was heading<NEWLINE>off to slay, nya.
+2,You're going to go<NEWLINE>after the Akantor too,<NEWLINE>aren't you?
+0,If you do... And you<NEWLINE>see my master... Tell<NEWLINE>him that I'm doing<NEWLINE>fine, nya...
+2,I hear that a sinister<NEWLINE>black Akantor is also<NEWLINE>nearby... My master<NEWLINE>said that was the<NEWLINE>monster he was heading<NEWLINE>off to slay, nya.
+0,You're going to go<NEWLINE>after the Akantor too,<NEWLINE>aren't you? If you<NEWLINE>do... And you see my<NEWLINE>master... Tell him<NEWLINE>that I'm doing fine,<NEWLINE>nya...
+2,Huh!? M-Master!?
+2,Heh... I knew it was<NEWLINE>you and not my master,<NEWLINE>nya! That's because I<NEWLINE>just got a letter from<NEWLINE>him!
+2,I finally know the<NEWLINE>details of his trip<NEWLINE>and its unfortunate<NEWLINE>ending, nya...
+2,But my master made a<NEWLINE>promise, nya! He will<NEWLINE>become a first class<NEWLINE>hunter and then return<NEWLINE>to the village in<NEWLINE>triumph!
+0,I hope my master can<NEWLINE>find some inner<NEWLINE>peace... But until<NEWLINE>then I will be waiting<NEWLINE>right here, meow.
+2,Meow? You want to know<NEWLINE>more about the letter?<NEWLINE>I'm sorry, but the<NEWLINE>details are this cat's<NEWLINE>little secret, meow...
+0,It's because I'm too<NEWLINE>proud of my master,<NEWLINE>nya... I'm sorry.
+2,Huh!? M-Master!?
+0,I'm sorry, nya. I made<NEWLINE>a mistake... I thought<NEWLINE>you were someone else.

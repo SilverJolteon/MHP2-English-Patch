@@ -1,0 +1,65 @@
+Checking for Memory Stick Duo~B10. <NEWLINE><NEWLINE>Please do not turn off the <NEWLINE>PSP~B11 system <NEWLINE>or remove the Memory Stick Duo~B10. 
+Load completed.
+Game data is corrupted.
+Not enough free space available<NEWLINE>on Memory Stick Duo~B10. 
+Would you like to save?
+~A00KB is required to save this data. <NEWLINE>Delete other data and create free space?
+Save this character?
+Please select a save location.
+Please do not remove the Memory Stick Duo~B10<NEWLINE>while playing Monster Hunter Portable 2nd.
+Character already exists. <NEWLINE>Delete previously saved character?
+Would you like to save here?
+No Character data found. <NEWLINE>Please insert the Memory Stick Duo~10 <NEWLINE>containing previously saved Game data. 
+Load this character?
+Character selected. <NEWLINE>Please do not remove the Memory Stick Duo~B10<NEWLINE>while playing Monster Hunter Portable 2nd.
+dummy
+TIME
+MALE
+FEMALE
+MONEY
+NO DATA
+Saving...<NEWLINE><NEWLINE>Please do not remove the<NEWLINE>Memory Stick Duo~B10. 
+Auto-loaded Game data.
+This game requires at least ~A00KB to save.<NEWLINE><NEWLINE>Continue? 
+Save Game Settings?
+There is already Game data on the Memory Stick Duo~B10. <NEWLINE>OK to overwrite this data?
+Select a character.
+Equipment Details
+The Memory Stick Duo~10 used to start<NEWLINE>this game is not inserted.<NEWLINE>Please insert the Memory Stick Duo~10<NEWLINE>used to start this game.
+Save completed.
+Abort loading?
+Connect to download content? <NEWLINE>~C02Please do not disconnect from<NEWLINE>the Network or remove the Memory<NEWLINE>Stick Duo~B10 while downloading.~C00
+The following Quests are saved <NEWLINE>on the Memory Stick Duo~B10. 
+There are no downloadable Quests currently saved <NEWLINE>on the Memory Stick Duo~B10. 
+Exit game?
+If you quit the game without saving, <NEWLINE>all of the items and money (z) <NEWLINE>that you acquired will be lost.
+Delete corrupted Game data?
+Save Gallery Status?
+       Save?     Exit without saving?    
+Monster Hunter Freedom Game data has <NEWLINE>been found on the Memory Stick Duo~B10.<NEWLINE><NEWLINE>You may import the following character<NEWLINE>data into Monster Hunter Portable 2nd.
+●The character name will be imported.<NEWLINE>　You can reset the character's appearance.<NEWLINE><NEWLINE>●Weapons and items will be traded for<NEWLINE>  special tickets depending on their<NEWLINE>  rarity.<NEWLINE>
+●Items with a rarity of 1 to 3 can be imported.<NEWLINE>　※Items not available in Monster Hunter Portable 2nd<NEWLINE>    will not be imported.<NEWLINE>　※Items that cannot be imported will be<NEWLINE>    exchanged for money (z).<NEWLINE>　※Item Box and Monster List records will be reset.
+●A portion of the money in your possession will be<NEWLINE>  transferred over as well as any money earned in the<NEWLINE>  exchange of items.
+●A special item, the Hero of Kokoto Biography,<NEWLINE>  will be added to your Item Box.<NEWLINE><NEWLINE>●Extra clothing will be added for Piggie.
+Import character?
+Cancel import?
+Select the character you'd like to import.
+Import this character?
+Character selected.<NEWLINE>On the following screens, you<NEWLINE>can setup your character.<NEWLINE><NEWLINE>Press the ~B00 button
+~B00Next
+Imported names cannot be edited.
+The following Bonus content is saved<NEWLINE>on the Memory Stick Duo~B10.
+There is no downloadable Bonus content currently saved <NEWLINE>on the Memory Stick Duo~B10.
+Wandering Chef - Red Tiger
+Wandering Chef - Orange
+Wandering Chef - Jet Black
+Title: Kokoto
+Title: Jumbo
+Title: Minegarde
+Title: Dondruma
+Piggie Fashions: Angel Leotard
+Piggie Fashions: SleepyPig White
+dummy
+Pokke Points
+Farm Equipment: Trenya's Boat
+Peddling Granny's Special Items

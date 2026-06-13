@@ -1,0 +1,25 @@
+－－－－－－
+Field Row
+Field Row +1
+Field Row +2
+Fishing Pier
+Fishing Pier+1
+Fishing Pier+2
+Casting Machine
+Mining Point
+Mining Point+1
+Mining Point+2
+Mining Point+3
+Mining Bomb
+Insect Thicket
+Insect Thicket+1
+Insect Thicket+2
+Insect Thicket+3
+Bug Tree
+Mushroom Tree
+Mushroom Tree+1
+Mushroom Tree+2
+PrototypeBeeHive
+PrductionBeeHive
+Modified BeeHive
+Trenya's Boat

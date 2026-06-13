@@ -1,0 +1,19 @@
+2,This is a storehouse<NEWLINE>made completely of<NEWLINE>natural ice, meow. It<NEWLINE>is the purrfect place<NEWLINE>to store your<NEWLINE>perishables!
+2,Actually... At the<NEWLINE>back of the storehouse<NEWLINE>there is something<NEWLINE>giant, but only the<NEWLINE>Village Chief and<NEWLINE>Treshi know what it<NEWLINE>is, meow.
+2,The two of them must<NEWLINE>be looking for a way<NEWLINE>to get at whatever is<NEWLINE>back there, nya...
+0,I'm not sure what is<NEWLINE>really truth and what<NEWLINE>is rumor... All I know<NEWLINE>is that there is<NEWLINE>nothing you can do to<NEWLINE>get back there now,<NEWLINE>meow...
+0,dummy
+2,If you have two pieces<NEWLINE>of Elder Dragon Bone,<NEWLINE>you can make a special<NEWLINE>Pickaxe. If you use<NEWLINE>that, you can obtain<NEWLINE>materials from this<NEWLINE>sword, meow.
+1,Would you like to<NEWLINE>mine?
+0,dummy
+0,You don't have enough<NEWLINE>Elder Dragon Bone.<NEWLINE>Bring two pieces of<NEWLINE>Elder Dragon Bone with<NEWLINE>you, meow!
+0,You don't want to<NEWLINE>mine? That's a shame,<NEWLINE>meow...
+0,I don't think you are<NEWLINE>going to get anything,<NEWLINE>meow. It takes time<NEWLINE>for the sword to grow<NEWLINE>back... You should try<NEWLINE>again later, nya.
+0,dummy
+2,I can't believe this<NEWLINE>is what was inside the<NEWLINE>cave, meow!
+2,It seems like the<NEWLINE>Village Chief and<NEWLINE>Treshi knew it all<NEWLINE>along... The Chief<NEWLINE>should have told us<NEWLINE>about this, nya!
+2,The Village Chief only<NEWLINE>said, "It's an ancient<NEWLINE>Great Sword made of<NEWLINE>materials from an <NEWLINE>elder dragon." But who<NEWLINE>in the world could use<NEWLINE>a sword this big!?
+2,The sword's size isn't<NEWLINE>the only weird thing.<NEWLINE>If you shave down the<NEWLINE>back edge, it grows<NEWLINE>back, meow! It's like<NEWLINE>it is alive!
+2,The Village Chief said<NEWLINE>that in return for<NEWLINE>breaking the ice, you<NEWLINE>could shave some<NEWLINE>materials from the<NEWLINE>sword. You must feel<NEWLINE>really special, nya.
+2,But you can't use<NEWLINE>regular old equipment.<NEWLINE>You'll need to find<NEWLINE>some hard elder dragon<NEWLINE>bones and use those to<NEWLINE>strike the sword and<NEWLINE>get materials, meow.
+0,If you get two pieces<NEWLINE>of Elder Dragon Bone,<NEWLINE>you can make a special<NEWLINE>Pickaxe to shave down<NEWLINE>the sword, so come<NEWLINE>back when you've<NEWLINE>gathered the bones!

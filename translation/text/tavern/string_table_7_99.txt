@@ -1,0 +1,4 @@
+2,Select the Quest you'd<NEWLINE>like to join.
+1,Join this Quest?
+2,Enter the Quest<NEWLINE>password.
+0,You are already under<NEWLINE>contract for this<NEWLINE>Quest.

@@ -15,7 +15,7 @@ asm_src_dir = "source"
 build_dir = "build"
 assets = "assets"
 quests_dir = "quests"
-release_dir = "release"
+release_dir = "latest_build"
 #------------------------------------------------------------
 armips = os.path.join("tools", "armips.exe")
 umd_replace = os.path.join("tools", "UMD-replace.exe")

@@ -1,0 +1,232 @@
+
+"%s"
+「%s」
+Update Information
+A new movie has been added to<NEWLINE>the Gallery.
+dummy
+New Quest at the Training School.
+dummy
+Monster Log Updated!!
+Length:
+End
+----.-
+Longest:
+Shortest:
+%4d.%1d
+End Reward Payment
+Total Reward:
+dummy
+Contract Fee:
+Reward:
+Quest Cleared
+Quest Failed
+Time Remaining:%3d
+Quest Score:
+Current Money:
+Total Points:
+Lost Points:%7d
+<Fainted: %1d Time(s)>
+<Quest Exp Points>
+<Quest Cleared>
+Bonus Points:%7d
+dummy
+dummy
+dummy
+dummy
+Current Guild Points:
+<Hunter Rank:  %d>
+Time Remaining:%3d
+dummy
+dummy
+Sell Account Items
+Time Remaining:%2d
+Head to the Training School west of the Village.
+Award Acquired!
+A new color, Rainbow, has been<NEWLINE>added to the S-Series armor<NEWLINE>color selection option at the<NEWLINE>Item Box.
+You've received a new award:
+dummy
+dummy
+dummy
+Guild Card<NEWLINE>upgraded.
+dummy
+dummy
+dummy
+dummy
+dummy
+Rank Up!
+Exit
+High Score:
+High Score Updated.
+Account Item Delivery
+%4dz×%2d
+Reward Ttl/Pnt Convert:
+%7dz/%7dpts
+Current Pokke Points:
+%7dz
+%7dpts
+%7dz×2
+%d/%d
+Training School Points Earned
+Clear Time:
+Quest Clear:
+Monsters Slain:
+Time Attack Bonus:
+Item Sale Amount:
+Point Multiplier:
+×%3d%
+Points Earned:
+Records Updated
+%2d:%2d
+End Point Conversion
+Points Earned:
+Pokke Points Equiv:
+Training School Points Converion
+Well, well.<NEWLINE>I don't usually get<NEWLINE>too many visitors<NEWLINE>here. Are you lost,<NEWLINE>youngster?
+What is it, youngster?<NEWLINE>Is there something<NEWLINE>stuck to my face?
+You don't say? What<NEWLINE>business might a<NEWLINE>hunter have with me?
+Can't you take a<NEWLINE>hint, young'un?<NEWLINE>As you can see,<NEWLINE>I'm busy!<NEWLINE>Go on! Be off with<NEWLINE>you then!
+You lazy dog!!<NEWLINE>You can't rely on the<NEWLINE>help of others<NEWLINE>forever! Now off with<NEWLINE>you!
+Come again?<NEWLINE>I'm afraid my hearing<NEWLINE>isn't what it used to<NEWLINE>be. 
+Well I'll be! You have<NEWLINE>a #,<NEWLINE>don't you!? Hmm... You<NEWLINE>wouldn't consider<NEWLINE>trading it for one of<NEWLINE>my prized possessions,<NEWLINE>would you?
+dummy
+Pfft. I should have<NEWLINE>guessed! Now shoo!
+Well, since you're<NEWLINE>here, I'll give you<NEWLINE>this. You take care of<NEWLINE>it now, you hear?
+Well I'll be! You have<NEWLINE>a #,<NEWLINE>don't you!? Hmm... You<NEWLINE>wouldn't consider<NEWLINE>trading it for one of<NEWLINE>my prized possessions,<NEWLINE>would you?
+So you've got a good<NEWLINE>head on those strong <NEWLINE>shoulders! This one's<NEWLINE>a treasure of mine, <NEWLINE>so treat it well!
+Oh my... It looks like<NEWLINE>you are loaded down<NEWLINE>with items!
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+Hey there! It's time<NEWLINE>to go search for some<NEWLINE>treasure.
+Out in the field,<NEWLINE>there are lots of<NEWLINE>hidden treasures. You<NEWLINE>should look everywhere<NEWLINE>for it! 
+You might also find<NEWLINE>treasure when you slay<NEWLINE>a monster.
+If you bring the<NEWLINE>treasure you find to<NEWLINE>me, I will give you<NEWLINE>points for it. Go get<NEWLINE>some treasure!
+Wahhhooo! You found<NEWLINE>some treasure!
+Woooooooooo! This,<NEWLINE>this, this is really<NEWLINE>an incredible<NEWLINE>treasure! 
+You should be able to<NEWLINE>find more treasure if<NEWLINE>you search hard<NEWLINE>enough. Now go out<NEWLINE>there and make me<NEWLINE>proud! 
+Items
+Combine
+Quest Info
+Gestures
+Advice
+Pause
+Status
+Equipment Detail
+Reference
+Options
+Abandon Quest
+--------
+Status Display
+Map Display
+Camera Settings
+Scope Targeting
+Aiming Controls
+Camera Type
+X-Axis Cntl Type
+Status Display
+~C10Map Display~C00
+Camera Settings
+Scope Targeting
+Aiming Controls
+Camera Type
+X-Axis Cntl Type
+ON
+OFF
+ON
+OFF
+NORMAL
+REVERSE1
+REVERSE2
+NORMAL
+REVERSE1
+REVERSE2
+NORMAL
+REVERSE1
+REVERSE2
+TYPE 1
+TYPE 2
+TYPE 3
+TYPE 1
+TYPE 2
+~C10OFF~C05
+~B03 Map Zoom In
+~B03 Map ZoomOut
+~B02 Beacn
+ 　 　~C05《Abandon Quest》~C00<NEWLINE><NEWLINE> Player status will revert to<NEWLINE> that of before beginning the<NEWLINE> Quest. If you want to redo<NEWLINE> this Quest you will have to<NEWLINE> start from the beginning.<NEWLINE> Is this OK?
+Take reward
+End
+Monsters Hunted:
+Monsters Slain:
+Items Delivered:
+FrtIntegrty:
+TwnIntegrty:
+Treasure Points Acquired:
+TtlReward:
+RwdRemain:
+TimeRmain:
+(0% Quest Failure)
+%s%
+%s:
+Paused.
+Delivered Treasure & Points
+Current Treasure Points:%6d
+Total: %4d
+×
+%d Treasure Points Acquired!
+Movement Speed Up
+Attacks Harder To Break
+Attack Up [Lo]
+Attacks More Powerful
+Attack Up [Hi]
+Defense Up [Lo]
+Defense More Powerful
+Defense Up [Hi]
+Health Inc [Lo]
+Health Inc [Mid]
+Health Inc [Hi]
+Wind Reduce
+Wind Cancel
+Wind All Cancel
+No Stamina Loss [Lo]
+No Stamina Loss [Hi]
+No Stamina Loss Extnd
+Clairvoyance
+Health Rec [Weak]
+Health Rec [Lo]
+Health Rec [Mid]
+Health Rec [High]
+HealthRec[Lo]&Deodorant
+HealthRec[Mid]&Deodorant
+HealthRec[Weak]&Antidote
+HealthRec[Lo]&Antidote
+HealthRec[Mid]&Antidote
+Recover Spd Up [Lo]
+Recover Spd Up [Hi]
+Heavenly Protection
+No Cold & Snow Res
+No Heat
+Hear Protect [Lo]
+Hear Protect [Hi]
+No Faint
+No Paralysis
+No Quakes
+Element Attack Up
+Fire Res Up [Lo]
+Fire Res Increased
+Fire Res Up [Hi]
+Water Res Up [Lo]
+Water Res Increased
+Water Res Up [Hi]
+Thunder Res Up [Lo]
+Thunder Res Increased
+Thunder Res Up [Hi]
+Ice Res Up [Lo]
+Ice Res Increased
+Ice Res Up [Hi]
+Dragon Res Up [Lo]
+Dragon Res Increased
+Dragon Res Up [Hi]
+????????

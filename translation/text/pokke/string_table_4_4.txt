@@ -1,0 +1,25 @@
+2,Greetin's! I jus'<NEWLINE>happen to be a<NEWLINE>travelin' purveyor of<NEWLINE>fine goods. Some<NEWLINE>insist on sayin' I'm <NEWLINE>a peddler.
+2,I'm stockin' up on<NEWLINE>ev'ryones unwanted<NEWLINE>items. If ya got<NEWLINE>anything you be<NEWLINE>wanting, speak up.<NEWLINE>I'll sell it to ya<NEWLINE>cheap. 
+0,Sometimes, I acquire<NEWLINE>me some goods righ'<NEWLINE>cheap, so I sell 'em<NEWLINE>right cheap. Care to<NEWLINE>peruse my fine<NEWLINE>collection?
+2,dummy
+2,dummy
+0,dummy
+0,Today I'm stockin' up<NEWLINE>on ev'ryones unwanted<NEWLINE>items. If ya got<NEWLINE>anything you be<NEWLINE>wanting, speak up.
+0,Today I got me quite a<NEWLINE>bit of cheap items, so<NEWLINE>I'm sellin' em half<NEWLINE>off. If ya be wantin'<NEWLINE>anything, speak up!
+0,dummy
+0,Today I did me best<NEWLINE>and got quite a stack<NEWLINE>o' great items to be<NEWLINE>sellin'! So how about<NEWLINE>you buy some of me<NEWLINE>wares!?
+2,Wh-what!? You've<NEWLINE>combined ev'rything<NEWLINE>there is to be<NEWLINE>combined!?
+2,Speakin' of combinin',<NEWLINE>I got me this here<NEWLINE>book called the<NEWLINE>Alchemy Guide.
+0,With this book, you<NEWLINE>can combine things<NEWLINE>that jus' normally<NEWLINE>wouldn't be possible.<NEWLINE>You can use it more<NEWLINE>than me, so I'll jus'<NEWLINE>give it to ya!
+0,Oh I beg ya pardon! If<NEWLINE>somethin' 'appens give<NEWLINE>me a shout, eh?
+2,Well well... Ya slayed<NEWLINE>a Rathalos, eh? That<NEWLINE>makes me think jus' a<NEWLINE>lil' bit better of ya.
+2,Speakin' of thinkin'<NEWLINE>better of things. Ya<NEWLINE>ever heard of the hero<NEWLINE>that used to live in<NEWLINE>Kokoto Village?
+0,They say he was able<NEWLINE>to slay him a Rathalos<NEWLINE>an' a Monoblos too. If<NEWLINE>ya never seen his<NEWLINE>biography, I'll be<NEWLINE>happy to give ya a<NEWLINE>copy.
+2,Wait jus' a sec'nd!<NEWLINE>You slayed a<NEWLINE>Lunastra!? Well we got<NEWLINE>a regular drag'n<NEWLINE>slayer in our midst!
+2,Speakin' of dragon<NEWLINE>slayers... Have ya<NEWLINE>ever heard of the<NEWLINE>hunter who lived in<NEWLINE>Jumbo Village a lon'<NEWLINE>time ago?
+0,I hear he slayed a<NEWLINE>Lunastra too... If ya<NEWLINE>wanna read his<NEWLINE>biography, I'll give<NEWLINE>ya a copy!
+0,This lil' piggie right<NEWLINE>her' was born over in<NEWLINE>my place. Hey, ya'<NEWLINE>mind bein' the lil'<NEWLINE>porker's buddy for a<NEWLINE>bit?
+0,Haha! It looks like<NEWLINE>the walkin' bac'n baby<NEWLINE>has taken a likin' to<NEWLINE>ya! I call 'im Piggie,<NEWLINE>and you can too. Take<NEWLINE>good care of 'im, k?
+0,dummy
+2,Greetin's! I jus'<NEWLINE>happen to be a<NEWLINE>travelin' purveyor of<NEWLINE>fine goods.
+0,If ya got anything you<NEWLINE>be wanting, speak up.<NEWLINE>I'll sell it to ya<NEWLINE>cheap. 

@@ -1,0 +1,28 @@
+2,Welcome to the<NEWLINE>Hunter's Guild Outpost<NEWLINE>in Pokke Village!<NEWLINE>Please select the<NEWLINE>level of Quest you<NEWLINE>would like to<NEWLINE>initiate.
+2,Here are the Quests<NEWLINE>available at this<NEWLINE>time.
+1,This Quest requires a<NEWLINE>Contract Fee of <NEWLINE>$z.<NEWLINE>OK?
+1,Recruit hunters for<NEWLINE>this Quest?
+0,A recruitment notice<NEWLINE>for this Quest has<NEWLINE>been placed on the<NEWLINE>Quest Board. We wish<NEWLINE>you the best of luck.
+1,Look for another<NEWLINE>Quest?
+0,Thanks for visiting<NEWLINE>the Hunter's Guild. We<NEWLINE>look forward to<NEWLINE>working with you<NEWLINE>again.
+2,It seems you don't<NEWLINE>have enough money.
+0,So you're heading off<NEWLINE>alone? Well, then may<NEWLINE>the light of luck<NEWLINE>shine upon you!
+1,This Quest does not<NEWLINE>require a Contract<NEWLINE>Fee. Select this<NEWLINE>Quest?
+1,Welcome to the<NEWLINE>Hunter's Guild Outpost<NEWLINE>in Pokke Village. You<NEWLINE>are contracted for the<NEWLINE>following Quest. Would<NEWLINE>you like to cancel the<NEWLINE>contract?
+1,The previously<NEWLINE>registered hunters in<NEWLINE>this Quest will be<NEWLINE>disbanded. OK?
+0,Contract cancelled. We<NEWLINE>look forward to<NEWLINE>working with you<NEWLINE>again. 
+2,Welcome to the<NEWLINE>Hunter's Guild Outpost<NEWLINE>in Pokke Village!
+2,You must be the new<NEWLINE>hunter in town. Ever<NEWLINE>since the last hunter<NEWLINE>retired, I've been<NEWLINE>far from busy.
+2,If you don't mind,<NEWLINE>allow me to start by<NEWLINE>explaining Quest<NEWLINE>Level. Did you know<NEWLINE>the level of a Quest<NEWLINE>is displayed by the<NEWLINE>number of ★ marks?
+2,At this Gathering<NEWLINE>Hall, you can initiate<NEWLINE>Quests from level 1 to<NEWLINE>level 8. The Quests<NEWLINE>are broken up into<NEWLINE>three major levels of<NEWLINE>difficulty.
+2,Levels 1 and 2 are<NEWLINE>easy, 3 thru 5 are<NEWLINE>normal, and levels 6<NEWLINE>thru 8 are difficult.<NEWLINE>Here you can initiate<NEWLINE>Low Rank Quests of<NEWLINE>levels 1 to 5.
+2,All hunters start with<NEWLINE>a Hunter Rank, or<NEWLINE>HR, of 1. A Hunter<NEWLINE>Rank of 1 allows you<NEWLINE>to initiate Quests<NEWLINE>from levels 1 to 3.
+2,Level 1 and 2 Quests<NEWLINE>are primarily for<NEWLINE>practice against<NEWLINE>weaker monsters and<NEWLINE>are on the same level<NEWLINE>as Quests from the<NEWLINE>Village Chief. 
+2,Just like other<NEWLINE>Quests, you can set<NEWLINE>off with up to 3 other<NEWLINE>hunters, making these<NEWLINE>Quests great for the<NEWLINE>inexperienced or just<NEWLINE>for some practice. 
+2,However, compared to<NEWLINE>Quests level 3 and<NEWLINE>above, the monsters<NEWLINE>here are weaker and<NEWLINE>you will not likely<NEWLINE>acquire high quality<NEWLINE>materials.
+2,That is why there is<NEWLINE>no real need to<NEWLINE>initiate these Quests.<NEWLINE>If you trust in your<NEWLINE>skills, you can aim<NEWLINE>for higher level<NEWLINE>Quests.
+2,Quests rated level 3<NEWLINE>to 5 are known as Low<NEWLINE>Rank Quests. Within<NEWLINE>these levels, success<NEWLINE>at certain Quests will<NEWLINE>trigger an Urgent<NEWLINE>Quest.
+2,If you succeed at<NEWLINE>these Urgent Quests.<NEWLINE>You will unlock the<NEWLINE>next level of Quests.<NEWLINE>If you rise above<NEWLINE>level 5, you'll unlock<NEWLINE>High Rank Quests.
+2,These Quests feature<NEWLINE>powerful monsters that<NEWLINE>require both great<NEWLINE>equipment and skill<NEWLINE>from the hunter<NEWLINE>involved, or even the<NEWLINE>help of comrades.
+2,These difficulties<NEWLINE>come with a reward, as<NEWLINE>you can acquire high<NEWLINE>quality materials. You<NEWLINE>can initiate High Rank<NEWLINE>Quests at the counter<NEWLINE>next to here. 
+0,Hmm... Sorry if I was<NEWLINE>a bit long-winded. If<NEWLINE>you ever need to brush<NEWLINE>up on the details, you<NEWLINE>can review the info<NEWLINE>at the bookshelf<NEWLINE>in your home.

@@ -1,0 +1,67 @@
+2,Hmph! You, huh? The<NEWLINE>dunce of a hunter who<NEWLINE>fell off a cliff on<NEWLINE>his way to this<NEWLINE>village by order of<NEWLINE>the Guild!
+2,All the hunters here<NEWLINE>and even the Village<NEWLINE>Chief have high hopes<NEWLINE>for you... But you<NEWLINE>haven't proven<NEWLINE>anything to anyone<NEWLINE>yet!
+2,Got it!? Well, here's<NEWLINE>some news for you. The<NEWLINE>Quests you can<NEWLINE>initiate over at that<NEWLINE>counter are separated<NEWLINE>into levels. 
+2,Level 1 and 2 Quests<NEWLINE>are for hunters<NEWLINE>wanting to face some<NEWLINE>weaklings not worthy<NEWLINE>to be called monsters.<NEWLINE>You won't get much of<NEWLINE>a reward for these. 
+0,Up to four hunters can<NEWLINE>head out on a Quest,<NEWLINE>so you and your<NEWLINE>friends can get beaten<NEWLINE>all black and blue<NEWLINE>together! Hmph!
+2,Level 1 and 2 Quests<NEWLINE>are for hunters<NEWLINE>wanting to face some<NEWLINE>weaklings not worthy<NEWLINE>to be called monsters.<NEWLINE>You won't get much of<NEWLINE>a reward for these. 
+0,Up to four hunters can<NEWLINE>head out on a Quest,<NEWLINE>so you and your<NEWLINE>friends can get beaten<NEWLINE>all black and blue<NEWLINE>together! Hmph!
+2,Hmph. You're still<NEWLINE>here, huh? I heard you<NEWLINE>ran away from a big<NEWLINE>scary Giadrome...<NEWLINE>Probably cried the<NEWLINE>entire way home...
+2,What!? You actually<NEWLINE>beat the pulp out of<NEWLINE>that white beast<NEWLINE>yourself... Hmm, it<NEWLINE>beat the pulp out of <NEWLINE>me! But I was just<NEWLINE>having a bad day...
+2,You know, if someone<NEWLINE>initiates a Quest here<NEWLINE>in the Gathering Hall,<NEWLINE>it gets posted onto<NEWLINE>the Quest Board.
+2,If you initiate a<NEWLINE>Quest on your own, you<NEWLINE>must pay the Contract<NEWLINE>Fee, but joining other<NEWLINE>Quests is absolutely<NEWLINE>free!
+0,Then all you have to<NEWLINE>do is keep earning and<NEWLINE>earning until you find<NEWLINE>yourself swimming in<NEWLINE>your own money bin of<NEWLINE>gold and silver. Yep!<NEWLINE>I said it! Swimming!
+2,You know, if someone<NEWLINE>initiates a Quest here<NEWLINE>in the Gathering Hall,<NEWLINE>it gets posted onto<NEWLINE>the Quest Board.
+0,Then all you have to<NEWLINE>do is keep earning and<NEWLINE>earning until you find<NEWLINE>yourself swimming in<NEWLINE>your own money bin of<NEWLINE>gold and silver. Yep!<NEWLINE>I said it! Swimming!
+2,Heh. You're still<NEWLINE>here? I thought your<NEWLINE>legs had been frozen<NEWLINE>stiff and you were<NEWLINE>rolling around begging<NEWLINE>for mercy...
+2,Hey... What's that on<NEWLINE>your back!? I've been<NEWLINE>wanting that weapon<NEWLINE>for forever! But don't<NEWLINE>you think for a minute<NEWLINE>that I'm jealous of<NEWLINE>you!
+2,If you are going to<NEWLINE>have a nice weapon<NEWLINE>like that, you better<NEWLINE>make sure to master it<NEWLINE>or you might as well<NEWLINE>give it to me! I'm a<NEWLINE>sure shot with a Bow!
+2,The type of arrow and<NEWLINE>amount of charge will<NEWLINE>change a Bow's<NEWLINE>abilities. Dip an<NEWLINE>arrow in a coating to<NEWLINE>apply effects like<NEWLINE>poison or paralysis.
+0,You know, if you<NEWLINE>practice with your<NEWLINE>weapons and become a<NEWLINE>popular hunter, you'll<NEWLINE>be mobbed by a flock<NEWLINE>of fans! Wonderful!
+2,The type of arrow and<NEWLINE>amount of charge will<NEWLINE>change a Bow's<NEWLINE>abilities. Dip an<NEWLINE>arrow in a coating to<NEWLINE>apply effects like<NEWLINE>poison or paralysis.
+0,You know, if you<NEWLINE>practice with your<NEWLINE>weapons and become a<NEWLINE>popular hunter, you'll<NEWLINE>be mobbed by a flock<NEWLINE>of fans! Wonderful!
+2,Huh? You again? I<NEWLINE>thought you were still<NEWLINE>buried in the snow<NEWLINE>from when the<NEWLINE>Blangonga nearly made<NEWLINE>you its breakfast!
+2,I decided that I'd go<NEWLINE>take care of that<NEWLINE>Blangonga, so I sold<NEWLINE>everything I own and<NEWLINE>bought a new weapon!<NEWLINE>From now on, I'm a<NEWLINE>Gunlance master!
+2,The best part of a<NEWLINE>Gunlance is its<NEWLINE>powerful and stylish<NEWLINE>Shelling ability! But<NEWLINE>I got a little bit<NEWLINE>carried away and<NEWLINE>shattered the blade...
+0,You know, I hope you<NEWLINE>put a bunch of<NEWLINE>Whetstones in a pouch<NEWLINE>and then the pouch<NEWLINE>wears out and they all<NEWLINE>fall on the ground and<NEWLINE>break! Haha! Hmph!!
+2,The best part of a<NEWLINE>Gunlance is its<NEWLINE>powerful and stylish<NEWLINE>Shelling ability! But<NEWLINE>I got a little bit<NEWLINE>carried away and<NEWLINE>shattered the blade...
+2,You know, I hope you<NEWLINE>put a bunch of<NEWLINE>Whetstones in a pouch<NEWLINE>and then the pouch<NEWLINE>wears out and they all<NEWLINE>fall on the ground and<NEWLINE>break! Haha! Hmph!!
+0,What!? My pouch has a<NEWLINE>hole in it!? Whoa...<NEWLINE>Thanks for letting me<NEWLINE>know!
+2,Jeez. You again. I<NEWLINE>would have figured<NEWLINE>you'd be a Tigrex<NEWLINE>toothpick by now...
+2,But I see you've gone<NEWLINE>off into hiding and<NEWLINE>come back with some<NEWLINE>nice armor. Too bad<NEWLINE>armor doesn't equal<NEWLINE>strength, because I'm<NEWLINE>still stronger!
+2,You know, lately I've<NEWLINE>taken to using a Long<NEWLINE>Sword. As you hit an<NEWLINE>enemy you build up the<NEWLINE>Spirit gauge until you<NEWLINE>can unleash a killer<NEWLINE>swipe of the blade!
+2,It isn't a technique<NEWLINE>you can just use off<NEWLINE>the bat! You've gotta<NEWLINE>build up the gauge and<NEWLINE>then let your enemy<NEWLINE>have it!
+0,But knowing you, you<NEWLINE>will just build it up<NEWLINE>and build it up, and<NEWLINE>right before you<NEWLINE>unleash the attack a<NEWLINE>little tiny monster<NEWLINE>will kill you! Haha!
+2,You know, lately I've<NEWLINE>taken to using a Long<NEWLINE>Sword. As you hit an<NEWLINE>enemy you build up the<NEWLINE>Spirit gauge until you<NEWLINE>can unleash a killer<NEWLINE>swipe of the blade!
+0,But knowing you, you<NEWLINE>will just build it up<NEWLINE>and build it up, and<NEWLINE>right before you<NEWLINE>unleash the attack a<NEWLINE>little tiny monster<NEWLINE>will kill you! Haha!
+2,Heh... You again, huh?<NEWLINE>I figured you'd be the<NEWLINE>mashed potato in a<NEWLINE>Rathalos and Rathian<NEWLINE>dinner by now...
+2,Huh? You did what? You<NEWLINE>must have been hitting<NEWLINE>the Training School<NEWLINE>pretty hard lately,<NEWLINE>huh?
+2,Whatever. I'm great at<NEWLINE>this hunting business.<NEWLINE>I'll just train harder<NEWLINE>than you and all you<NEWLINE>will see of me then is<NEWLINE>my dust!
+2,I will give you this,<NEWLINE>the Training School is<NEWLINE>quite useful for<NEWLINE>hunters. You can study<NEWLINE>weapons and cut your<NEWLINE>teeth on the arts of<NEWLINE>real battle!
+0,You should keep going<NEWLINE>to the Training<NEWLINE>School, become a<NEWLINE>weapons expert, and<NEWLINE>then oversleep because<NEWLINE>you studied too hard!<NEWLINE>Hah! That'd be great!
+2,Let me tell you this,<NEWLINE>the Training School is<NEWLINE>quite useful for<NEWLINE>hunters. You can study<NEWLINE>weapons and cut your<NEWLINE>teeth on the arts of<NEWLINE>real battle!
+0,You should keep going<NEWLINE>to the Training<NEWLINE>School, become a<NEWLINE>weapons expert, and<NEWLINE>then oversleep because<NEWLINE>you studied too hard!<NEWLINE>Hah! That'd be great!
+2,I just can't seem to<NEWLINE>get rid of you! I<NEWLINE>figured you were a<NEWLINE>plate on the back of<NEWLINE>Shen Gaoren's shell by<NEWLINE>now!
+2,Huh? Saying you're a<NEWLINE>first-class hunter<NEWLINE>don't mean you've got<NEWLINE>the gift! You know,<NEWLINE>I've got the gift for<NEWLINE>using equipment in a<NEWLINE>support role!
+2,Certain kinds of<NEWLINE>equipment have effects<NEWLINE>on monsters while<NEWLINE>others do not. Even on<NEWLINE>High Rank Quests, this<NEWLINE>doesn't change.
+0,I hope you learn all<NEWLINE>about using equipment,<NEWLINE>and then buy lots and<NEWLINE>lots of expensive<NEWLINE>items, and then end up<NEWLINE>poor and unable to<NEWLINE>eat! Hah! That's rich!
+2,Certain kinds of<NEWLINE>equipment have effects<NEWLINE>on monsters while<NEWLINE>others do not. Even on<NEWLINE>High Rank Quests, this<NEWLINE>doesn't change.
+0,I hope you learn all<NEWLINE>about using equipment,<NEWLINE>and then buy lots and<NEWLINE>lots of expensive<NEWLINE>items, and then end up<NEWLINE>poor and unable to<NEWLINE>eat! Hah! That's rich!
+2,What now?
+2,You just came to make<NEWLINE>fun of me because, "I<NEWLINE>almost got eaten by<NEWLINE>the big scary<NEWLINE>Akantor!" didn't you?
+2,Hmph! At least I was<NEWLINE>brave enough to try!<NEWLINE>How about this?
+2,If you can defeat the<NEWLINE>Akantor yourself, I'll<NEWLINE>let you ask me<NEWLINE>anything you want.
+2,But if you can't, it<NEWLINE>will prove that I am<NEWLINE>better than you once<NEWLINE>and for all. That and<NEWLINE>you have to do a Yian<NEWLINE>Kut-Ku dance in front<NEWLINE>of everyone!
+0,Think about it. It's<NEWLINE>an awfully big bet...<NEWLINE>What are you, a big<NEWLINE>chick... I mean a big<NEWLINE>Kut-Ku!? Prepare for<NEWLINE>unimaginable<NEWLINE>humiliation my friend!
+2,If you can defeat the<NEWLINE>Akantor yourself, I'll<NEWLINE>let you ask me<NEWLINE>anything you want.
+2,But if you can't, it<NEWLINE>will prove that I am<NEWLINE>better than you once<NEWLINE>and for all. That and<NEWLINE>you have to do a Yian<NEWLINE>Kut-Ku dance in front<NEWLINE>of everyone!
+0,Think about it. It's<NEWLINE>an awfully big bet...<NEWLINE>What are you, a big<NEWLINE>chick... I mean a big<NEWLINE>Kut-Ku!? Prepare for<NEWLINE>unimaginable<NEWLINE>humiliation my friend!
+2,Hmm... Alright. I<NEWLINE>admit it. You may have<NEWLINE>a pinch of skill in<NEWLINE>that puny body of<NEWLINE>yours. You did defeat<NEWLINE>the Akantor after all.
+2,Hmph! But I don't have<NEWLINE>a single regret about<NEWLINE>our bet! Not one!
+2,You are really a<NEWLINE>hunter... Or at least<NEWLINE>you've proved your<NEWLINE>strength with bravery.<NEWLINE>Which is why I shall<NEWLINE>grant you your<NEWLINE>greatest wish.  
+2,I shall allow you to<NEWLINE>join forces with me,<NEWLINE>known far and wide as<NEWLINE>the world's greatest<NEWLINE>hunter! That's your<NEWLINE>greatest wish, right!?
+0,Which means feel free<NEWLINE>to stop by any time!<NEWLINE>I'm sure we've got<NEWLINE>lots of great<NEWLINE>adventures ahead...<NEWLINE>With you holding my<NEWLINE>gear!
+2,You are really a<NEWLINE>hunter... Or at least<NEWLINE>you've proved your<NEWLINE>strength with bravery.<NEWLINE>Which is why I shall<NEWLINE>grant you your<NEWLINE>greatest wish.  
+2,I shall allow you to<NEWLINE>join forces with me,<NEWLINE>known far and wide as<NEWLINE>the world's greatest<NEWLINE>hunter! That's your<NEWLINE>greatest wish, right!?
+0,Which means feel free<NEWLINE>to stop by any time!<NEWLINE>I'm sure we've got<NEWLINE>lots of great<NEWLINE>adventures ahead...<NEWLINE>With you holding my<NEWLINE>gear!
+2,Hmph! You, huh? The<NEWLINE>dunce of a hunter who<NEWLINE>fell off a cliff on<NEWLINE>his way to this<NEWLINE>village by order of<NEWLINE>the Guild!
+0,All the hunters here<NEWLINE>and even the Village<NEWLINE>Chief have high hopes<NEWLINE>for you... But you<NEWLINE>haven't proven<NEWLINE>anything to anyone<NEWLINE>yet!

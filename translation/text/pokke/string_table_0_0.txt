@@ -1,0 +1,149 @@
+2,I think you're warmed<NEWLINE>up by now, so let's<NEWLINE>take it easy. What<NEWLINE>level of Quest shall<NEWLINE>you go for? 
+2,I suppose you can<NEWLINE>handle something like<NEWLINE>that, can't you?
+1,This Quest requires a<NEWLINE>contract fee of <NEWLINE>$z. You still <NEWLINE>want to try your hand<NEWLINE>at this Quest?
+0,That's too bad... I'll<NEWLINE>cancel this contract<NEWLINE>for you.
+0,When you're ready to<NEWLINE>set off, head down the<NEWLINE>path in front of you<NEWLINE>and press the ~B03<NEWLINE>button when you get to<NEWLINE>the entrance of the<NEWLINE>village. Good luck!
+1,Something else I can<NEWLINE>do for you?
+0,Hmm... Giving up? If<NEWLINE>you change your mind,<NEWLINE>come back and visit me<NEWLINE>whenever you'd like.<NEWLINE>An old lady needs<NEWLINE>friends, ya' know!
+2,Hmm... Looks like<NEWLINE>your wallet isn't fat<NEWLINE>enough to afford this<NEWLINE>Quest. 
+1,What's the matter?<NEWLINE>You'd like to cancel<NEWLINE>the Quest contract you<NEWLINE>took out?
+1,This Quest seems to be<NEWLINE>about the perfect<NEWLINE>level for you. Would<NEWLINE>you like to give it a<NEWLINE>try?
+2,Yes. Yes indeed. It<NEWLINE>seems I can leave lots<NEWLINE>of things up to you,<NEWLINE>can't I? What level of<NEWLINE>Quest would you like<NEWLINE>to take?
+2,Ahh... Our village<NEWLINE>hunter. Seems like<NEWLINE>you've been working<NEWLINE>very hard lately! What<NEWLINE>level of Quest would<NEWLINE>you like to take?
+2,Yeppers. Sometimes you<NEWLINE>want to push yourself<NEWLINE>with a Quest and<NEWLINE>sometimes you just<NEWLINE>want to relax. What<NEWLINE>level of Quest would<NEWLINE>you like to take?
+2,dummy
+2,Well well! It looks<NEWLINE>like you're all fixed<NEWLINE>up! When I heard that<NEWLINE>a hunter had fallen in<NEWLINE>the Snowy Mountains, I<NEWLINE>was so shocked!
+2,Oh my... I haven't<NEWLINE>introduced myself! I'm<NEWLINE>the chief of this<NEWLINE>village. It's called<NEWLINE>Pokke. Can you believe<NEWLINE>an old lady like me<NEWLINE>can be village chief!?
+2,I'm hoping I can<NEWLINE>convince you to settle<NEWLINE>down as a hunter in<NEWLINE>this village. You know<NEWLINE>the house you woke up<NEWLINE>in? You can stay there<NEWLINE>as long as you'd like.
+2,Anyways... I suppose<NEWLINE>you're not used to a<NEWLINE>hunter's work yet, so<NEWLINE>would you mind heading<NEWLINE>off to the Training<NEWLINE>School first? 
+2,At the Training<NEWLINE>School, you can take <NEWLINE>Beginner's Training.<NEWLINE>That would be a good<NEWLINE>place to start.
+2,See the huge building<NEWLINE>on the left? That is<NEWLINE>the Gathering Hall. If<NEWLINE>you take the road to<NEWLINE>the left of that, it<NEWLINE>will lead you to the<NEWLINE>Training School.
+0,Go down that path and<NEWLINE>press the ~B03 button<NEWLINE>to enter the Training<NEWLINE>School. Please talk<NEWLINE>with the instructor<NEWLINE>there. Everyone holds<NEWLINE>him in high esteem.
+0,dummy
+0,dummy
+2,Well well! It looks<NEWLINE>like you're all fixed<NEWLINE>up! When I heard that<NEWLINE>a hunter had fallen in<NEWLINE>the Snowy Mountains, I<NEWLINE>was so shocked!
+2,Oh my... I haven't<NEWLINE>introduced myself! I'm<NEWLINE>the chief of this<NEWLINE>village. It's called<NEWLINE>Pokke. Can you believe<NEWLINE>an old lady like me<NEWLINE>can be village chief!?
+2,I'm hoping I can<NEWLINE>convince you to settle<NEWLINE>down as a hunter in<NEWLINE>this village. You know<NEWLINE>the house you woke up<NEWLINE>in? You can stay there<NEWLINE>as long as you'd like.
+2,Anyways... I'd like<NEWLINE>you to show me your<NEWLINE>strength by completing<NEWLINE>an easy Quest that was<NEWLINE>requested nearby here.<NEWLINE>That's OK with you,<NEWLINE>right?
+2,Huh? You're still<NEWLINE>recovering? Well, once<NEWLINE>you feel up to it, you<NEWLINE>can try some of the<NEWLINE>Quests from other<NEWLINE>areas. But first you<NEWLINE>should rest up a bit.
+2,That reminds me, if<NEWLINE>you head to the<NEWLINE>Guild's counter, you<NEWLINE>can initiate various<NEWLINE>Quests. You see the<NEWLINE>large building on the<NEWLINE>left don't you?
+2,That's the Gathering<NEWLINE>Hall. Inside you'll<NEWLINE>find a branch of the<NEWLINE>Hunter's Guild. If you<NEWLINE>want to take out a<NEWLINE>multiple hunter Quest,<NEWLINE>that's your best bet.
+2,For details, head over<NEWLINE>and ask the person at<NEWLINE>the counter. Oh, I<NEWLINE>forgot to give you<NEWLINE>some money. It's not<NEWLINE>much, but it's enough<NEWLINE>to get started.
+2,On the right you will<NEWLINE>find a general store<NEWLINE>that sells many great<NEWLINE>items. Next to that is<NEWLINE>a shop selling armor<NEWLINE>and weapons. Go there <NEWLINE>for equipment needs.
+2,If there's something<NEWLINE>you don't understand<NEWLINE>about hunting, go to<NEWLINE>the Training School.<NEWLINE>You see the path to<NEWLINE>the left of the<NEWLINE>Gathering Hall, right?
+2,Go straight down that<NEWLINE>path and press the <NEWLINE>~B03 button, to go to <NEWLINE>the Training School. <NEWLINE>If Quests are getting<NEWLINE>too hard, go there to<NEWLINE>toughen up!
+0,Hmm... Well then...<NEWLINE>Good luck out there!<NEWLINE>Don't overdo it, OK!?<NEWLINE>I'm looking forward to<NEWLINE>watching your<NEWLINE>progress!
+0,dummy
+2,First things first...<NEWLINE>Go have a chat with<NEWLINE>the instructor at the<NEWLINE>Training School. It's<NEWLINE>the best way to get<NEWLINE>started in the hunting<NEWLINE>business.
+2,To get to the Training<NEWLINE>School, head down the<NEWLINE>small path next to the<NEWLINE>large Gathering Hall<NEWLINE>you see on your left.
+0,Go all the way down<NEWLINE>the path and press the<NEWLINE>~B03 button to enter<NEWLINE>the Training School.<NEWLINE>There you can start<NEWLINE>your Beginner's<NEWLINE>Training. 
+2,So you went to the<NEWLINE>Training School, huh?<NEWLINE>If you're not sure<NEWLINE>what to do or Quests<NEWLINE>are getting too hard,<NEWLINE>head over there as<NEWLINE>often as you'd like.
+2,Oh yes... I suppose<NEWLINE>it's time I give you<NEWLINE>details about your<NEWLINE>job. As one of our<NEWLINE>hunters, you will<NEWLINE>settle down here in<NEWLINE>Pokke Village.
+2,I think it is time you<NEWLINE>had some real-life<NEWLINE>training under your<NEWLINE>belt, so try one of<NEWLINE>the easy Quests that<NEWLINE>take place nearby.
+2,Once you're ready, you<NEWLINE>can also try the<NEWLINE>Quests from other<NEWLINE>areas. But first you<NEWLINE>should warm up a bit.
+2,That reminds me... If<NEWLINE>you head to the Guild<NEWLINE>counter, you can sign<NEWLINE>up for various Quests.<NEWLINE>There is a branch<NEWLINE>inside the Gathering<NEWLINE>Hall.
+2,If you want to take on<NEWLINE>a Quest with multiple<NEWLINE>hunters, that is the<NEWLINE>place to do it. You<NEWLINE>can ask them in person<NEWLINE>for more details. 
+2,Oh, that reminds me! I<NEWLINE>forgot to give you<NEWLINE>some money for your<NEWLINE>contracts! It's not<NEWLINE>much, but it's enough<NEWLINE>to get started.
+2,On the right you will<NEWLINE>find a general store<NEWLINE>that sells many great<NEWLINE>items. Next to that is<NEWLINE>a shop selling armor<NEWLINE>and weapons. Go there <NEWLINE>for equipment needs.
+0,Hmm... Well then...<NEWLINE>Good luck out there!<NEWLINE>Don't overdo it, OK!?<NEWLINE>I'm looking forward to<NEWLINE>watching your<NEWLINE>progress!
+0,dummy
+2,Well it looks like<NEWLINE>you've been trying<NEWLINE>your very hardest<NEWLINE>indeed. By the way,<NEWLINE>have you ever heard of<NEWLINE>a Giadrome?
+2,Up in the Snowy<NEWLINE>Mountains, there is a<NEWLINE>species of monster<NEWLINE>called a Giaprey.<NEWLINE>Actually, the Guild<NEWLINE>likes to call them<NEWLINE>White Velociprey...
+2,The leader of the pack<NEWLINE>of Giaprey is called<NEWLINE>the Giadrome and I was<NEWLINE>hoping that you would<NEWLINE>get rid of it for me. 
+2,And don't just think<NEWLINE>of it as an oversized<NEWLINE>Giaprey, because it is<NEWLINE>not. If you get hit<NEWLINE>with one of its ice<NEWLINE>shots, your body will<NEWLINE>be frozen stiff.
+2,If you think you are<NEWLINE>in danger, run off<NEWLINE>into a different part<NEWLINE>of the field to give<NEWLINE>your body time to<NEWLINE>recover.
+2,You can try to use<NEWLINE>brute force, but if<NEWLINE>that proves too hard,<NEWLINE>try using a Flash Bomb<NEWLINE>or Shock Trap to stop<NEWLINE>the Giadrome's<NEWLINE>movements.
+0,This village has had<NEWLINE>enough of that<NEWLINE>Giadrome and it’s a<NEWLINE>perfect opponent for<NEWLINE>you. Please finally<NEWLINE>rid us of that<NEWLINE>scourge.
+2,Oh thank you! Thank<NEWLINE>you very much! It<NEWLINE>seems you took care of<NEWLINE>that Giadrome without<NEWLINE>any problems!
+2,If you are that<NEWLINE>strong, then maybe I<NEWLINE>should give you<NEWLINE>another Quest. This<NEWLINE>Quest is about the<NEWLINE>Jungle and the Desert.<NEWLINE>
+2,The Jungle has many<NEWLINE>geographic features<NEWLINE>like caves and cliffs,<NEWLINE>so until you get used<NEWLINE>to it, it's easy to<NEWLINE>get lost.
+2,The Desert is a harsh<NEWLINE>landscape with a wide<NEWLINE>barren zone and a zone<NEWLINE>of rough rocks. It has<NEWLINE>Health draining hot<NEWLINE>days and Stamina<NEWLINE>sucking cold nights. 
+2,Depending on the<NEWLINE>Quest, it will take<NEWLINE>place either at night<NEWLINE>or during the day.<NEWLINE>When entering the<NEWLINE>Desert, check the time<NEWLINE>and prepare yourself.
+0,Both zones are home to<NEWLINE>powerful monsters. You<NEWLINE>can find more<NEWLINE>information in a book<NEWLINE>I left on the<NEWLINE>bookshelf at your<NEWLINE>house.
+2,You came at the right<NEWLINE>time. I've got a favor<NEWLINE>to ask of you. A<NEWLINE>strong wyvern has<NEWLINE>appeared in the Snowy<NEWLINE>Mountains, and it's<NEWLINE>coming towards us.
+2,Thankfully the damage<NEWLINE>so far has only been<NEWLINE>to livestock, but<NEWLINE>leaving this be would<NEWLINE>be a recipe for<NEWLINE>disaster...
+2,Ahh, yes. The name of<NEWLINE>the wyvern is Khezu.<NEWLINE>It is a white monster<NEWLINE>that can fire off<NEWLINE>electrical attacks.
+2,It is completely<NEWLINE>blind, but can hunt<NEWLINE>its prey by smell.<NEWLINE>That's why Flash Bombs<NEWLINE>and the like won't <NEWLINE>work on it, but Dung <NEWLINE>Bombs will.
+2,If you are as strong<NEWLINE>as I think, you'll<NEWLINE>have no trouble<NEWLINE>defeating it... Just<NEWLINE>don't overdo it.
+0,If you think this is<NEWLINE>too hard for you, try<NEWLINE>some other Quests to<NEWLINE>build up your armor<NEWLINE>and weapons. That<NEWLINE>should make it OK. 
+0,dummy
+2,You are just as strong<NEWLINE>as I imagined if you<NEWLINE>took care of that<NEWLINE>Khezu. Everyone is<NEWLINE>grateful for your<NEWLINE>help. I'll have a<NEWLINE>reward for you later.
+2,I have a harder<NEWLINE>request this time.<NEWLINE>You'll need to really<NEWLINE>give it your all. The<NEWLINE>request is in the<NEWLINE>Swamp as well as in<NEWLINE>the Forest and Hills.
+2,The Swamp doesn't have<NEWLINE>any major geographic<NEWLINE>features, but at<NEWLINE>night, toxic chemicals<NEWLINE>can rise up out of the<NEWLINE>ground, so you'll have<NEWLINE>to take precautions.
+2,The Forest and Hills<NEWLINE>have an abundance of<NEWLINE>items to gather, but<NEWLINE>powerful wyverns are<NEWLINE>known to appear<NEWLINE>there... But you<NEWLINE>should be OK!
+2,If you want to know<NEWLINE>more about these<NEWLINE>areas, check your<NEWLINE>bookshelf. There are<NEWLINE>books with info there,<NEWLINE>so give them a read<NEWLINE>now and then.
+2,If a monster is beyond<NEWLINE>your grasp, gather<NEWLINE>materials and work on<NEWLINE>your equipment because<NEWLINE>there will be more<NEWLINE>monsters than just a<NEWLINE>Khezu in these parts.
+0,Last night, I heard a<NEWLINE>distant Primatius<NEWLINE>roar... Take care of<NEWLINE>yourself. Save your<NEWLINE>strength when you can.
+2,Hmm... It seems you<NEWLINE>are becoming quite<NEWLINE>strong. Which is good<NEWLINE>because it seems like<NEWLINE>our old friend is<NEWLINE>back... 
+2,A long time ago, a<NEWLINE>Blangonga nested in<NEWLINE>the Snowy Mountains.<NEWLINE>It was a rowdy beast,<NEWLINE>but a previous<NEWLINE>generation of hunters<NEWLINE>drove it away.
+2,Now the Blangonga has<NEWLINE>returned. It must have<NEWLINE>learned that the old<NEWLINE>guard of hunters had<NEWLINE>retired. 
+2,The Blangonga itself<NEWLINE>is an extremely<NEWLINE>powerful beast, but it<NEWLINE>also leads a pack of<NEWLINE>Blangos, so you can't<NEWLINE>let your guard down<NEWLINE>for even a second.
+0,You might not be able<NEWLINE>to drive it away, but<NEWLINE>I think you can still<NEWLINE>hold your own against<NEWLINE>the beast. The village<NEWLINE>is counting on you!
+0,dummy
+0,dummy
+2,Hah hah hah! You<NEWLINE>slayed the Blangonga!<NEWLINE>I knew you had it in<NEWLINE>you! I'm just so<NEWLINE>thrilled you've gotten<NEWLINE>so strong!
+2,Now that I know how<NEWLINE>strong you are, I can<NEWLINE>trust you with this<NEWLINE>job over in the<NEWLINE>Volcanic zone.
+2,The zone is an even<NEWLINE>hotter area than the<NEWLINE>Desert, so protect<NEWLINE>yourself against the<NEWLINE>heat. There are many<NEWLINE>gathering points, and<NEWLINE>you may find rare ore.
+2,I also have to mention<NEWLINE>that there have been<NEWLINE>rumors lately of a<NEWLINE>monster called an<NEWLINE>"Elder Dragon"<NEWLINE>appearing close by.
+2,They are fiercely<NEWLINE>territorial, and move<NEWLINE>within their own<NEWLINE>bounds. You can't<NEWLINE>always fight them, but<NEWLINE>you may come across<NEWLINE>one someday.
+0,Oh! I forgot about<NEWLINE>your reward for<NEWLINE>defeating the<NEWLINE>Blangonga! It's<NEWLINE>something nice that<NEWLINE>I'm sure you'll find<NEWLINE>useful.
+0,dummy
+2,Well then, you're<NEWLINE>back. There is<NEWLINE>something I must <NEWLINE>urgently talk with you<NEWLINE>about. It's about none<NEWLINE>other than Tigrex.
+2,It is a wyvern that<NEWLINE>once attacked this<NEWLINE>village before you<NEWLINE>arrived here. Now <NEWLINE>Tigrex is back in the<NEWLINE>area.
+2,One of the reasons it<NEWLINE>is here is to hunt<NEWLINE>Popos, and as you<NEWLINE>know, Popos are one of<NEWLINE>the workhorses of the<NEWLINE>village.
+2,The Popos we have<NEWLINE>domesticated are<NEWLINE>already under attack.<NEWLINE>However, the Tigrex's<NEWLINE>appetite does not stop<NEWLINE>at just Popos...
+2,We'd like you to rid<NEWLINE>us of this threat.<NEWLINE>Don't worry, you are<NEWLINE>more than prepared for<NEWLINE>the challenge.
+0,Please show us all<NEWLINE>your strength. If not<NEWLINE>for the village, then<NEWLINE>just to prove<NEWLINE>something to yourself.<NEWLINE>I beg you for your<NEWLINE>help.
+0,dummy
+2,I just heard! You did<NEWLINE>it! You defeated the<NEWLINE>Tigrex! This old lady<NEWLINE>always had faith in<NEWLINE>you!
+2,With you here, this<NEWLINE>village can rest easy.<NEWLINE>You've really become<NEWLINE>our star hunter. I<NEWLINE>can't thank you<NEWLINE>enough.
+2,By the way, we've just<NEWLINE>gotten the autopsy<NEWLINE>report back from the<NEWLINE>Guild. It seems that<NEWLINE>the Tigrex you slayed<NEWLINE>yielded incredibly<NEWLINE>rare materials.
+2,One of them was a<NEWLINE>large Tigrex Screamer.<NEWLINE>It's something Treshi<NEWLINE>and I have spent ages<NEWLINE>searching for. It has<NEWLINE>special properties...
+2,It has all the<NEWLINE>properties needed to<NEWLINE>smash the ice barrier<NEWLINE>in the farm<NEWLINE>storehouse. What an<NEWLINE>incredibly rare item<NEWLINE>indeed!
+2,It's something you <NEWLINE>only see once in a <NEWLINE>lifetime and that's<NEWLINE>why it is beyond the<NEWLINE>skill of the staff at<NEWLINE>the crafting shop.
+2,I know it was a bit<NEWLINE>presumptuous of me,<NEWLINE>but I used this item<NEWLINE>for you. It was for<NEWLINE>the good of the<NEWLINE>village.
+2,I suggest you take a<NEWLINE>trip over to the farm.<NEWLINE>You should be able to<NEWLINE>see the demolition of<NEWLINE>that ice barrier. 
+0,Oh, there is one thing<NEWLINE>I forgot! Here is a<NEWLINE>small token of my<NEWLINE>appreciation... I hope<NEWLINE>it comes in handy.
+0,dummy
+2,You're truly our star<NEWLINE>hunter. Slaying that<NEWLINE>Tigrex made you such a<NEWLINE>celebrity that we've<NEWLINE>received another<NEWLINE>difficult request for<NEWLINE>you.
+2,Are you aware of the<NEWLINE>Rathalos, known as the<NEWLINE>king of wyverns, and<NEWLINE>his queen, the<NEWLINE>Rathian?
+2,They are said to live<NEWLINE>in the Forest and<NEWLINE>Hills, thus they<NEWLINE>aren't often spotted<NEWLINE>near here...
+0,The request we<NEWLINE>received for you is to<NEWLINE>slay these two beasts.<NEWLINE>They are both powerful<NEWLINE>flying wyverns, there<NEWLINE>is no doubt about<NEWLINE>that. Take care, OK?
+0,dummy
+0,dummy
+2,You repelled the<NEWLINE>Rathalos and the<NEWLINE>Rathian... It's not<NEWLINE>too much to say that<NEWLINE>you've become a<NEWLINE>first-class hunter.
+2,Your fame keeps<NEWLINE>getting bigger and<NEWLINE>bigger, and we keep<NEWLINE>getting more and more<NEWLINE>requests for you!
+2,It seems we have the<NEWLINE>services of a first-<NEWLINE>class hunter. I should<NEWLINE>congratulate you! I'm<NEWLINE>sorry for always<NEWLINE>giving the same kind<NEWLINE>of gift...
+0,If you are truly as<NEWLINE>strong as you seem,<NEWLINE>you shouldn't limit<NEWLINE>yourself to my<NEWLINE>requests. Try the ones<NEWLINE>at the Gathering Hall.<NEWLINE>You should go there.
+0,dummy
+2,Ahh... Our hunter. You<NEWLINE>came just at the right<NEWLINE>time. The Guild has<NEWLINE>sent a request for<NEWLINE>assistance, and we'd<NEWLINE>like to ask for your<NEWLINE>help!
+2,Your opponent is the<NEWLINE>giant monster Shen<NEWLINE>Gaoren. While it is a<NEWLINE>Carapaceon, it is far<NEWLINE>larger than even a<NEWLINE>wyvern!
+2,In the town, the Guild<NEWLINE>have installed various<NEWLINE>weapons such as a<NEWLINE>Ballista or a<NEWLINE>Dragonator. Go there<NEWLINE>and use these weapons.
+0,With your strength,<NEWLINE>there is no way the<NEWLINE>Guild will meet<NEWLINE>defeat, but that<NEWLINE>doesn't mean you can<NEWLINE>become overconfident!
+0,dummy
+2,Ahh... Our hunter has<NEWLINE>returned. It seems you<NEWLINE>had no trouble slaying<NEWLINE>that Shen Gaoren.
+2,You've received an<NEWLINE>official reward of<NEWLINE>thanks from the town.<NEWLINE>You should take it<NEWLINE>over to the crafting<NEWLINE>shop.
+2,Hmm... As strong as<NEWLINE>you've become, it<NEWLINE>seems like my small<NEWLINE>requests are a waste<NEWLINE>of your abilities.
+2,You should try to take<NEWLINE>the high level Quests<NEWLINE>found at the Gathering<NEWLINE>Hall. As a hunter, it<NEWLINE>is important to keep<NEWLINE>aiming higher.
+0,Keep reaching for new<NEWLINE>heights! You are the<NEWLINE>hunter of Pokke<NEWLINE>Village after all! 
+0,dummy
+2,Ahh, our village<NEWLINE>hunter. It seems like<NEWLINE>you've taken care of<NEWLINE>nearly all of my<NEWLINE>requests. 
+2,In fact, this is the<NEWLINE>last Quest that I can<NEWLINE>give you. 
+2,This final Quest is<NEWLINE>extremely difficult.<NEWLINE>In fact, you should<NEWLINE>first take some higher<NEWLINE>level Gathering Hall<NEWLINE>Quests and improve<NEWLINE>your equipment.
+0,Your final test will<NEWLINE>challenge you to your<NEWLINE>very soul.
+0,dummy
+2,Marvelous! Our hunter<NEWLINE>makes us proud once<NEWLINE>again! To get rid of<NEWLINE>two Rajang in one fell<NEWLINE>swoop is an absolutely<NEWLINE>amazing feat!
+2,Even though I don't<NEWLINE>have any more Quests<NEWLINE>that I can give you,<NEWLINE>that doesn't mean your<NEWLINE>path as a hunter has<NEWLINE>reached its end.
+2,At the Gathering Hall,<NEWLINE>you should be able to<NEWLINE>find Quests that fit<NEWLINE>your advanced level.
+0,From now on, I'll have<NEWLINE>to settle for admiring<NEWLINE>your progress. I do<NEWLINE>have a reward for you<NEWLINE>though. You should<NEWLINE>find it quite<NEWLINE>useful...
+0,dummy
+0,dummy
+2,Ahh... Our village<NEWLINE>hunter! I heard from<NEWLINE>the Guild Manager at<NEWLINE>the Gathering Hall<NEWLINE>that you slayed an<NEWLINE>Akantor! Unbelievable!
+2,I'm so proud of you!<NEWLINE>You took care of an<NEWLINE>Akantor even when the<NEWLINE>Guild itself could<NEWLINE>not. 
+2,Hmm... It's been such<NEWLINE>a long time since I've<NEWLINE>heard that name... 
+2,My elders used to tell<NEWLINE>me a story of a cave<NEWLINE>dwelling man with a<NEWLINE>giant sword who fought<NEWLINE>here against an<NEWLINE>Akantor and drove it<NEWLINE>to the Volcanic Belt. 
+2,That's why the local<NEWLINE>Felynes still pass<NEWLINE>down the story of<NEWLINE>Akantor in their<NEWLINE>folklore. 
+0,So for you to have<NEWLINE>slayed an Akantor...<NEWLINE>Who knows what fate<NEWLINE>your story will have.<NEWLINE>All I know is you are<NEWLINE>truly the Pokke<NEWLINE>Village hunter.
+0,dummy
+0,dummy
+0,This is my village.<NEWLINE>Pokke Village. Can you<NEWLINE>believe an old lady<NEWLINE>like me can be village<NEWLINE>chief!? If you'd like<NEWLINE>to take a Quest, come<NEWLINE>by anytime.

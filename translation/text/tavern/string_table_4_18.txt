@@ -1,0 +1,29 @@
+0,Welcome to the<NEWLINE>Hunter's Shoppe at<NEWLINE>Pokke Village, here to<NEWLINE>support your hunting<NEWLINE>lifestyle. What can I<NEWLINE>do for you today?
+1,That will be $z.<NEWLINE>OK?
+0,Thanks for shopping at<NEWLINE>the Hunter's Shoppe.<NEWLINE>Please come again. 
+2,dummy
+2,Welcome... You really<NEWLINE>are giving it your<NEWLINE>all, huh?
+2,Let me tell you about<NEWLINE>one of the items we<NEWLINE>have added to our<NEWLINE>stock. It is called<NEWLINE>the Organizer Guide,<NEWLINE>and it increases your<NEWLINE>Item Box's capacity.
+2,For Bowgun users, we<NEWLINE>recommend the purchase<NEWLINE>of Pierce S Lv 2 and<NEWLINE>Pellet S Lv 2.
+0,No matter what you<NEWLINE>buy, these products<NEWLINE>will make your hunting<NEWLINE>life richer and more<NEWLINE>productive. We look<NEWLINE>forward to serving you<NEWLINE>in the future!
+0,dummy
+2,Welcome! Word has it<NEWLINE>that you've been<NEWLINE>advancing as a hunter.
+2,Let me show you a<NEWLINE>special amulet that<NEWLINE>produces special<NEWLINE>effects just by simply<NEWLINE>possessing it. It is a<NEWLINE>must buy when fighting<NEWLINE>powerful monsters! 
+0,We have also stocked<NEWLINE>new volumes of monster<NEWLINE>info sure to prove<NEWLINE>useful to a hunter<NEWLINE>like you! We look<NEWLINE>forward to serving you<NEWLINE>in the future!
+0,dummy
+2,Welcome! I heard that<NEWLINE>you slayed a Tigrex.<NEWLINE>Well done! Even the<NEWLINE>Guild must respect an<NEWLINE>act like that.
+2,Shall I recommend an<NEWLINE>item to quench your<NEWLINE>mining mania - a Mega<NEWLINE>Pickaxe! Or perhaps<NEWLINE>the Mega Bugnet suits<NEWLINE>you! Both are perfect<NEWLINE>for item hunters! 
+0,We've also added<NEWLINE>monster info covering<NEWLINE>such beasts as the<NEWLINE>elder dragons or the<NEWLINE>Remobra. I'm sure<NEWLINE>you'll find them of<NEWLINE>great use!
+0,dummy
+2,Welcome! The Guild has<NEWLINE>provided us with new<NEWLINE>monster info just to<NEWLINE>keep you well<NEWLINE>informed! Can you<NEWLINE>believe it!?
+2,We've gotten books<NEWLINE>covering Shen Gaoren,<NEWLINE>Rajang, Teostra... All<NEWLINE>the beasts the Guild<NEWLINE>hopes you can slay!
+0,We've also been able<NEWLINE>to stock a copy of the<NEWLINE>Backpacker Guide!<NEWLINE>Perhaps this is more<NEWLINE>to your liking? Haha!<NEWLINE>We look forward to<NEWLINE>your business! 
+0,dummy
+2,Welcome! We've stock<NEWLINE>some new monster info<NEWLINE>that you may be<NEWLINE>interested in. Please<NEWLINE>take a look!
+2,Let's see... Perhaps<NEWLINE>you'd like this one!<NEWLINE>Fatalis Info... More<NEWLINE>like Fatalis Fairy<NEWLINE>Tale! I'm not sure who<NEWLINE>ordered this, but they<NEWLINE>sure have free time!
+0,You never know... It<NEWLINE>could be useful one<NEWLINE>day. And that is a day<NEWLINE>we look forward to<NEWLINE>doing business with<NEWLINE>you!
+0,dummy
+2,Welcome! I'd like to<NEWLINE>tell you that we've<NEWLINE>received new monster<NEWLINE>info from the Guild.<NEWLINE>It seems to be info<NEWLINE>about a previously<NEWLINE>unknown monster!
+2,It's called Akantor<NEWLINE>Info, even though it<NEWLINE>seems thin on the<NEWLINE>actual information<NEWLINE>part. I have a feeling<NEWLINE>you'll be asked to<NEWLINE>slay it nonetheless.
+0,Hopefully you'll find<NEWLINE>a need for it and get<NEWLINE>the info from us...<NEWLINE>But before you ask,<NEWLINE>it's not free! We look<NEWLINE>forward to your<NEWLINE>business! 
+0,dummy

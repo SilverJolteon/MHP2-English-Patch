@@ -1,0 +1,18 @@
+2,This is Pokke Farm,<NEWLINE>meow. Feel free to<NEWLINE>take any of the items<NEWLINE>you find here.
+2,This box here is a<NEWLINE>Small Item Box, nya.<NEWLINE>You can't put big<NEWLINE>things like equipment<NEWLINE>in it, but it is large<NEWLINE>enough to hold<NEWLINE>gathering items.
+2,The Field, Fishing<NEWLINE>Spot, Mining Points,<NEWLINE>and Bug Catching area<NEWLINE>all have their own<NEWLINE>managers, so you<NEWLINE>should get details<NEWLINE>from them, nya.
+2,I should also tell you<NEWLINE>that if you add a<NEWLINE>Mushroom Tree, you'll<NEWLINE>be able to gather<NEWLINE>Mushrooms under that<NEWLINE>roof you see on the<NEWLINE>left, meow.
+2,You can also add a Bee<NEWLINE>Hive to the farm. It<NEWLINE>will be added to the<NEWLINE>area on the right,<NEWLINE>meow.
+0,To gather up the items<NEWLINE>at each place, just<NEWLINE>press the ~B03 button.<NEWLINE>To add the new areas<NEWLINE>to the farm just ask<NEWLINE>the kid outside! Easy,<NEWLINE>nya!?
+2,This is Pokke Farm,<NEWLINE>meow. Feel free to<NEWLINE>take any of the items<NEWLINE>you find here.
+2,If you replace a<NEWLINE>Mushroom Tree with a<NEWLINE>high quality version,<NEWLINE>you will be able to<NEWLINE>get many different<NEWLINE>kinds of Mushrooms,<NEWLINE>nya.
+0,I bet you could even<NEWLINE>get some Mushrooms<NEWLINE>that you have never<NEWLINE>seen before, meow...
+2,This is Pokke Farm,<NEWLINE>meow. Feel free to<NEWLINE>take any of the items<NEWLINE>you find here.
+2,The amount of Honey<NEWLINE>you can get from a Bee<NEWLINE>Hive is like something<NEWLINE>out of a dream, nya. I<NEWLINE>bet you can even get<NEWLINE>Snakebee Larva, meow! 
+0,The Bee Hive is<NEWLINE>located on the right,<NEWLINE>nya. The first one is<NEWLINE>a prototype though, so<NEWLINE>you can't gather much.<NEWLINE>I hope that isn't too<NEWLINE>disappointing, nya.
+2,This is Pokke Farm,<NEWLINE>meow. Feel free to<NEWLINE>take any of the items<NEWLINE>you find here.
+2,To make sure the<NEWLINE>establishments on the<NEWLINE>farm stay stocked, the<NEWLINE>number of times you<NEWLINE>can use them are<NEWLINE>limited, nya...
+0,If you head off on a<NEWLINE>Quest, the items will<NEWLINE>replenish while you<NEWLINE>are away, so make sure<NEWLINE>to come back after a<NEWLINE>Quest, meow...
+2,This is Pokke Farm,<NEWLINE>meow. Feel free to<NEWLINE>take any of the items<NEWLINE>you find here.
+2,To gather items here,<NEWLINE>just walk up to one of<NEWLINE>the locations on the<NEWLINE>Farm and press the<NEWLINE>~B03 button, nya.
+0,If you need a Bugnet<NEWLINE>or a Pickaxe, we will<NEWLINE>get them ready for<NEWLINE>you, so just press the<NEWLINE>~B03 button, nya.<NEWLINE>Pretty easy, meow?

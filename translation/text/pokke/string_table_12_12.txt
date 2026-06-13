@@ -1,0 +1,71 @@
+2,Meow... What in the<NEWLINE>meow is going on!?<NEWLINE>Ahh... Another hunter.
+2,I dunno why, but it<NEWLINE>seems lately all<NEWLINE>hunters do is come my<NEWLINE>way, nya.
+2,That's why I save<NEWLINE>early and often in<NEWLINE>case something happens<NEWLINE>to me, meow!
+2,If you want to save<NEWLINE>your data, nya, then<NEWLINE>just head to the bed<NEWLINE>in your house, meow!<NEWLINE>You will save while<NEWLINE>you're asleep.
+0,You can also end<NEWLINE>without saving, but<NEWLINE>just make sure you<NEWLINE>don't pick that option<NEWLINE>by mistake or you'll<NEWLINE>regret it, meow! 
+2,If you want to save,<NEWLINE>you should take a rest<NEWLINE>in the bed at your<NEWLINE>house, nya. While you<NEWLINE>are sleeping, the game<NEWLINE>data will be saved.
+0,You can also end<NEWLINE>without saving, but<NEWLINE>just make sure you<NEWLINE>don't pick that option<NEWLINE>by mistake or you'll<NEWLINE>regret it, meow! 
+2,Meow? Are you the<NEWLINE>hunter who is always<NEWLINE>staring at me from far<NEWLINE>away?
+2,I dunno why, but it<NEWLINE>seems that lately<NEWLINE>hunters are trying to<NEWLINE>burn a hole in me with<NEWLINE>their eyes, meow... I<NEWLINE>wonder if they're<NEWLINE>trying to hunt me!
+2,For hunters, there are<NEWLINE>only two successful<NEWLINE>outcomes for a hunt.<NEWLINE>One is slaying a<NEWLINE>monster, the other is<NEWLINE>capturing it, nya.
+2,On a Hunting Quest,<NEWLINE>you can successfully<NEWLINE>complete the Quest by<NEWLINE>either slaying or<NEWLINE>capturing the target,<NEWLINE>meow!
+0,If those hunters are<NEWLINE>after me, I wonder if<NEWLINE>I will be captured or<NEWLINE>slayed, nya? Being<NEWLINE>scared is such a<NEWLINE>thrilling experience!
+2,On a Hunting Quest,<NEWLINE>you can successfully<NEWLINE>complete the Quest by<NEWLINE>either slaying or<NEWLINE>capturing the target,<NEWLINE>meow!
+0,There are specific<NEWLINE>items used to capture<NEWLINE>monsters, so you<NEWLINE>should prepare those<NEWLINE>before you head out,<NEWLINE>nya. Be prepared or be<NEWLINE>prepared to be sorry! 
+2,Meow? What in the<NEWLINE>world? Another hunter,<NEWLINE>nya!?
+2,From time to time,<NEWLINE>there are hunters who<NEWLINE>spy on me from under<NEWLINE>cover. I wonder if<NEWLINE>they think I'm purrty,<NEWLINE>nya!
+2,I've been hoarding all<NEWLINE>the latest gossip just<NEWLINE>in case a hunter shows<NEWLINE>up and wants to chat,<NEWLINE>nya!
+2,For instance, did you<NEWLINE>know that the crafting<NEWLINE>shop can strengthen<NEWLINE>your armor? They can<NEWLINE>turn even weak looking<NEWLINE>armor into master-<NEWLINE>pieces of protection!
+0,I recommend you gather<NEWLINE>the proper materials<NEWLINE>and keep making your<NEWLINE>armor stronger and<NEWLINE>stronger! Better safe<NEWLINE>than sorry, meow!
+2,As a hunter, never<NEWLINE>forget you can<NEWLINE>strengthen armor at<NEWLINE>the crafting shop!<NEWLINE>They can even turn<NEWLINE>weak armor into a real<NEWLINE>masterpiece!
+0,I recommend you gather<NEWLINE>the proper materials<NEWLINE>and keep making your<NEWLINE>armor stronger and<NEWLINE>stronger! Better safe<NEWLINE>than sorry, meow!
+2,Meow... This is<NEWLINE>strange. I seem to be<NEWLINE>on a spree of meeting<NEWLINE>hunters today!
+2,There's a hunter who<NEWLINE>always watches me<NEWLINE>hidden in the shadows.<NEWLINE>I bet that hunter is<NEWLINE>hopelessly in love<NEWLINE>with me, nya!
+2,If that hunter ever<NEWLINE>decides to step out of<NEWLINE>the shadows, I've<NEWLINE>gathered tons of<NEWLINE>information that would<NEWLINE>prove to be useful<NEWLINE>when hunting, meow!
+2,For instance, you can<NEWLINE>make Decorations from<NEWLINE>various Jewels! Put<NEWLINE>these Decorations on<NEWLINE>armor at the crafting<NEWLINE>shop and you unlock<NEWLINE>new Skill Points, nya!
+0,There is nothing<NEWLINE>better than<NEWLINE>Decorations to unlock<NEWLINE>the purrfect skill!<NEWLINE>Use them wisely and<NEWLINE>aim to become a top-<NEWLINE>class hunter, meow!
+2,Decorations made from<NEWLINE>Jewels are really<NEWLINE>useful, meow! If you<NEWLINE>put them on armor at<NEWLINE>the crafting shop, you<NEWLINE>can unlock new Skill<NEWLINE>Points!
+0,There is nothing<NEWLINE>better than<NEWLINE>Decorations to unlock<NEWLINE>the purrfect skill!<NEWLINE>Use them wisely and<NEWLINE>aim to become a top-<NEWLINE>class hunter, meow!
+2,Purr... What now, nya?<NEWLINE>Another hunter!?
+2,There is a hunter who<NEWLINE>keeps looking at me,<NEWLINE>but it seems that no<NEWLINE>matter what I do, the<NEWLINE>hunter won't come over<NEWLINE>to talk with me, meow!
+2,I tried to meow at the<NEWLINE>hunter only to be left<NEWLINE>in the dust of a hasty<NEWLINE>escape, nya. All I<NEWLINE>wanted to do was talk<NEWLINE>about strengthening<NEWLINE>armor!
+2,Wearing the armor you<NEWLINE>made, as is, isn't the<NEWLINE>only way, nya! Having<NEWLINE>the crafting shop<NEWLINE>strengthen it means<NEWLINE>you'll be using a<NEWLINE>purrfect protector!
+0,However, the skills<NEWLINE>and Decoration slots<NEWLINE>won't change, meow.<NEWLINE>Save up your money and<NEWLINE>materials, then give<NEWLINE>strengthening a try,<NEWLINE>meow meow meow!!
+2,Wearing the armor you<NEWLINE>made, as is, isn't the<NEWLINE>only way, nya! Having<NEWLINE>the crafting shop<NEWLINE>strengthen it means<NEWLINE>you'll be using a<NEWLINE>purrfect protector!
+0,However, the skills<NEWLINE>and Decoration slots<NEWLINE>won't change, meow.<NEWLINE>Save up your money and<NEWLINE>materials, then give<NEWLINE>strengthening a try,<NEWLINE>meow meow meow!!
+2,Meow... Where is that<NEWLINE>hunter hiding, meow!?
+2,The hunter that always<NEWLINE>seems to be after me<NEWLINE>isn't going to get<NEWLINE>away this time,<NEWLINE>because now I'm on the<NEWLINE>prowl, meow!
+2,I don't know what that<NEWLINE>hunter is planning,<NEWLINE>but just like a<NEWLINE>monster, it seems<NEWLINE>every time I catch the<NEWLINE>hunter by surprise, I<NEWLINE>get a new item, nya!
+2,Monsters are also<NEWLINE>known to drop items<NEWLINE>when you catch them <NEWLINE>by surprise or<NEWLINE>off-guard, meow.
+0,These items can be<NEWLINE>sold for a high price,<NEWLINE>so when you are<NEWLINE>fighting a monster,<NEWLINE>try lots of different<NEWLINE>surprising ideas!
+2,Monsters are known to<NEWLINE>drop items when you<NEWLINE>catch them by surprise<NEWLINE>or off-guard, meow.
+0,These items can be<NEWLINE>sold for a high price,<NEWLINE>so when you are<NEWLINE>fighting a monster,<NEWLINE>try lots of different<NEWLINE>surprising ideas!
+2,Nyaaaaa! I was so<NEWLINE>close, meow! Just one<NEWLINE>more step...
+2,One more step and I<NEWLINE>would've been able to<NEWLINE>give that hunter the<NEWLINE>poking of a lifetime,<NEWLINE>meow!
+2,The hunter I'm after<NEWLINE>is wearing S-Series<NEWLINE>armor. It is special<NEWLINE>equipment that is<NEWLINE>stronger than regular<NEWLINE>armor, meow!
+2,There is also another<NEWLINE>class of special armor<NEWLINE>called the U-Series.<NEWLINE>It has many slots<NEWLINE>which makes it very<NEWLINE>useful for those<NEWLINE>interested in skills.
+0,S and U-Series armor<NEWLINE>is only made via<NEWLINE>strengthening. Take<NEWLINE>some materials to the<NEWLINE>crafting shop and make<NEWLINE>some for yourself,<NEWLINE>meow!
+2,S and U-Series armor<NEWLINE>both feature the best <NEWLINE>tech'nyalogy, meow.<NEWLINE>The S-Series has very<NEWLINE>high strength, while<NEWLINE>the U-Series focuses<NEWLINE>on skills and slots.
+0,S and U-Series armor<NEWLINE>is only made via<NEWLINE>strengthening. Take<NEWLINE>some materials to the<NEWLINE>crafting shop and make<NEWLINE>some for yourself,<NEWLINE>meow!
+2,Nyaaaaa! I was so<NEWLINE>close, meow! I'm so<NEWLINE>close to finally<NEWLINE>catching that hunter,<NEWLINE>meow!
+2,I almost had my paw on<NEWLINE>the hunter's bag, when<NEWLINE>all of a sudden I got<NEWLINE>blown by wind like a<NEWLINE>wyvern was descending!<NEWLINE>It was terrible, I<NEWLINE>just rolled away, nya!
+2,But I got a good look<NEWLINE>at that hunter's armor<NEWLINE>and there was a<NEWLINE>Paperweight Jewel <NEWLINE>made from Blos<NEWLINE>material and an Akito<NEWLINE>Jewel attached to it.
+2,The hunter must have<NEWLINE>been using the Wind<NEWLINE>Press Skill, meow!
+0,It's an awesome skill<NEWLINE>that can cancel out a<NEWLINE>monster's wind<NEWLINE>abilities, meow! I was<NEWLINE>so close, but this<NEWLINE>time I was just a step<NEWLINE>too far, nya...
+2,That was the Wind<NEWLINE>Press Skill. I'm sure<NEWLINE>of it because there<NEWLINE>was a Paperweight<NEWLINE>Jewel made of Blos<NEWLINE>material and an Akito<NEWLINE>Jewel on the armor.
+0,Meow... I bet if you<NEWLINE>combine a Lapis Lazuli<NEWLINE>Jewel with a couple of<NEWLINE>other things, you'd<NEWLINE>end up with a Heavy<NEWLINE>Metal Jewel... Not<NEWLINE>that it matters, meow.
+2,I'm finally going to<NEWLINE>catch up to that darn <NEWLINE>hunter, nya!
+2,The hunter's armor had<NEWLINE>an Earplug Jewel<NEWLINE>attached to it. That<NEWLINE>Jewel is made from<NEWLINE>Yian Garuga materials,<NEWLINE>a Battlefield Jewel<NEWLINE>and something else...
+2,That means that the<NEWLINE>hunter is using the<NEWLINE>Earplug Skill meow! 
+2,It's a powerful effect<NEWLINE>that nullifies a<NEWLINE>monster's roar. If I<NEWLINE>sneak up quietly on<NEWLINE>that hunter, our<NEWLINE>little game will be<NEWLINE>over, nya!
+0,Meow meow meow meow!<NEWLINE>Now it's all a matter<NEWLINE>of patience!
+2,If you use the Earplug<NEWLINE>Skill, you will be<NEWLINE>protected against a<NEWLINE>monster's roar...<NEWLINE>Assuming you fight a<NEWLINE>monster with a large<NEWLINE>roar of course. Meow.
+2,The Earplug Skill is<NEWLINE>held by the Earplug or<NEWLINE>the Silencer Jewel.<NEWLINE>The Earplug Jewel is<NEWLINE>made from Yian Garuga,<NEWLINE>a Battlefield Jewel<NEWLINE>and something else...
+0,The Silencer Jewel is<NEWLINE>made from a Lapis<NEWLINE>Lazuli Jewel and<NEWLINE>something else, but<NEWLINE>I'm nya't quite sure<NEWLINE>what it is, meow.
+2,Meow... That makes<NEWLINE>sense now, meow...
+2,That hunter was<NEWLINE>actually born in this<NEWLINE>village, nya. But for <NEWLINE>some reason, he never<NEWLINE>wanted to return home,<NEWLINE>meow.
+2,He'd been away for so<NEWLINE>long that he couldn't<NEWLINE>resist checking up on<NEWLINE>the Felyne he employed<NEWLINE>as a maid...
+2,But he made a mistake<NEWLINE>and thought I was his<NEWLINE>old Felyne. That's why<NEWLINE>he started tracking me<NEWLINE>from the shadows,<NEWLINE>meow!
+0,And here I was getting<NEWLINE>all worked up over<NEWLINE>someone chasing the<NEWLINE>wrong man... I mean<NEWLINE>Felyne, meow!
+2,Here I was getting all<NEWLINE>worked up over someone<NEWLINE>chasing the wrong<NEWLINE>man... I mean Felyne,<NEWLINE>meow! There must be a<NEWLINE>really complicated<NEWLINE>reason for it all.
+0,Maybe behind it all<NEWLINE>there is a grand story<NEWLINE>that I'm not aware of<NEWLINE>just waiting to be<NEWLINE>discovered, nya! Meow<NEWLINE>meow meow meow meow...

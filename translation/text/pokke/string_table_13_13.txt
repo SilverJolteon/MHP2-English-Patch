@@ -1,0 +1,110 @@
+2,Ho ho... So you want<NEWLINE>me to tell you some<NEWLINE>more, eh? Wanting to<NEWLINE>know more is an<NEWLINE>admirable trait.
+2,The Elder Dragon<NEWLINE>Observation Center is<NEWLINE>an organization that<NEWLINE>tracks the movements<NEWLINE>of elder dragons, but<NEWLINE>you'll probably never<NEWLINE>work with them.
+2,Sometimes after you<NEWLINE>initiate a Quest, you<NEWLINE>may see a balloon<NEWLINE>floating off in the <NEWLINE>distance. 
+0,That would be one of<NEWLINE>the ways we track the<NEWLINE>movements of elder<NEWLINE>dragons. Feel free to<NEWLINE>wave hello if you see<NEWLINE>one of the balloons.
+2,The Elder Dragon<NEWLINE>Observation Center<NEWLINE>floats balloons in<NEWLINE>every part of the land<NEWLINE>to track the daily<NEWLINE>movements of elder<NEWLINE>dragons.
+0,Feel free to wave<NEWLINE>hello if you see one<NEWLINE>of our balloons in the<NEWLINE>sky.
+2,How are you doing<NEWLINE>today my hunting<NEWLINE>friend? Ho ho... I<NEWLINE>think it might be a<NEWLINE>little too soon for<NEWLINE>you to take on an<NEWLINE>elder dragon.
+2,The most important<NEWLINE>thing for a hunter to<NEWLINE>do is live up to their<NEWLINE>potential. You should<NEWLINE>spend time embarking<NEWLINE>on Quests and building<NEWLINE>up your power. 
+0,You can't just gain<NEWLINE>power through your<NEWLINE>equipment. You must be<NEWLINE>a master of weapons,<NEWLINE>bullets, items,<NEWLINE>resistances, and all<NEWLINE>special conditions.
+2,I think it might be a<NEWLINE>little too soon for<NEWLINE>you to take on an<NEWLINE>elder dragon. First<NEWLINE>things first, you must<NEWLINE>reach your maximum<NEWLINE>potential.
+0,You can't just gain<NEWLINE>power through your<NEWLINE>equipment. You must be<NEWLINE>a master of weapons,<NEWLINE>bullets, items,<NEWLINE>resistances, and all<NEWLINE>special conditions.
+0,dummy
+2,Ho ho... You've been<NEWLINE>doing quite well it<NEWLINE>seems. Pretty soon it<NEWLINE>will be time to start<NEWLINE>talking about elder<NEWLINE>dragons.
+2,I don't have all the<NEWLINE>answers. Just because<NEWLINE>an old man like me<NEWLINE>calls something an<NEWLINE>elder dragon doesn't<NEWLINE>mean it’s a clearly<NEWLINE>defined group.
+2,Among monsters, those<NEWLINE>that fall well outside<NEWLINE>the bounds of the<NEWLINE>normal ecosystem are<NEWLINE>called elder dragons.
+2,We have no knowledge<NEWLINE>of where they are<NEWLINE>born, how long they<NEWLINE>live, or where they go<NEWLINE>to die...
+2,Some are said to have<NEWLINE>lived since ancient<NEWLINE>times, while others<NEWLINE>are more recently<NEWLINE>evolved animals.
+0,What we do know is<NEWLINE>that they don't tend<NEWLINE>to stay in one place<NEWLINE>for long, instead<NEWLINE>preferring to reign<NEWLINE>destruction over large<NEWLINE>areas of land.
+2,The Elder Dragon<NEWLINE>Observation Center <NEWLINE>calls all monsters<NEWLINE>that fall outside the<NEWLINE>normal ecology by the<NEWLINE>name of elder dragon.
+2,We have no knowledge<NEWLINE>of where they are<NEWLINE>born, how long they<NEWLINE>live, or where they go<NEWLINE>to die...
+2,Some are said to have<NEWLINE>lived since ancient<NEWLINE>times, while others<NEWLINE>are more recently<NEWLINE>evolved animals.
+0,What we do know is<NEWLINE>that they don't tend<NEWLINE>to stay in one place<NEWLINE>for long, instead<NEWLINE>preferring to reign<NEWLINE>destruction over large<NEWLINE>areas of land.
+0,dummy
+2,Ho ho... It looks like<NEWLINE>you are trying your<NEWLINE>hardest out there.<NEWLINE>Today I'd like to tell<NEWLINE>you about one of the<NEWLINE>elder dragons, Kushala<NEWLINE>Daora.
+2,The Kushala Daora is<NEWLINE>known for the way it<NEWLINE>literally soars<NEWLINE>through the sky and<NEWLINE>for the metallic<NEWLINE>nature of its body.
+2,As a part of its<NEWLINE>growth process, it<NEWLINE>seems the Kushala<NEWLINE>Daora repeatedly molts<NEWLINE>its metallic skin.<NEWLINE>During this time its<NEWLINE>body appears rusted.
+2,It is known to perch<NEWLINE>on a mountain top and<NEWLINE>smash through its<NEWLINE>rusted skin in one<NEWLINE>thrust. You may find<NEWLINE>the remnants of this<NEWLINE>process on the summit.
+2,If the Kushala Daora<NEWLINE>feels threatened, it<NEWLINE>will wrap its entire<NEWLINE>body with wind. This<NEWLINE>wind deflects arrows<NEWLINE>and shells and stops<NEWLINE>one from approaching.
+2,According to our<NEWLINE>research, there is<NEWLINE>only one way to breach<NEWLINE>this wind barrier and<NEWLINE>that is directly<NEWLINE>damaging its internal<NEWLINE>organs.
+2,The best way to do<NEWLINE>this is via poison.<NEWLINE>Attack the gaps in<NEWLINE>Daora's shell to get<NEWLINE>the poison into the<NEWLINE>blood stream and cause<NEWLINE>damage to its organs.
+0,There are other ways<NEWLINE>to damage its organs,<NEWLINE>but these are<NEWLINE>extremely difficult<NEWLINE>and you already have<NEWLINE>enough to bear.
+2,The Kushala Daora is<NEWLINE>known for the way it<NEWLINE>literally soars<NEWLINE>through the sky and<NEWLINE>for the metallic<NEWLINE>nature of its body.
+2,The Daora must molt to<NEWLINE>grow, a process you<NEWLINE>can witness yourself<NEWLINE>as the Daora will<NEWLINE>perch upon a mountain<NEWLINE>summit to shed its<NEWLINE>rusted skin.
+2,If the Kushala Daora<NEWLINE>feels threatened, it<NEWLINE>will wrap its entire<NEWLINE>body with wind. This<NEWLINE>wind deflects arrows<NEWLINE>and shells and stops<NEWLINE>one from approaching.
+2,The best way to do<NEWLINE>this is via poison.<NEWLINE>Attack the gaps in<NEWLINE>Daora's shell to get<NEWLINE>the poison into the<NEWLINE>blood stream and cause<NEWLINE>damage to its organs.
+0,There are other ways<NEWLINE>to damage its organs,<NEWLINE>but these are<NEWLINE>extremely difficult<NEWLINE>and you already have<NEWLINE>enough to bear.
+0,dummy
+2,Ho ho... The hunter,<NEWLINE>huh? Doing well I see.<NEWLINE>Today, I'd like to<NEWLINE>tell you about two<NEWLINE>elder dragons,<NEWLINE>Lunastra and<NEWLINE>Chameleos.
+2,The Elder Dragon<NEWLINE>Observation Center has<NEWLINE>gathered the following<NEWLINE>information about<NEWLINE>Lunastra. 
+2,She is related to<NEWLINE>another elder dragon<NEWLINE>called Teostra. They<NEWLINE>are both accompanied<NEWLINE>by fire hot enough to<NEWLINE>ignite anyone foolish<NEWLINE>enough to approach.
+2,You must pay extreme<NEWLINE>caution to the scales<NEWLINE>that spread from her<NEWLINE>wings and hit the<NEWLINE>ground like fangs of<NEWLINE>fire, possibly causing<NEWLINE>a "dust explosion".
+2,Finally, Lunastra is<NEWLINE>named for the moon,<NEWLINE>whose blue flames burn<NEWLINE>the earth at night...<NEWLINE>We will cover her<NEWLINE>partner Teostra at a<NEWLINE>later date. 
+2,Chameleos is hard to<NEWLINE>pin down due to the<NEWLINE>extreme scarcity of<NEWLINE>eyewitness reports. It<NEWLINE>appears it can<NEWLINE>camouflage itself at<NEWLINE>will.
+2,Named for its ability<NEWLINE>to change its skin and<NEWLINE>hide, we believe that<NEWLINE>this ability is<NEWLINE>related to a link<NEWLINE>between its blood and<NEWLINE>the surface humidity.
+2,I suppose this is of<NEWLINE>little interest to a<NEWLINE>hunter like yourself;<NEWLINE>however, be aware that<NEWLINE>areas of high humidity<NEWLINE>are known to be<NEWLINE>Chameleos habitats.
+0,Chameleos is an<NEWLINE>incredibly powerful<NEWLINE>elder dragon and must<NEWLINE>be confronted with<NEWLINE>extreme caution.
+2,The moon-like fire of<NEWLINE>Lunastra wraps her in<NEWLINE>flames hot enough to<NEWLINE>catch fire to anyone<NEWLINE>foolish enough to<NEWLINE>approach her. 
+2,You must pay extreme<NEWLINE>caution to the scales<NEWLINE>that spread from her<NEWLINE>wings and hit the<NEWLINE>ground like fangs of<NEWLINE>fire, possibly causing<NEWLINE>a "dust explosion".
+2,The Chameleos can<NEWLINE>seemingly hide its own<NEWLINE>body at will; however,<NEWLINE>its lifestyle is still<NEWLINE>shrouded in many<NEWLINE>mysteries.
+2,We do not know the<NEWLINE>specifics of how it<NEWLINE>achieves this<NEWLINE>camouflage technique,<NEWLINE>nor do we know how it<NEWLINE>suddenly is able to<NEWLINE>reappear.
+0,Chameleos is an<NEWLINE>incredibly powerful<NEWLINE>elder dragon and must<NEWLINE>be confronted with<NEWLINE>extreme caution.
+0,dummy
+2,Ho ho... You have<NEWLINE>become quite the<NEWLINE>powerful hunter! Today<NEWLINE>I would like to share<NEWLINE>with you our info on<NEWLINE>an elder dragon named<NEWLINE>Teostra.
+2,There are many things<NEWLINE>Teostra has in common<NEWLINE>with his partner<NEWLINE>Lunastra, an elder<NEWLINE>dragon I informed you<NEWLINE>of earlier.
+2,The Teostra is capable<NEWLINE>of breathing fire and<NEWLINE>hazy flare-like flames<NEWLINE>emanate from its body,<NEWLINE>leading some to call<NEWLINE>it the Solar Flare<NEWLINE>Dragon. 
+2,Teostra was named from<NEWLINE>the combination of<NEWLINE>tyrant and leo, or<NEWLINE>lion. Teostra is the<NEWLINE>king of flame to<NEWLINE>Lunastra's queen.
+2,Teostra's flame breath<NEWLINE>is the result of a<NEWLINE>unique gas within the<NEWLINE>body of the dragon.
+2,Reports say this gas<NEWLINE>is caused by Teostra's<NEWLINE>consumption of Coal,<NEWLINE>often found in the<NEWLINE>Volcanic Belt. It's<NEWLINE>thought this is where<NEWLINE>Teostra consumes it.
+2,Teostra pressurizes<NEWLINE>these purified<NEWLINE>internal gases and<NEWLINE>releases them,<NEWLINE>flushing his system by<NEWLINE>creating a widespread<NEWLINE>explosion of flame.
+0,Of course, this is all<NEWLINE>rampant speculation on<NEWLINE>our part. When dealing<NEWLINE>with elder dragons,<NEWLINE>there is quite a bit<NEWLINE>we do not understand.
+2,The Teostra is capable<NEWLINE>of breathing fire and<NEWLINE>hazy flare-like flames<NEWLINE>emanate from its body,<NEWLINE>leading some to call<NEWLINE>it the Solar Flare<NEWLINE>Dragon. 
+2,Teostra's flame breath<NEWLINE>is the result of a<NEWLINE>unique gas within the<NEWLINE>body of the dragon.
+2,Reports say this gas<NEWLINE>is caused by Teostra's<NEWLINE>consumption of Coal,<NEWLINE>often found in the<NEWLINE>Volcanic Belt. It's<NEWLINE>thought this is where<NEWLINE>Teostra consumes it.
+0,Teostra pressurizes<NEWLINE>these purified<NEWLINE>internal gases and<NEWLINE>releases them,<NEWLINE>flushing his system by<NEWLINE>creating a widespread<NEWLINE>explosion of flame.
+0,dummy
+2,Ho ho... It seems that<NEWLINE>your star is rising<NEWLINE>quickly my friend.<NEWLINE>Today, I suppose I<NEWLINE>shall tell you what I<NEWLINE>know about an elder<NEWLINE>dragon called Kirin.
+2,Huh? A Kirin is an<NEWLINE>elder dragon you ask?<NEWLINE>Ho ho... That is a<NEWLINE>problem of<NEWLINE>classification that<NEWLINE>you need not worry<NEWLINE>about.
+2,As I explained<NEWLINE>earlier, we classify a<NEWLINE>monster as an elder<NEWLINE>dragon when it differs<NEWLINE>too greatly from other<NEWLINE>existing<NEWLINE>classifications.
+2,That is why a Kirin is<NEWLINE>considered an elder<NEWLINE>dragon. Understand?<NEWLINE>...No need to look so<NEWLINE>vexed.
+2,Continuing on, as you<NEWLINE>know, the Kirin is<NEWLINE>sometimes known as the<NEWLINE>Phantom Brute due to<NEWLINE>the rarity of its<NEWLINE>encounters with<NEWLINE>humans.
+2,A nomad of sorts, its<NEWLINE>small numbers are<NEWLINE>aided by its<NEWLINE>adaptability, be it<NEWLINE>the cold of the Snowy<NEWLINE>Mountains or the heat<NEWLINE>of the Volcanic Belt.
+2,Even the Guild, to a<NEWLINE>certain extent, has<NEWLINE>begun to accept Quests<NEWLINE>for the Kirin;<NEWLINE>however, it rarely<NEWLINE>offers these quests<NEWLINE>itself.
+0,If you happen to spot<NEWLINE>one, you should take<NEWLINE>out a Quest as quickly<NEWLINE>as possible... Ho ho<NEWLINE>ho...
+2,The Kirin is sometimes<NEWLINE>known as the Phantom<NEWLINE>Brute due to the<NEWLINE>rarity of encounters<NEWLINE>with humans.
+2,A nomad of sorts, its<NEWLINE>small numbers are<NEWLINE>aided by its<NEWLINE>adaptability, be it<NEWLINE>the cold of the Snowy<NEWLINE>Mountains or the heat<NEWLINE>of the Volcanic Belt.
+0,The Guild only<NEWLINE>occasionally offers<NEWLINE>Kirin Quests. So, if<NEWLINE>you happen to spot<NEWLINE>one, you should take<NEWLINE>out a Quest as quickly<NEWLINE>as possible... 
+2,Ho ho... It seems you<NEWLINE>are reaching the upper<NEWLINE>echelon as a hunter.<NEWLINE>It is now time that I<NEWLINE>told you of the<NEWLINE>infamous Lao-Shan<NEWLINE>Lung.
+2,You may have already<NEWLINE>seen one yourself;<NEWLINE>however, it appears<NEWLINE>like an enormous rock.<NEWLINE>In fact, it is said<NEWLINE>that it appears to be<NEWLINE>a moving mountain.
+2,Its skin is said to be<NEWLINE>closer to bedrock than<NEWLINE>shell in hardness,<NEWLINE>growing to resemble a<NEWLINE>rocky mountain more<NEWLINE>and more as it grows.
+2,It takes a vast amount<NEWLINE>of time for it to grow<NEWLINE>to that size. Like a<NEWLINE>tree's rings, Lao-Shan<NEWLINE>Lung's horn is a means<NEWLINE>of dating the animal's<NEWLINE>age.
+2,Lao-Shan Lung's horn<NEWLINE>grows as it picks up<NEWLINE>dust in the atmosphere<NEWLINE>or flecks of ore over<NEWLINE>an untold amount of<NEWLINE>time.
+2,Due to this intake of<NEWLINE>atmospheric particles,<NEWLINE>Lao-Shan Lung can vary<NEWLINE>color from dragon to<NEWLINE>dragon depending  on<NEWLINE>the particles it takes<NEWLINE>in.
+2,For instance, if a<NEWLINE>Lao-Shan Lung were to<NEWLINE>appear near here, the<NEWLINE>large iron deposits<NEWLINE>would turn its body a<NEWLINE>reddish shade.
+2,On the other hand, you<NEWLINE>may encounter an ash<NEWLINE>colored Lao-Shan Lung.<NEWLINE>It is this color due<NEWLINE>to long exposure to<NEWLINE>the ash of the<NEWLINE>Volcanic Belt.
+2,By the way, these<NEWLINE>ashen Lao-Shan Lung <NEWLINE>materials can be<NEWLINE>polished to brilliant<NEWLINE>shades of green and<NEWLINE>blue.
+0,Established theory<NEWLINE>holds that it will<NEWLINE>cycle between a fixed<NEWLINE>set of habitats. These<NEWLINE>environmental changes<NEWLINE>lead to a change in<NEWLINE>its body color.
+2,Lao-Shan Lung's skin<NEWLINE>is said to be closer<NEWLINE>to bedrock than shell<NEWLINE>in hardness, growing<NEWLINE>to resemble a rocky<NEWLINE>mountain more and more<NEWLINE>as it grows.
+2,Lao-Shan Lung's horn<NEWLINE>grows as it picks up<NEWLINE>dust in the atmosphere<NEWLINE>or flecks of ore over<NEWLINE>an untold amount of<NEWLINE>time.
+2,A Lao-Shan Lung in an<NEWLINE>area with large iron<NEWLINE>deposits may turn red,<NEWLINE>while one exposed to<NEWLINE>the ash of the<NEWLINE>Volcanic Belt will<NEWLINE>turn an ashy gray.
+0,Research has shown<NEWLINE>that these ashen<NEWLINE>Lao-Shan Lung <NEWLINE>materials can be<NEWLINE>polished to brilliant<NEWLINE>shades of green and<NEWLINE>blue.
+2,Ho ho... Have you<NEWLINE>heard the exciting<NEWLINE>news!? Have you!? Have<NEWLINE>you!? It seems that a<NEWLINE>wyvern has appeared<NEWLINE>that none of our group<NEWLINE>has ever encountered! 
+2,According to reports,<NEWLINE>it appeared in the<NEWLINE>Volcanic Belt and has<NEWLINE>been dominating over<NEWLINE>the native wyverns<NEWLINE>there.
+2,Of the veteran hunters<NEWLINE>who've set off to try<NEWLINE>and slay this new<NEWLINE>beast not a single one<NEWLINE>has come back. Truth<NEWLINE>or war legend? This<NEWLINE>remains unknown.
+0,It seems this wyvern<NEWLINE>has an exceptionally<NEWLINE>long lifespan. If you<NEWLINE>are able to slay this<NEWLINE>beast, we will be able<NEWLINE>to continue our<NEWLINE>research! Good luck!
+2,We have been referring<NEWLINE>to this new beast as a<NEWLINE>wyvern, but we have<NEWLINE>not yet ascertained<NEWLINE>whether it belongs in<NEWLINE>this category.
+2,Those who have fought<NEWLINE>against it say that it<NEWLINE>is the anti-thesis of<NEWLINE>a wyvern, yet one of<NEWLINE>our staff said it is a<NEWLINE>wyvern despite its<NEWLINE>unique shape.
+0,If I was still in<NEWLINE>active duty, I'd be<NEWLINE>rushing off myself!<NEWLINE>Instead all I can do<NEWLINE>is wait for the<NEWLINE>results of our<NEWLINE>surveys.
+2,Ho ho... Is the<NEWLINE>Akantor a wyvern or an<NEWLINE>elder dragon? That is<NEWLINE>the Question at hand!<NEWLINE>Truly a matter of<NEWLINE>great interest!
+2,It is possible to say<NEWLINE>that the Akantor is an<NEWLINE>elder dragon, but with<NEWLINE>a lack of information,<NEWLINE>such a classification<NEWLINE>would be a disgrace to<NEWLINE>science itself.
+2,Moreover, there are<NEWLINE>reports that its<NEWLINE>physical build is very<NEWLINE>close to that of a<NEWLINE>Tigrex. 
+0,This solidifies that<NEWLINE>more research is<NEWLINE>needed. Even at my<NEWLINE>age, a chance to meet<NEWLINE>a monster like this is<NEWLINE>worth every long year.
+2,Thanks to you, our<NEWLINE>advanced research into<NEWLINE>Akantor is proceeding<NEWLINE>well. 
+0,Even at my age, a<NEWLINE>chance to meet a<NEWLINE>monster like this is<NEWLINE>worth every long year.
+2,Ho ho... You must be<NEWLINE>the hunter that was<NEWLINE>found collapsed on the<NEWLINE>Snowy Mountains. Ho ho<NEWLINE>ho...
+2,Hmm... You don't look<NEWLINE>that beat up. Ho ho...<NEWLINE>I guess we can be<NEWLINE>expecting great things<NEWLINE>from you after all!
+2,Me? You want to know<NEWLINE>about me? I'm just an<NEWLINE>old retiree. The<NEWLINE>Village Chief is the<NEWLINE>old lady over there.
+2,Hey! Wait! Don't be in<NEWLINE>such a hurry there<NEWLINE>youngin'! Even though<NEWLINE>I'm just an old<NEWLINE>retiree, I might be of<NEWLINE>use to you!
+2,Before I retired, I<NEWLINE>spent many years<NEWLINE>studying elder dragons<NEWLINE>as a member of the<NEWLINE>Observation Center. I<NEWLINE>am an expert on the<NEWLINE>subject, ho ho!
+0,You don't have to<NEWLINE>worry about fighting<NEWLINE>any elder dragons in<NEWLINE>the near future, but<NEWLINE>if you need any<NEWLINE>information come and<NEWLINE>talk to me! 
+0,I'm just a retired old<NEWLINE>man. If you are able<NEWLINE>to meet the<NEWLINE>qualifications, I will<NEWLINE>tell you all I know<NEWLINE>about elder dragons.

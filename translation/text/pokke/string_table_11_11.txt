@@ -1,0 +1,53 @@
+2,Why hello there!<NEWLINE>You're the new hunter,<NEWLINE>right? Are you healed<NEWLINE>up from your injuries?
+0,Have you said hello to<NEWLINE>the Village Chief yet?<NEWLINE>She is the old lady<NEWLINE>near the fire in the<NEWLINE>back of the village.
+0,The little old lady<NEWLINE>near the fire at the<NEWLINE>back of the village is<NEWLINE>the Village Chief.<NEWLINE>Have you gone over to<NEWLINE>say hello yet?
+2,Hello and good day to<NEWLINE>you. It seems that<NEWLINE>you've fully<NEWLINE>recovered!
+2,You know, we used<NEWLINE>quite a few Mountain<NEWLINE>Herbs on your wounds.<NEWLINE>Mountain Herbs are the<NEWLINE>specialty of the Snowy<NEWLINE>Mountains near here.
+2,Mountain Herbs are <NEWLINE>quite nutritious, but<NEWLINE>you can't just eat<NEWLINE>them off the ground.<NEWLINE>The Guild will buy<NEWLINE>them, since they are<NEWLINE>an Account Item.
+0,You'll find many more<NEWLINE>herbs in the upper<NEWLINE>regions of the Snowy<NEWLINE>Mountains, like ridges<NEWLINE>or the summit, than in<NEWLINE>the foothills. Look in<NEWLINE>areas with grass. 
+2,Mountain Herbs are the<NEWLINE>specialty of the Snowy<NEWLINE>Mountains. They are an<NEWLINE>Account Item, meaning<NEWLINE>the Guild will pay to<NEWLINE>acquire them.
+0,You'll find many more<NEWLINE>herbs in the upper<NEWLINE>regions of the Snowy<NEWLINE>Mountains, like ridges<NEWLINE>or the summit, than in<NEWLINE>the foothills. Look in<NEWLINE>areas with grass. 
+2,Hmm... What should I<NEWLINE>have for dinner<NEWLINE>tonight...? What do<NEWLINE>you recommend?
+2,Oh! That's right!<NEWLINE>Hunters don't make<NEWLINE>their own dinners!<NEWLINE>They have Felynes cook<NEWLINE>their dinners for<NEWLINE>them!
+2,I also hear that these<NEWLINE>Felynes have started a<NEWLINE>service where they<NEWLINE>will cook meat and<NEWLINE>fish for you.
+0,It seems you can place<NEWLINE>an order at the<NEWLINE>Felyne Board in the<NEWLINE>kitchen. Interesting!<NEWLINE>It looks like they<NEWLINE>even have burnt items!
+2,I hear that recently<NEWLINE>the cooking Felynes<NEWLINE>have started a service<NEWLINE>where they will cook<NEWLINE>meat and fish for you.
+0,It seems you can place<NEWLINE>an order at the<NEWLINE>Felyne Board in the<NEWLINE>kitchen. Interesting!<NEWLINE>It looks like they<NEWLINE>even have burnt items!
+2,Good day to you! You<NEWLINE>seem to be in great<NEWLINE>spirits today. Oh,<NEWLINE>that reminds me of<NEWLINE>something...
+2,Are you using the<NEWLINE>bookshelf in your<NEWLINE>house? It's more than<NEWLINE>just for reading the<NEWLINE>latest "Hunting Life"!<NEWLINE>You can also change<NEWLINE>your hair there!
+0,There is also hair dye<NEWLINE>there, so you can<NEWLINE>change your hair color<NEWLINE>to whatever suits you!<NEWLINE>It's good to give<NEWLINE>yourself a makeover<NEWLINE>every now and again!
+2,Are you using the<NEWLINE>bookshelf in your<NEWLINE>house? You can view<NEWLINE>critical information<NEWLINE>on hunting, as well as<NEWLINE>change your hair<NEWLINE>style there!
+0,There is also hair dye<NEWLINE>there, so you can<NEWLINE>change your hair color<NEWLINE>to whatever suits you!<NEWLINE>It's good to give<NEWLINE>yourself a makeover<NEWLINE>every now and again!
+2,Hello there. I was<NEWLINE>just on my way to get<NEWLINE>some ingredients for<NEWLINE>dinner from the Small<NEWLINE>Item Box...
+2,You can use the Small<NEWLINE>Item Box to store<NEWLINE>items as well as sell<NEWLINE>them, making it quite<NEWLINE>the convenient little<NEWLINE>box.
+0,You can't use it to<NEWLINE>store equipment, but<NEWLINE>other than that, you<NEWLINE>can treat it just like<NEWLINE>the Item Box you have<NEWLINE>at home.
+2,You can use the Small<NEWLINE>Item Box to store<NEWLINE>items as well as sell<NEWLINE>them, making it quite<NEWLINE>the convenient little<NEWLINE>box.
+0,You can't use it to<NEWLINE>store equipment, but<NEWLINE>other than that, you<NEWLINE>can treat it just like<NEWLINE>the Item Box you have<NEWLINE>at home.
+2,Well, well! Good day<NEWLINE>to you! Movin' on up,<NEWLINE>I see. Have you ever<NEWLINE>heard of Trenya? He<NEWLINE>was Treshi's first<NEWLINE>disciple.
+2,If you give him Pokke<NEWLINE>Points, he will head<NEWLINE>out on one of his<NEWLINE>adventures and return<NEWLINE>with a plethora of<NEWLINE>items.
+0,The items you receive<NEWLINE>will depend entirely<NEWLINE>upon the number of<NEWLINE>Points you give him<NEWLINE>and where he heads off<NEWLINE>towards, so just keep<NEWLINE>trying new things.
+2,Trenya was Treshi's<NEWLINE>first disciple. If you<NEWLINE>give him Pokke Points,<NEWLINE>he will head out on<NEWLINE>one of his adventures<NEWLINE>and return with a<NEWLINE>plethora of items.
+0,The items you receive<NEWLINE>will depend entirely<NEWLINE>upon the number of<NEWLINE>Points you give him<NEWLINE>and where he heads off<NEWLINE>towards, so just keep<NEWLINE>trying new things.
+2,Hello to you, hunter.<NEWLINE>I'd love to get out of<NEWLINE>town, you know... But<NEWLINE>I've got this<NEWLINE>loudmouth who won't<NEWLINE>let me go.
+2,The other day when I<NEWLINE>was out on a walk, I<NEWLINE>heard a horn sound in<NEWLINE>the distance. I'm<NEWLINE>pretty sure it was<NEWLINE>what they call a<NEWLINE>Hunting Horn.
+2,The way it's played<NEWLINE>creates different<NEWLINE>notes. The combination<NEWLINE>of these notes can<NEWLINE>trigger effects that a<NEWLINE>hunter would surely<NEWLINE>find useful.
+0,When compared to other<NEWLINE>weapons, the Hunting<NEWLINE>Horn is absolutely<NEWLINE>adorable.
+2,The other day when I<NEWLINE>was out on a walk, I<NEWLINE>heard a horn sound in<NEWLINE>the distance. I'm<NEWLINE>pretty sure it was a<NEWLINE>Hunting Horn.
+0,It can create various<NEWLINE>notes. The <NEWLINE>combination of these<NEWLINE>notes can trigger<NEWLINE>various useful <NEWLINE>effects. I'd like to <NEWLINE>try one someday!
+2,Hello there hunter! A<NEWLINE>little while back, I<NEWLINE>had a chat with a<NEWLINE>hunter I've never seen<NEWLINE>before.
+2,That's when he told me<NEWLINE>this...
+2,Although the Lao-Shan<NEWLINE>Lung and Shen Gaoren<NEWLINE>are both different,<NEWLINE>one thing is the same.<NEWLINE>You can ride on their<NEWLINE>backs since they are<NEWLINE>both giants!
+0,Just get up to<NEWLINE>someplace high, figure<NEWLINE>out the right timing,<NEWLINE>and then... Well, I'm<NEWLINE>sure you can figure<NEWLINE>out the rest.
+2,Although the Lao-Shan<NEWLINE>Lung and Shen Gaoren<NEWLINE>are both different,<NEWLINE>one thing is the same.<NEWLINE>You can ride on their<NEWLINE>backs since they are<NEWLINE>both giants!
+0,Just get up to<NEWLINE>someplace high, figure<NEWLINE>out the right timing,<NEWLINE>and then... Well, I'm<NEWLINE>sure you can figure<NEWLINE>out the rest.
+2,It seems a large,<NEWLINE>black wyvern with<NEWLINE>otherworldly powers<NEWLINE>has appeared!
+2,But all should be<NEWLINE>OK... After all, we<NEWLINE>have you to defend the<NEWLINE>village.
+0,At least, that is what<NEWLINE>everyone is saying,<NEWLINE>even though they are<NEWLINE>scared. Just... Just<NEWLINE>make sure you come<NEWLINE>back home unharmed!
+2,It seems a large, <NEWLINE>black wyvern with<NEWLINE>otherworldly powers<NEWLINE>has appeared! But all<NEWLINE>should be OK... After<NEWLINE>all, we have you to<NEWLINE>defend the village.
+0,At least, that is what<NEWLINE>everyone is saying,<NEWLINE>even though they are<NEWLINE>scared. Just... Just<NEWLINE>make sure you come<NEWLINE>back home unharmed!
+2,Thanks to all your<NEWLINE>hard work, life in the<NEWLINE>village has returned<NEWLINE>to normal.
+2,We have the retirement<NEWLINE>of the previous hunter<NEWLINE>to thank for bringing<NEWLINE>you here.
+2,The old hunter went<NEWLINE>into retirement all<NEWLINE>thanks to a Tigrex<NEWLINE>that attacked him.
+0,That is why we are all<NEWLINE>so grateful to that<NEWLINE>Tigrex... Wait...<NEWLINE>What!?
+2,The crisis caused by<NEWLINE>the Akantor is over<NEWLINE>thanks to all your<NEWLINE>hard work. Now the<NEWLINE>village is back to<NEWLINE>normal. 
+0,This village... No,<NEWLINE>that's not right. This<NEWLINE>world has been saved<NEWLINE>by the efforts of the<NEWLINE>hunter from Pokke<NEWLINE>Village.

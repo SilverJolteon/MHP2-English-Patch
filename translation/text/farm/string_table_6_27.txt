@@ -1,0 +1,22 @@
+0,Hello mate! I'm<NEWLINE>Trenya! I'm Treshi's <NEWLINE>number one Felyne<NEWLINE>disciple, meow!
+0,dummy
+2,If you would be<NEWLINE>willing to fund me<NEWLINE>adventures with Pokke<NEWLINE>Points, I'd be happy<NEWLINE>to bring you back a<NEWLINE>souvenir in return,<NEWLINE>mate! Meow!
+1,Would you like to fund<NEWLINE>me adventures, mate?<NEWLINE>How bout it, nya?
+0,dummy
+0,Where would you like<NEWLINE>me to go, meow? Where<NEWLINE>you send me will<NEWLINE>decide what I can<NEWLINE>bring back for you,<NEWLINE>mate.
+0,So, how much would you<NEWLINE>like to pledge for<NEWLINE>this venture, meow?
+0,Alright then! I'm off,<NEWLINE>mate! You've got<NEWLINE>something great to<NEWLINE>look forward to, nya!
+0,You're not going to<NEWLINE>fund me adventures,<NEWLINE>nya? I thought you<NEWLINE>were me mate! 
+1,Alright then! You're<NEWLINE>A-OK with all of this<NEWLINE>mate? If you're OK,<NEWLINE>I'm OK, and if I'm OK,<NEWLINE>I'm outta here, meow!
+0,Here's your souvenir,<NEWLINE>mate? Do you like it,<NEWLINE>nya?
+0,dummy
+2,Thank you for being<NEWLINE>such a great mate,<NEWLINE>meow! You've funded me<NEWLINE>to unbelievable<NEWLINE>success!
+0,As a show of thanks,<NEWLINE>lemme give you one of<NEWLINE>me favorite items,<NEWLINE>nya!
+0,dummy
+2,Hello mate! I'm<NEWLINE>Treshi's number one<NEWLINE>Felyne disciple,<NEWLINE>Trenya! The thing I<NEWLINE>love most in this<NEWLINE>world is adventure,<NEWLINE>meow!
+2,You're my new sponsor,<NEWLINE>huh mate? I'll stick<NEWLINE>around here from now<NEWLINE>on so you can find me<NEWLINE>easily, meow. Whenever<NEWLINE>you need me, just stop<NEWLINE>by, nya.
+2,If you would be<NEWLINE>willing to fund me<NEWLINE>adventures with Pokke<NEWLINE>Points, I'd be happy<NEWLINE>to bring you back a<NEWLINE>souvenir in return,<NEWLINE>mate! Meow!
+2,The more you fund my<NEWLINE>trips, the more I'll<NEWLINE>try to find you that<NEWLINE>ultra rare item you<NEWLINE>desire, nya!
+2,As my sponsor, you get<NEWLINE>to decide where you'd<NEWLINE>like me to head off<NEWLINE>to, meow.
+0,Whenever you feel like<NEWLINE>funding one of my<NEWLINE>grand adventures, feel<NEWLINE>free to let me know<NEWLINE>anytime, nya!
+0,dummy

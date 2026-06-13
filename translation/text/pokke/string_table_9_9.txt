@@ -1,0 +1,55 @@
+2,This is Pokke Village.<NEWLINE>It's a purrfectly<NEWLINE>peaceful village<NEWLINE>wrapped by the Snowy<NEWLINE>Mountains, meow.
+2,Meow... It's you, nya?<NEWLINE>You're the hunter that<NEWLINE>collapsed in the Snowy<NEWLINE>Mountains.
+0,The Village Chief was<NEWLINE>worried about you,<NEWLINE>meow. Once you feel up<NEWLINE>to it, you should<NEWLINE>visit her.
+0,The Village Chief was<NEWLINE>worried about you,<NEWLINE>meow. You should visit<NEWLINE>her when you get the<NEWLINE>chance.
+2,This is Pokke Village.<NEWLINE>It's a purrfectly<NEWLINE>peaceful village<NEWLINE>wrapped by the Snowy<NEWLINE>Mountains, meow.
+2,The rock behind the<NEWLINE>Village Chief is a<NEWLINE>huge piece of<NEWLINE>Machalite Ore, nya.<NEWLINE>It’s purrfect, I mean<NEWLINE>perfect, as the town's<NEWLINE>symbol.
+0,To have a piece of<NEWLINE>Machalite Ore that<NEWLINE>large is incredibly<NEWLINE>rare. You don't think<NEWLINE>they'd miss a piece if<NEWLINE>I cut one off, do nya?
+0,The huge piece of<NEWLINE>Machalite Ore is the<NEWLINE>symbol of Pokke<NEWLINE>Village. Even if you<NEWLINE>only want a little,<NEWLINE>you can't take it from<NEWLINE>that rock, meow!
+2,This is Pokke, a<NEWLINE>purrfectly peaceful<NEWLINE>village in the<NEWLINE>mountains. Riding the<NEWLINE>lift on the right to<NEWLINE>the bottom will take<NEWLINE>you to Pokke Farm.
+2,Due to the location of<NEWLINE>the village, it is<NEWLINE>very peaceful, but<NEWLINE>nearly impossible to<NEWLINE>create fields in, nya.<NEWLINE>That's why the farm<NEWLINE>is in the foothills.
+0,There are also special<NEWLINE>items you can only get<NEWLINE>here, like crops,<NEWLINE>insects, or ore. Part<NEWLINE>of the fun is not<NEWLINE>knowing what you'll<NEWLINE>get, meow!
+2,If you ride the lift<NEWLINE>to the right of Pokke<NEWLINE>Farm a little further<NEWLINE>down, you will be at<NEWLINE>the waterside, nya.
+0,Pokke Farm is a<NEWLINE>great place to get<NEWLINE>special items, like<NEWLINE>crops, insects, or<NEWLINE>ore. Part of the fun<NEWLINE>is not knowing what<NEWLINE>you'll get, meow!
+0,dummy
+2,This is Pokke, a quiet<NEWLINE>mountain village, nya.<NEWLINE>Riding the lift on the<NEWLINE>right will take you to<NEWLINE>Pokke Farm, nya. Huh?<NEWLINE>You knew that already?
+2,I guess that means you<NEWLINE>are putting Pokke<NEWLINE>Farm to good use,<NEWLINE>nya? If you save Pokke<NEWLINE>Points, you can even<NEWLINE>upgrade the farm<NEWLINE>equipment, meow!
+2,You can extend the<NEWLINE>pier to increase the<NEWLINE>number of fishing<NEWLINE>spots or add to the<NEWLINE>number of mining<NEWLINE>points you can reach,<NEWLINE>meow!
+2,Not really related,<NEWLINE>but I should mention<NEWLINE>the cave you can use<NEWLINE>as a storehouse, meow.<NEWLINE>You can't get anything<NEWLINE>from it though.
+0,I bet there's<NEWLINE>something nice behind<NEWLINE>the ice wall, nya...<NEWLINE>The Chief and Treshi<NEWLINE>know about it, but you<NEWLINE>need something to get<NEWLINE>through the ice, meow.
+2,If you save Pokke<NEWLINE>Points, you can use<NEWLINE>them to upgrade Pokke<NEWLINE>Farm by extending the<NEWLINE>pier or adding mining<NEWLINE>points, nya.
+0,There's also a cave<NEWLINE>used as a storehouse,<NEWLINE>and I bet something<NEWLINE>nice is hidden behind<NEWLINE>the ice wall. If only<NEWLINE>you could break<NEWLINE>through it, meow.
+2,This is Pokke Village,<NEWLINE>nya. By the way, I<NEWLINE>just saw Trenya a<NEWLINE>little while ago. You<NEWLINE>do know who Trenya is<NEWLINE>right?
+2,He was Treshi's Felyne<NEWLINE>disciple, but now he<NEWLINE>is on a purrsonal<NEWLINE>Quest for treasure.<NEWLINE>Trenya is the great<NEWLINE>striped hope for all<NEWLINE>Felyne kind, meow.
+2,That reminds me...<NEWLINE>Trenya is looking for<NEWLINE>sponsors, nya. If you<NEWLINE>sponsor him, Trenya<NEWLINE>will use your farm as<NEWLINE>a base camp.
+0,If you give him Pokke<NEWLINE>Points, he'll use them<NEWLINE>to head off and find<NEWLINE>you items, meow! A<NEWLINE>Felyne sponsor... That<NEWLINE>has a nice ring to it,<NEWLINE>nya.
+2,Trenya was Treshi's<NEWLINE>Felyne disciple, but<NEWLINE>now he is on a<NEWLINE>purrsonal Quest for<NEWLINE>treasure, meow.
+0,If you become Trenya's<NEWLINE>sponsor and then give<NEWLINE>him Pokke Points,<NEWLINE>he'll use them to head<NEWLINE>off and find you<NEWLINE>items, meow!
+2,It's the hunter, nya!<NEWLINE>Has anyone told you<NEWLINE>about the cave at the<NEWLINE>farm yet? The Village<NEWLINE>Chief said something<NEWLINE>about finally taking<NEWLINE>care of the ice wall!
+2,I've always heard<NEWLINE>purrings that there<NEWLINE>was something back<NEWLINE>there, but I never<NEWLINE>knew it what it was,<NEWLINE>nya!
+0,I've heard my Felyne<NEWLINE>farmer friends talking<NEWLINE>excitedly about what's<NEWLINE>back there. I can't<NEWLINE>wait to find out<NEWLINE>what's back there,<NEWLINE>meow!
+2,The old lady in charge<NEWLINE>of the village said<NEWLINE>something about<NEWLINE>finally taking care of<NEWLINE>the ice wall!
+0,I haven't seen what's<NEWLINE>back there yet; but my<NEWLINE>Felyne farmer friends<NEWLINE>seem to be very<NEWLINE>excited, meow! Just<NEWLINE>thinking about it<NEWLINE>twists my whiskers!
+0,dummy
+2,This is Pokke Village,<NEWLINE>nya. It was built by<NEWLINE>the Village Chief when<NEWLINE>she was just a girl...<NEWLINE>That might even be<NEWLINE>over a hundred years<NEWLINE>ago, meow!
+2,The huge sword you<NEWLINE>found was hidden by<NEWLINE>the Chief's ancestors,<NEWLINE>meow. Whoever used<NEWLINE>that sword must have<NEWLINE>been a Wyverian as <NEWLINE>big as a cloud!
+0,The old lady must've<NEWLINE>known that sword was<NEWLINE>here and that's why<NEWLINE>she built Pokke around<NEWLINE>it, nya. This village<NEWLINE>is known for its large<NEWLINE>Machalite rock, meow.
+2,The huge sword you<NEWLINE>found was hidden by<NEWLINE>the Chief's ancestors,<NEWLINE>meow. Whoever used<NEWLINE>that sword must have<NEWLINE>been a Wyverian as <NEWLINE>big as a cloud!
+0,I heard that there is<NEWLINE>a truly gigantic <NEWLINE>village elder at one <NEWLINE>of the villages. The<NEWLINE>kind you only see<NEWLINE>once every hundred<NEWLINE>years, meow!
+2,This is Pokke Village.<NEWLINE>It's a purrfect<NEWLINE>village wrapped by the<NEWLINE>Snowy Mountains, meow.<NEWLINE>Before it was here, a<NEWLINE>few Felynes lived in<NEWLINE>this area, nya!
+2,I'm not sure when we<NEWLINE>started living here,<NEWLINE>but it has been long<NEWLINE>enough for legends to<NEWLINE>be passed down a few<NEWLINE>generations, nya.
+0,I've even heard a<NEWLINE>legend about something<NEWLINE>called a Tigrex, meow.<NEWLINE>A long time ago, it<NEWLINE>used to prey on the<NEWLINE>Popos in this area.
+2,They also passed down<NEWLINE>a story of something<NEWLINE>enormous... and black,<NEWLINE>meow...
+0,Huh? It doesn't make<NEWLINE>any sense? Of course<NEWLINE>not! Anyone expecting<NEWLINE>an epic from a Felyne<NEWLINE>legend is purring up<NEWLINE>the wrong tree, meow,<NEWLINE>meow, meow!
+2,Ahh! Ahh! Did you hear<NEWLINE>what happened!? The<NEWLINE>huge black sharp thing<NEWLINE>I told you about has<NEWLINE>actually appeared!<NEWLINE>It's real, nya!
+2,It's gotta be the<NEWLINE>enormous black thing<NEWLINE>in our legend! It's<NEWLINE>called, Aka... Nya...<NEWLINE>Akanya... Akantor!
+2,You want details about<NEWLINE>the legend... I've<NEWLINE>told you everything I<NEWLINE>know! Unfortunately,<NEWLINE>Felyne legends are<NEWLINE>short to fit our<NEWLINE>attention spans, meow!
+0,It's kinda like your<NEWLINE>human legends, nya.<NEWLINE>Don't you always have<NEWLINE>some fish that got<NEWLINE>away that keeps<NEWLINE>getting bigger? It's<NEWLINE>like that, meow!
+2,Huh? The Felyne legend<NEWLINE>doesn't have any hints<NEWLINE>about weak spots or<NEWLINE>how to slay the<NEWLINE>Akantor, meow.
+0,They aren't those kind<NEWLINE>of legends! Anyone<NEWLINE>expecting an epic from<NEWLINE>a Felyne legend is<NEWLINE>purring up the wrong<NEWLINE>tree, meow, meow,<NEWLINE>meow!
+2,This is Pokke Village.<NEWLINE>It's a purrfectly<NEWLINE>peaceful village<NEWLINE>wrapped by the Snowy<NEWLINE>Mountains, meow.
+2,Meow... You've allowed<NEWLINE>us to write a new page<NEWLINE>into our Felyne book<NEWLINE>of legends, nya!
+0,Something enormous...<NEWLINE>and black... met its<NEWLINE>doom at the hands of a<NEWLINE>hunter from Pokke!<NEWLINE>It'll be a legend<NEWLINE>passed down by Felynes<NEWLINE>for ages, meow!
+2,Something enormous...<NEWLINE>and black... met its<NEWLINE>doom at the hands of a<NEWLINE>hunter from Pokke!
+0,It'll be a legend<NEWLINE>passed down by Felynes<NEWLINE>for ages, meow!
+0,This is Pokke Village.<NEWLINE>It's a purrfectly<NEWLINE>peaceful village<NEWLINE>wrapped by the Snowy<NEWLINE>Mountains, meow.

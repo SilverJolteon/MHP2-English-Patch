@@ -1,0 +1,93 @@
+2,The first thing you<NEWLINE>must do is have a chat<NEWLINE>with the Village<NEWLINE>Chief. You aren't just<NEWLINE>in the service of the<NEWLINE>village, you are also<NEWLINE>in her service too.
+2,You'll find that<NEWLINE>living in Pokke<NEWLINE>Village is quite easy.<NEWLINE>I'm not from here<NEWLINE>either, but I've<NEWLINE>decided to stay here<NEWLINE>when I retire.
+0,If there is anything<NEWLINE>you don't understand<NEWLINE>about a hunter's<NEWLINE>lifestyle, feel free<NEWLINE>to ask me. I'll help<NEWLINE>you as much as I can.
+0,My first piece of<NEWLINE>advice is to go have a<NEWLINE>chat with the Village<NEWLINE>Chief.
+2,Taking care of<NEWLINE>yourself? You look<NEWLINE>alright to me, but be<NEWLINE>careful not to overdo<NEWLINE>it. You've almost<NEWLINE>mastered all of the<NEWLINE>easy Quests, I guess.
+2,You wouldn't happen to<NEWLINE>know the name of the<NEWLINE>kind of monster that<NEWLINE>attacked you on the<NEWLINE>way to this village,<NEWLINE>would you?
+2,I didn't think you<NEWLINE>did! I don't even<NEWLINE>think the Guild has<NEWLINE>much information about<NEWLINE>the beast. I just<NEWLINE>found out about it<NEWLINE>recently myself!
+2,Apparently the wyvern<NEWLINE>is known as a Tigrex.<NEWLINE>It doesn't appear to<NEWLINE>live in the Snowy<NEWLINE>Mountains, but has<NEWLINE>just been visiting<NEWLINE>them to prey on Popos.
+2,Its legendary<NEWLINE>tiger-like roar and<NEWLINE>tyrannical behavior<NEWLINE>earned the Tigrex its<NEWLINE>fearsome name.
+2,Be careful. There may<NEWLINE>be many mysteries<NEWLINE>surrounding the<NEWLINE>Tigrex, but its<NEWLINE>brutality is without<NEWLINE>question. You know, I<NEWLINE>once...
+0,...Forget it. Anyways,<NEWLINE>be extremely careful<NEWLINE>if you head to the<NEWLINE>Snowy Mountains.
+2,Its legendary<NEWLINE>tiger-like roar and<NEWLINE>tyrannical behavior<NEWLINE>earned the Tigrex its<NEWLINE>fearsome name.
+2,Reports say that its<NEWLINE>characteristic wings<NEWLINE>date it as a<NEWLINE>predecessor to modern<NEWLINE>wyverns... But hunters<NEWLINE>have better things to<NEWLINE>worry about.
+0,The thing we care<NEWLINE>about is the fact that<NEWLINE>it is an extremely<NEWLINE>brutal wyvern. Be very<NEWLINE>careful if you think<NEWLINE>you may encounter a<NEWLINE>Tigrex.
+2,How have you been<NEWLINE>lately? I'm sure the<NEWLINE>old Village Chief has<NEWLINE>been giving you some<NEWLINE>hard Quests to try,<NEWLINE>right?
+2,Is your money holding<NEWLINE>out? Money is critical<NEWLINE>when it comes to<NEWLINE>equipment. Hah! Don't<NEWLINE>be looking at me for a<NEWLINE>handout! I'm retired<NEWLINE>and need my savings!
+2,When you need to save<NEWLINE>some money, it is best<NEWLINE>to gather up Account<NEWLINE>Items. They're useful<NEWLINE>to the Guild, and thus<NEWLINE>will earn you very<NEWLINE>high prices.
+2,The Guild values these<NEWLINE>items so greatly that<NEWLINE>they have even begun<NEWLINE>to accept them during<NEWLINE>a Quest. Just take the<NEWLINE>Account Items to your<NEWLINE>red Delivery Box.
+2,You can also deliver<NEWLINE>items such as Eggs or<NEWLINE>Jewels. They command a<NEWLINE>high price, and can<NEWLINE>also net a plethora of<NEWLINE>Pokke Points. 
+0,Treasures such as<NEWLINE>these are rare, and<NEWLINE>you have to deliver<NEWLINE>them properly, so it<NEWLINE>won't be easy... But<NEWLINE>it's worth the effort.
+2,The Guild values<NEWLINE>Account Items so<NEWLINE>greatly that they have<NEWLINE>begun accepting<NEWLINE>delivery during a<NEWLINE>Quest. Just take them<NEWLINE>to the Delivery Box.
+0,Items like Eggs or<NEWLINE>Jewels can also be<NEWLINE>delivered. Don't know<NEWLINE>how to carry an Egg?<NEWLINE>Talk to the esteemed<NEWLINE>instructor at the<NEWLINE>Training School.
+2,You seem to be working<NEWLINE>very hard... Don't<NEWLINE>forget, everyone has<NEWLINE>high hopes for you. <NEWLINE>The security of this<NEWLINE>village rests on your<NEWLINE>shoulders.
+2,When I was in your<NEWLINE>shoes, I drove off a<NEWLINE>Blangonga who tried to<NEWLINE>mark off the Snowy<NEWLINE>Mountains as its<NEWLINE>territory.
+2,Another thing to<NEWLINE>mention about the<NEWLINE>mountains is their<NEWLINE>topography makes<NEWLINE>escape easy. Just<NEWLINE>climb up and be free<NEWLINE>of your troubles...
+2,Not that I think<NEWLINE>you'll have any need<NEWLINE>to flee... However,<NEWLINE>rumor has it that<NEWLINE>people have heard a<NEWLINE>Blangonga's roar<NEWLINE>nearby.
+2,The Blangonga must've<NEWLINE>caught wind of my<NEWLINE>retirement and decided<NEWLINE>to return... You just<NEWLINE>need to make sure its<NEWLINE>thugs don't pose too<NEWLINE>much of a problem.
+0,You are strong enough<NEWLINE>now that the Blangonga<NEWLINE>will recognize your<NEWLINE>power and rethink its<NEWLINE>plan, knowing you<NEWLINE>are not to be trifled <NEWLINE>with.
+2,When I was in your<NEWLINE>shoes, I drove off a<NEWLINE>Blangonga into the<NEWLINE>cliffs above the Snowy<NEWLINE>Mountains.
+0,I think the Blangonga<NEWLINE>may return, but I'm<NEWLINE>sure one look at you<NEWLINE>will scare it off for<NEWLINE>good.
+0,dummy
+2,You drove off that<NEWLINE>Blangonga without a<NEWLINE>hitch. Now that beast<NEWLINE>knows better than to<NEWLINE>show its face in the<NEWLINE>mountains. I had faith<NEWLINE>in you the whole time.
+2,However, lately I've<NEWLINE>heard rumors that<NEWLINE>something is amiss.<NEWLINE>Something to do with<NEWLINE>the wyvern that<NEWLINE>attacked you, the<NEWLINE>Tigrex.
+2,It seems he was once<NEWLINE>again spotted in the<NEWLINE>Snowy Mountains. I<NEWLINE>don't know the<NEWLINE>details, but I would<NEWLINE>get ready for a Quest<NEWLINE>from the Chief.
+2,The Tigrex is a tough<NEWLINE>nut to crack... In<NEWLINE>fact, it drove me into<NEWLINE>retirement. Its strong<NEWLINE>jaws and claws made me<NEWLINE>vow to never grip a<NEWLINE>sword again.
+0,There is no place for<NEWLINE>negligence when<NEWLINE>fighting a Tigrex.<NEWLINE>Keep in mind there is<NEWLINE>more that we don't<NEWLINE>know about it than we<NEWLINE>do.
+2,A Tigrex has been<NEWLINE>spotted in the Snowy<NEWLINE>Mountains. I expect<NEWLINE>there to be a Quest<NEWLINE>from the Village Chief<NEWLINE>soon, so prepare<NEWLINE>yourself!
+0,Its strong jaws and<NEWLINE>claws are both<NEWLINE>powerful weapons.<NEWLINE>Powerful enough to<NEWLINE>force me into<NEWLINE>retirement.
+2,You... You slayed the<NEWLINE>Tigrex. I didn't think<NEWLINE>you'd be able to get<NEWLINE>rid of that scourge<NEWLINE>for the life of me! 
+2,Huh? No... I didn't<NEWLINE>mean that! ...I had<NEWLINE>100% complete faith in<NEWLINE>you.
+0,Now, thanks to you, I<NEWLINE>can enjoy retirement<NEWLINE>without having to<NEWLINE>worry about the one<NEWLINE>that got away.
+2,Ever since I first<NEWLINE>laid eyes on you, I<NEWLINE>figured you would be<NEWLINE>the one to get rid of<NEWLINE>the Tigrex.
+2,Huh? Oh yeah... The<NEWLINE>first time I laid eyes<NEWLINE>on you, you were face<NEWLINE>down in the snow<NEWLINE>because a Tigrex<NEWLINE>attacked you.
+0,Heh... Nonetheless,<NEWLINE>now I can enjoy<NEWLINE>retirement with my<NEWLINE>heart at ease. Thank<NEWLINE>you.
+0,dummy
+2,Working your way up<NEWLINE>the ranks as a hunter,<NEWLINE>huh? Well, perhaps<NEWLINE>you'd like to face the<NEWLINE>powerful Rathalos and<NEWLINE>Rathian as your next<NEWLINE>opponents?
+2,It seems that you've<NEWLINE>caught the attention<NEWLINE>of the Guild. If<NEWLINE>something happens in<NEWLINE>town, I have a feeling<NEWLINE>they will come to you<NEWLINE>for help.
+2,So you've made a name<NEWLINE>for yourself with the<NEWLINE>Guild...? I'm sure you<NEWLINE>know that you can take<NEWLINE>their Quests from a<NEWLINE>counter in the<NEWLINE>Gathering Hall.
+2,Compared to the<NEWLINE>Village Chief's<NEWLINE>Quests, they are much<NEWLINE>more difficult, but<NEWLINE>you are strong enough<NEWLINE>to handle them alone.
+0,If you want to try<NEWLINE>your hand at a high<NEWLINE>ranking Quest, there<NEWLINE>is no better place to<NEWLINE>go to make yourself<NEWLINE>known than the<NEWLINE>Gathering Hall.
+2,Compared to the<NEWLINE>Village Chief's<NEWLINE>Quests, the ones from<NEWLINE>the Gathering Hall are<NEWLINE>more difficult, but<NEWLINE>you should be strong<NEWLINE>enough to handle them.
+0,If you want to try<NEWLINE>your hand at high<NEWLINE>ranking Quests, try<NEWLINE>grabbing the attention<NEWLINE>of the Guild first.
+2,It seems you've worked<NEWLINE>your way up to taking<NEWLINE>high ranking Quests.<NEWLINE>Absolutely wonderful!<NEWLINE>Even I can't do things<NEWLINE>like that!
+2,On a high ranking<NEWLINE>Quest, you will face<NEWLINE>much more powerful<NEWLINE>opponents. Now,<NEWLINE>preparation is even<NEWLINE>more important than<NEWLINE>ever!
+2,High ranking Quests<NEWLINE>also allow you to get<NEWLINE>valuable items... The<NEWLINE>sorts of items that<NEWLINE>have words like "plus"<NEWLINE>or "hard" attached to<NEWLINE>their names.
+0,I suppose you won't<NEWLINE>really understand<NEWLINE>until you get your<NEWLINE>hands on these items<NEWLINE>yourself. You know,<NEWLINE>I've never actually<NEWLINE>done that myself...
+2,On a high ranking<NEWLINE>Quest, the high risk<NEWLINE>of fighting strong<NEWLINE>opponents is balanced<NEWLINE>by the plethora of<NEWLINE>valuable rewards.
+0,You can earn the kinds<NEWLINE>of items that have<NEWLINE>words like "plus" or<NEWLINE>"hard" attached to<NEWLINE>their names... If you<NEWLINE>catch my drift.
+2,Did you hear? An<NEWLINE>incredibly brutal<NEWLINE>wyvern has appeared.<NEWLINE>I'm betting that the<NEWLINE>Guild has a request<NEWLINE>for you to slay it.
+2,I have to admit, I'm a<NEWLINE>bit jealous of you. It<NEWLINE>is not often that a<NEWLINE>hunter has a chance to<NEWLINE>go after a completely<NEWLINE>unknown monster.
+2,To be completely<NEWLINE>honest, when I was in<NEWLINE>your shoes, no one<NEWLINE>ever gave me requests<NEWLINE>like the ones you get.
+2,My advice is to obtain<NEWLINE>as much high-end armor<NEWLINE>strengthening<NEWLINE>materials as possible<NEWLINE>and aim for slaying an<NEWLINE>elder dragon on a High<NEWLINE>Rank Quest.
+0,Which leads me to this<NEWLINE>juicy tidbit of<NEWLINE>knowledge. I hear that<NEWLINE>slaying a monster gets<NEWLINE>you more materials<NEWLINE>than simply repelling<NEWLINE>it.
+2,My advice is to obtain<NEWLINE>as much high-end armor<NEWLINE>strengthening<NEWLINE>materials as possible<NEWLINE>and aim for slaying an<NEWLINE>elder dragon on a High<NEWLINE>Rank Quest.
+0,Slaying a monster is a<NEWLINE>better way to obtain<NEWLINE>these materials than<NEWLINE>simply repelling it.<NEWLINE>Trust in your armor,<NEWLINE>and do your best!
+2,I'd like to<NEWLINE>congratulate you on<NEWLINE>slaying the fabled<NEWLINE>Akantor. Quite an<NEWLINE>accomplishment.
+2,Did you get any of its<NEWLINE>materials? What are<NEWLINE>they like? I figure<NEWLINE>they must be<NEWLINE>incredibly valuable<NEWLINE>and of extremely high<NEWLINE>quality. 
+2,One of the greatest<NEWLINE>things about being a<NEWLINE>hunter is the<NEWLINE>excitement of what can<NEWLINE>be crafted from new<NEWLINE>monsters or materials.
+0,A completely unknown<NEWLINE>wyvern... Even though<NEWLINE>I'm retired, I just<NEWLINE>can't get the<NEWLINE>excitement of<NEWLINE>something like that<NEWLINE>out of my system.
+2,I wonder what kind of<NEWLINE>equipment you can make<NEWLINE>from an Akantor's<NEWLINE>materials?
+0,One of the best parts<NEWLINE>of being a hunter is<NEWLINE>the excitement of what<NEWLINE>can be crafted from<NEWLINE>new monsters or<NEWLINE>materials. I miss it<NEWLINE>now that I'm retired.
+0,dummy
+0,dummy
+2,Ahh... You're awake?<NEWLINE>How are you? Still in<NEWLINE>pain? Hmm... It seems<NEWLINE>you are alright...
+2,I found you collapsed<NEWLINE>on a cliff in the<NEWLINE>mountains. If I would<NEWLINE>have left you there,<NEWLINE>you'd be nothing but<NEWLINE>an ice cube by now.<NEWLINE>Thank me later... 
+2,Oh! How rude of me!<NEWLINE>Allow me to introduce<NEWLINE>myself. I am the<NEWLINE>hunter attached to<NEWLINE>this village... Or at<NEWLINE>least I used to be.
+2,A wyvern attacked and<NEWLINE>injured me, forcing me<NEWLINE>into retirement. That<NEWLINE>is why we sent for<NEWLINE>you. You were to<NEWLINE>become my replacement.
+2,Which left me in a jam<NEWLINE>when you collapsed up<NEWLINE>in the Snowy<NEWLINE>Mountains. I had no<NEWLINE>idea what I should<NEWLINE>do...
+2,A new village with new<NEWLINE>things... I'm sure you<NEWLINE>have plenty of<NEWLINE>Questions to ask. I'm<NEWLINE>here to answer as many<NEWLINE>as I can.
+2,I know it isn't much,<NEWLINE>but I'd like to give<NEWLINE>you a present. The old<NEWLINE>equipment I used when<NEWLINE>I was a hunter. Take a<NEWLINE>look inside your Item<NEWLINE>Box when you get home.
+2,I wasn't sure what<NEWLINE>kind of weapon you<NEWLINE>use, so I put lots of<NEWLINE>different kinds in<NEWLINE>your Item Box. They<NEWLINE>aren't great, but they<NEWLINE>should come in handy.
+2,If nothing really<NEWLINE>strikes you as<NEWLINE>perfect, I recommend<NEWLINE>starting with the<NEWLINE>Sword. Keep using it<NEWLINE>until you get used to<NEWLINE>being a hunter.
+2,I also placed some<NEWLINE>clothes for you in<NEWLINE>the Item Box. What<NEWLINE>you've got on now is<NEWLINE>fine for the village,<NEWLINE>but put on the clothes<NEWLINE>when venturing out.
+0,They're great against<NEWLINE>the cold, so don't<NEWLINE>forget them if you go<NEWLINE>to the mountains. If<NEWLINE>you use other armor,<NEWLINE>bring items like a Hot<NEWLINE>Drink versus the cold.
+0,dummy
+0,dummy
+2,Ahh... You're awake.
+2,No no... You shouldn't<NEWLINE>get up yet. It's best<NEWLINE>if you rest for just a<NEWLINE>little while longer.
+2,You fell from a cliff,<NEWLINE>but the snow must have<NEWLINE>cushioned your fall.<NEWLINE>You were bruised and<NEWLINE>suffered a bit of<NEWLINE>frostbite, so recovery<NEWLINE>will take a few days.
+2,I'm not so much<NEWLINE>worried about the<NEWLINE>bruise on your back as<NEWLINE>much as the bruise to<NEWLINE>your ego... 
+0,You are definitely<NEWLINE>going to need some<NEWLINE>extra days of rest!
+0,dummy
+0,I used to be the<NEWLINE>hunter attached to<NEWLINE>Pokke Village. If<NEWLINE>there is something<NEWLINE>that is befuddling<NEWLINE>you, feel free to ask<NEWLINE>me.

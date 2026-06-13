@@ -1,7 +1,6 @@
 /build
 /iso/*
 !iso/Place a clean version of ULJM05156 here.txt
-/release/*
 /tools/*
 !tools/setup_linux.py
 !/tools/src

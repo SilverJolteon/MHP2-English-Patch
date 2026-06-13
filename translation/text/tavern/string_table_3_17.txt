@@ -1,0 +1,29 @@
+2,Hello Hello! Welcome<NEWLINE>Treasure Hunter!<NEWLINE>Please select the<NEWLINE>Quest you would like<NEWLINE>to initiate!
+2,dummy
+1,This Quest requires a<NEWLINE>Contract Fee of<NEWLINE>$z.<NEWLINE>That alright with you?
+1,Would you like to find<NEWLINE>some mates to depart<NEWLINE>on this Quest with<NEWLINE>you?
+0,A recruitment notice<NEWLINE>for this Quest has<NEWLINE>been placed on the<NEWLINE>Quest Board. Off to<NEWLINE>search for treasure,<NEWLINE>huh? I can see the<NEWLINE>riches in your eyes.
+1,Wanna look at another<NEWLINE>Quest?
+0,Alright, see ya soon!
+2,It seems you're a bit<NEWLINE>light in the wallet.
+0,Very well then! You'll<NEWLINE>head off on this Quest<NEWLINE>alone. Go out there<NEWLINE>and find the world's<NEWLINE>greatest treasures and<NEWLINE>return with a bag fat<NEWLINE>with loot!
+1,This Quest does not<NEWLINE>require a Contract<NEWLINE>Fee. That alright with<NEWLINE>you?
+1,Hello Hello! Your<NEWLINE>already under contract<NEWLINE>for this hunt. Would<NEWLINE>you like to break the<NEWLINE>contract?
+1,You've got a few mates<NEWLINE>in this Quest with ya.<NEWLINE>You sure you want to<NEWLINE>break up your treasure<NEWLINE>hunting party?
+0,We've ripped up your<NEWLINE>contract. Come back<NEWLINE>soon, mate.
+2,I'm Treshi. I've<NEWLINE>circled the globe on<NEWLINE>an endless hunt for<NEWLINE>treasure.
+2,You do know about the<NEWLINE>existence of treasure,<NEWLINE>don't you?
+2,I'm here to tell you<NEWLINE>of Quests that exist<NEWLINE>solely to find<NEWLINE>treasure, mate. These<NEWLINE>Quests are called<NEWLINE>Treasure Hunters<NEWLINE>Quests!
+2,These treasures are<NEWLINE>items so rare they can<NEWLINE>only be found during<NEWLINE>these Quests.
+2,Taking off on a<NEWLINE>Treasure Hunters Quest<NEWLINE>is a bit different<NEWLINE>than a normal Quest. 
+2,First, you can only<NEWLINE>head off on a Treasure<NEWLINE>Hunters Quest with a<NEWLINE>maximum group of two<NEWLINE>hunters.
+2,You can of course head<NEWLINE>off by yourself, but<NEWLINE>working alongside a<NEWLINE>mate will let you<NEWLINE>gather even more<NEWLINE>riches.
+2,The second difference<NEWLINE>is a prohibition on<NEWLINE>personal items.
+2,If you need items, you<NEWLINE>should get them just<NEWLINE>like you get<NEWLINE>treasure... By finding<NEWLINE>them in the field!
+2,If you happen upon<NEWLINE>some treasure, you<NEWLINE>should bring it back<NEWLINE>to me at camp.
+2,I'll count up the<NEWLINE>treasure and reward<NEWLINE>each hunter with a<NEWLINE>split of the points<NEWLINE>you've earned. 
+2,Along with points,<NEWLINE>I'll also reward you<NEWLINE>with items. Generous,<NEWLINE>you say? Let's just<NEWLINE>say I'm living high on<NEWLINE>the hog, mate.
+2,You can also be<NEWLINE>rewarded with points<NEWLINE>used to improve or<NEWLINE>expand Pokke Farm!
+2,If you're after<NEWLINE>gathering up lots of<NEWLINE>Pokke Points, you'll<NEWLINE>find Treasure Hunters<NEWLINE>Quests to be of the<NEWLINE>utmost importance.
+2,Now that you know the<NEWLINE>basics, I can truly<NEWLINE>call you my mate in<NEWLINE>the world of treasure<NEWLINE>hunting!
+0,It is in your best<NEWLINE>interest to consult<NEWLINE>with me before you<NEWLINE>head out after<NEWLINE>treasure. I'll be<NEWLINE>waiting.

@@ -1,0 +1,14 @@
+2,This is a mining spot.<NEWLINE>I will lend you a<NEWLINE>Pickaxe for free, nya.<NEWLINE>So go mine as much as<NEWLINE>you can, meow!
+2,Stand in front of the<NEWLINE>crack in that rock,<NEWLINE>and press the ~B03<NEWLINE>button, meow. Do that<NEWLINE>and you will get some<NEWLINE>ore, nya.
+2,If you gain Mining<NEWLINE>Points, you can climb<NEWLINE>to the rocks above<NEWLINE>this cliff using a<NEWLINE>ladder, meow.
+2,It looks like there is<NEWLINE>a crack above the<NEWLINE>cliff here. If you<NEWLINE>extend the ladder,<NEWLINE>you'll be able to<NEWLINE>reach up there, meow!
+0,After you go out on a<NEWLINE>Quest, I will lend you<NEWLINE>a new Pickaxe, nya.<NEWLINE>Keep cracking those<NEWLINE>rocks, purr...
+2,If you use a bomb, you<NEWLINE>can mine for ore<NEWLINE>here... meow.
+2,If you give me a bomb,<NEWLINE>I can place it inside<NEWLINE>the hole, meow. Once<NEWLINE>the bomb goes off,<NEWLINE>you'll have lots of<NEWLINE>ore to gather up!
+1,Want to go mining,<NEWLINE>nya?
+0,What kind of bomb<NEWLINE>would you like to use,<NEWLINE>nya? If you use a<NEWLINE>strong bomb, you will<NEWLINE>be able to get more<NEWLINE>ore, meow...
+0,You don't want to go<NEWLINE>mining? Awwww... nya.
+0,You don't have any<NEWLINE>bombs? Go get some,<NEWLINE>nya!
+1,Should I go mining at<NEWLINE>#?
+0,I got some! Nya! Nya!
+0,Let... me... rest for<NEWLINE>a bit, meooowwww.

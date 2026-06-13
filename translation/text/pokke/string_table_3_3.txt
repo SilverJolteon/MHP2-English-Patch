@@ -1,0 +1,86 @@
+0,Yo yo and hello! For<NEWLINE>improving bone weapons<NEWLINE>you're gonna need bone<NEWLINE>material. Try a Popo<NEWLINE>for Brute Bone or a<NEWLINE>Giaprey to get some<NEWLINE>Small Monster Bone! 
+1,dummy
+1,dummy
+0,Ho ho, come back soon!<NEWLINE>Stop by anytime you've<NEWLINE>got some good<NEWLINE>materials!
+2,dummy
+2,dummy
+0,Yo yo and hello! To<NEWLINE>improve iron weapons,<NEWLINE>you'll need all types<NEWLINE>of ore! To mine ore,<NEWLINE>use a Pickaxe at a<NEWLINE>Mining Point. Then<NEWLINE>mine away!
+0,Yo yo and hello! To<NEWLINE>improve armor, you'll<NEWLINE>need an Armor Sphere.<NEWLINE>You can improve one<NEWLINE>part by one level by<NEWLINE>using one sphere. It's<NEWLINE>like a rule of one!
+0,Improving a melee<NEWLINE>weapon makes it<NEWLINE>stronger. Depending on<NEWLINE>the weapon, you could<NEWLINE>even craft something<NEWLINE>with the same<NEWLINE>abilities.
+0,Yo yo and hello! If<NEWLINE>you improve armor, you<NEWLINE>will raise its<NEWLINE>defenses. But that is<NEWLINE>the only thing you are<NEWLINE>able to improve.
+0,Yo yo and hello! The<NEWLINE>armor improving Armor<NEWLINE>Sphere has advanced<NEWLINE>versions too! There is<NEWLINE>the Armor Sphere+,<NEWLINE>Hard Armor Sphere, and<NEWLINE>more! Try and get 'em!
+0,Yo yo and hello! On a<NEWLINE>high ranking Quest<NEWLINE>you'll have the chance<NEWLINE>to get high quality<NEWLINE>materials! These<NEWLINE>materials can be made<NEWLINE>into high power armor!
+0,Yo yo and hello! Are<NEWLINE>you using Decorations?<NEWLINE>They won't be lost if<NEWLINE>you've removed them or<NEWLINE>improved your weapon,<NEWLINE>so use them as much as<NEWLINE>you'd like!
+0,Yo yo and hello!<NEWLINE>Wait... Wait... YOU'RE<NEWLINE>THE VILLAGE HUNTER!<NEWLINE>Thanks to you, our<NEWLINE>business is thriving!
+2,Yo yo and hello!<NEWLINE>You're the new hunter,<NEWLINE>aren't you? I look<NEWLINE>forward to working<NEWLINE>with you in the<NEWLINE>future. 
+2,This is the Equipment<NEWLINE>Shop. It's two shops<NEWLINE>in one. The Weapons<NEWLINE>Shop sells completed<NEWLINE>items and the Crafting<NEWLINE>Shop makes or improves<NEWLINE>weapons and armor.
+2,When you don't have<NEWLINE>materials you should<NEWLINE>visit the Weapons Shop<NEWLINE>and talk to that darn<NEWLINE>Felyne. All you need<NEWLINE>is money to buy armor<NEWLINE>or weapons from him!
+2,Now if you got some<NEWLINE>materials and want to<NEWLINE>make new equipment,<NEWLINE>I'm your man! All you<NEWLINE>need is materials and<NEWLINE>money... I can make<NEWLINE>anything.
+2,If you want to improve<NEWLINE>weapons or armor, I'm<NEWLINE>also your man. You'll<NEWLINE>need materials and<NEWLINE>money for bows or<NEWLINE>melee weapons. Bowguns<NEWLINE>only require money.
+2,Improving armor will<NEWLINE>require special<NEWLINE>materials and money...<NEWLINE>Huh? What materials<NEWLINE>you ask? I'll tell you<NEWLINE>about that later.<NEWLINE>Patience, grasshopper.
+2,Oh, I forgot to<NEWLINE>mention Decorations.<NEWLINE>When it's time to add<NEWLINE>Skill Points to armor<NEWLINE>or weapons, I'm the<NEWLINE>man you need to see.
+2,To be honest, it's not<NEWLINE>a stretch to say that<NEWLINE>hunters wouldn't be<NEWLINE>able to continue their<NEWLINE>vocation without my<NEWLINE>skills.  
+0,Anyways, if you happen<NEWLINE>across any new<NEWLINE>materials, you know<NEWLINE>where to come.
+2,Yo yo and hello! Have<NEWLINE>you gotten used to the<NEWLINE>life of a hunter yet?
+2,I have something nice<NEWLINE>for you today. A new<NEWLINE>kind of revolutionary<NEWLINE>material made via the<NEWLINE>latest technology<NEWLINE>developed by the<NEWLINE>Workshop Union.
+2,It's called an Armor<NEWLINE>Sphere. Armor Spheres<NEWLINE>are special materials<NEWLINE>used to improve armor.<NEWLINE>One sphere can improve<NEWLINE>one piece of armor by<NEWLINE>one level. 
+2,Any line or type of<NEWLINE>armor can be improved;<NEWLINE>however, the number of<NEWLINE>levels it can be<NEWLINE>raised by an Armor<NEWLINE>Sphere is fixed for<NEWLINE>each piece of armor.
+2,Armor Spheres can be<NEWLINE>obtained as a reward,<NEWLINE>or they can be<NEWLINE>combined by using<NEWLINE>Armor Stone and either<NEWLINE>a Killer Beetle or<NEWLINE>Machalite ore.
+0,The more of these you<NEWLINE>obtain the more you<NEWLINE>can improve. Why don't<NEWLINE>you try improving your<NEWLINE>favorite armor and<NEWLINE>see how it works<NEWLINE>first hand.
+0,dummy
+2,Yo yo and hello! It<NEWLINE>seems like you are<NEWLINE>progressing well as a<NEWLINE>hunter.
+2,I have something nice<NEWLINE>for you yet again.<NEWLINE>Have you ever heard of<NEWLINE>Decorations? You can<NEWLINE>attach them to weapons<NEWLINE>and armor.
+2,Weapons and armor have<NEWLINE>open holes called<NEWLINE>slots. These slots can<NEWLINE>be used to attach<NEWLINE>Decorations.
+2,Decorations are<NEWLINE>endowed with Skill<NEWLINE>Points, so attaching<NEWLINE>them to your armor<NEWLINE>might activate the<NEWLINE>ability to use a new<NEWLINE>skill.
+2,Crafting a Decoration<NEWLINE>requires a material<NEWLINE>called a Jewel. There<NEWLINE>are various types of<NEWLINE>Jewels, such as the<NEWLINE>Akito Jewel and Suiko<NEWLINE>Jewel.
+2,Since you seem to be a<NEWLINE>little light right<NEWLINE>now, I'll give you a<NEWLINE>few Suiko Jewels. Use<NEWLINE>these to commission<NEWLINE>Decorations for your<NEWLINE>weapons and armor.
+0,Removing a Decoration<NEWLINE>does not break it, so<NEWLINE>try as many different<NEWLINE>ones as you'd like!<NEWLINE>Of course, I'll be<NEWLINE>charging you to make<NEWLINE>them!
+0,dummy
+2,Yo yo and hello! Word<NEWLINE>on the street is you<NEWLINE>rid us of a Blangonga.<NEWLINE>Mighty fine job if I<NEWLINE>do say so myself.
+2,I figure you deserve<NEWLINE>something to<NEWLINE>commemorate the event.<NEWLINE>Remember that Suiko<NEWLINE>Jewel I gave you? Well<NEWLINE>this time I have an<NEWLINE>even nicer Jewel!
+2,It's called an Akito<NEWLINE>Jewel. You can use it<NEWLINE>to make the Expert<NEWLINE>Jewel, which raises<NEWLINE>your Affinity through<NEWLINE>the Reckless Abandon<NEWLINE>Skill.
+2,You can also make an<NEWLINE>Early Bird Jewel,<NEWLINE>which triggers the<NEWLINE>Reloading Speed skill<NEWLINE>and allows you to<NEWLINE>quickly reload your<NEWLINE>Bowgun or Bow. 
+2,You can obtain an<NEWLINE>Akito Jewel in the<NEWLINE>Swamp or the Forest<NEWLINE>and Hills; however,<NEWLINE>the best way to get<NEWLINE>them is mining in the<NEWLINE>Volcanic Belt.
+0,I'll give you a few<NEWLINE>now so you can try<NEWLINE>them out and see what<NEWLINE>they do. Of course,<NEWLINE>leave taking on and<NEWLINE>off Decorations to a<NEWLINE>professional... Me.
+0,dummy
+2,Yo yo and hello! I<NEWLINE>hear you were able to<NEWLINE>hunt down a Tigrex!<NEWLINE>That's amazing!
+2,This calls for a<NEWLINE>celebration! Remember<NEWLINE>that Armor Sphere I<NEWLINE>gave you...? Well, if<NEWLINE>you want to improve<NEWLINE>armor, than this is<NEWLINE>even better! 
+2,It's called an Armor<NEWLINE>Sphere+, and it allows<NEWLINE>you to strengthen<NEWLINE>armor that can no<NEWLINE>longer be improved<NEWLINE>with a simple Armor<NEWLINE>Sphere.
+2,Like an Armor Sphere,<NEWLINE>it will improve one<NEWLINE>piece of armor one<NEWLINE>level, no matter the<NEWLINE>linage or the part.
+2,However, an Armor<NEWLINE>Sphere+ only improves<NEWLINE>things that have<NEWLINE>already reached an<NEWLINE>Armor Sphere's limit.<NEWLINE>You can't use them<NEWLINE>from the start.
+2,I also hear you can<NEWLINE>make an Armor Sphere+<NEWLINE>by combining an Armor<NEWLINE>Stone with Dragonite<NEWLINE>Ore or Hercudrome.
+0,Try improving your<NEWLINE>favorite armor with<NEWLINE>this. I think you'll<NEWLINE>be pleased with the<NEWLINE>results... Especially<NEWLINE>the results at my<NEWLINE>crafting shop!
+0,dummy
+2,Yo yo and hello! Looks<NEWLINE>like you are hard at<NEWLINE>work these days.<NEWLINE>Everyone is quite<NEWLINE>proud of you.
+2,I've got a gift for<NEWLINE>you today. A Jewel<NEWLINE>much nicer than<NEWLINE>anything I've given<NEWLINE>you before.
+2,It's called a<NEWLINE>Battlefield Jewel. Use<NEWLINE>it make improved<NEWLINE>versions of your<NEWLINE>current Decorations<NEWLINE>and unlock even more<NEWLINE>useful skills.
+2,Combining that Jewel<NEWLINE>with materials allows<NEWLINE>you to create<NEWLINE>wonderful items.
+2,As a key item in<NEWLINE>creating Decorations,<NEWLINE>sometimes you'll need<NEWLINE>multiple pieces. If<NEWLINE>you get new materials,<NEWLINE>come here and see<NEWLINE>what's possible.
+2,To get a Battlefield<NEWLINE>Jewel, your best shot<NEWLINE>is mining the Volcanic<NEWLINE>Belt. Especially the<NEWLINE>mining points in<NEWLINE>caves, the summit, or <NEWLINE>the volcano's base.
+0,Now that you know what<NEWLINE>you need to know, time<NEWLINE>to head out into the<NEWLINE>field. You know... Use<NEWLINE>this to do that and<NEWLINE>get on with it! But<NEWLINE>come back soon!
+2,Yo yo and hello! It<NEWLINE>seems that you've<NEWLINE>gotten yourself almost<NEWLINE>ready to try some of<NEWLINE>the higher ranked<NEWLINE>Quests. You've made<NEWLINE>the village proud!
+2,I think you'll need<NEWLINE>this as you progress<NEWLINE>the ranks. It is an<NEWLINE>incredibly important<NEWLINE>material used when<NEWLINE>improving armor.
+2,It's called a Hard<NEWLINE>Armor Sphere. It is<NEWLINE>used to improve items<NEWLINE>beyond the ability of<NEWLINE>an Armor Sphere+.
+2,Just like before, you<NEWLINE>can't use a Hard Armor<NEWLINE>Sphere until you've<NEWLINE>used an Armor Sphere+<NEWLINE>to improve your armor.<NEWLINE>That's very important,<NEWLINE>so don't forget it!
+2,Combine an Armor<NEWLINE>Stone with Carbalite<NEWLINE>Ore or a King Scarab<NEWLINE>to create a Hard Armor<NEWLINE>Sphere.
+2,If you have any armor<NEWLINE>that has been improved<NEWLINE>with an Armor Sphere+,<NEWLINE>try improving it even<NEWLINE>further. Of course,<NEWLINE>you'll allow me to<NEWLINE>provide the labor!
+2,Once you've raised to<NEWLINE>this rank, you will be<NEWLINE>able to craft high-end<NEWLINE>armor, such as<NEWLINE>S-Series armor or<NEWLINE>U-Series armor.
+0,If you get valuable<NEWLINE>materials, bring them<NEWLINE>over here! I should be<NEWLINE>able to make you some<NEWLINE>new armor!
+0,dummy
+2,Yo yo and hello! Our<NEWLINE>village hunter! It<NEWLINE>seems that your stock<NEWLINE>just keeps going up<NEWLINE>and up!
+2,Huh? Why are you<NEWLINE>looking at me like you<NEWLINE>are expecting a<NEWLINE>handout!? Maybe<NEWLINE>because I have one for<NEWLINE>you! The ultimate<NEWLINE>Jewel itself!
+2,It is an incredible<NEWLINE>Jewel that can only be<NEWLINE>obtained on High Rank<NEWLINE>Quests. None other<NEWLINE>than the Lapis Lazuli<NEWLINE>Jewel!
+2,There are plenty of<NEWLINE>places to encounter it<NEWLINE>during a high ranking<NEWLINE>Quest, so you should<NEWLINE>be able to obtain it<NEWLINE>while mining for other<NEWLINE>types of ore.
+2,Limited to only<NEWLINE>high ranking Quests,<NEWLINE>possessing this item<NEWLINE>allows the crafting of<NEWLINE>incredible Decorations<NEWLINE>provided you have<NEWLINE>other rare materials.
+2,For instance, the<NEWLINE>Lapis Lazuli Jewel is<NEWLINE>indispensable when<NEWLINE>creating high Skill<NEWLINE>Point Decorations that<NEWLINE>take up three slots.
+0,The U-Series armors<NEWLINE>all tend to have many<NEWLINE>open slots, and thus<NEWLINE>it is wise to mix and<NEWLINE>match decorations...<NEWLINE>Now off you go to do<NEWLINE>your best once again!
+2,Yo yo and hello!<NEWLINE>Welcome back to this<NEWLINE>wonderful shop! This<NEWLINE>village owes its<NEWLINE>reputation to your<NEWLINE>patronage!
+2,Today, I have a<NEWLINE>special treat. I've<NEWLINE>gotten my hands on<NEWLINE>something rare and<NEWLINE>incredibly valuable.<NEWLINE>I've got no use for<NEWLINE>it, so it's yours now!
+2,It's a Heavy Armor<NEWLINE>Sphere! If you've<NEWLINE>maxed out a piece of<NEWLINE>armor with a Hard<NEWLINE>Armor Sphere, try<NEWLINE>this. Too bad you<NEWLINE>can't always use it.
+2,Among armor improving<NEWLINE>materials, it is at<NEWLINE>the top of the heap...<NEWLINE>Too bad I have no idea<NEWLINE>how to combine things<NEWLINE>and make it myself!
+2,It is rarely ever<NEWLINE>given as a reward...<NEWLINE>Which makes things<NEWLINE>difficult as well...<NEWLINE>Whatever! We can just<NEWLINE>get by using Hard<NEWLINE>Armor Spheres!
+0,But if you are after<NEWLINE>the absolute highest<NEWLINE>in defensive power,<NEWLINE>then the Heavy Armor<NEWLINE>Sphere is the item to<NEWLINE>use. And I am the man<NEWLINE>you should let use it!
+0,dummy
+2,Yo yo and hello! It<NEWLINE>seems you're doing<NEWLINE>quite well for<NEWLINE>yourself.
+2,There is something I<NEWLINE>was planning on giving<NEWLINE>you... There is no use<NEWLINE>at all in me holding<NEWLINE>on to it.
+0,Here you go! I suppose<NEWLINE>you've already got<NEWLINE>one, but you might as<NEWLINE>well use this one too.

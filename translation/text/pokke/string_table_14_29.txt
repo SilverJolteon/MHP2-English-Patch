@@ -1,0 +1,6 @@
+0,dummy
+1,dummy
+0,dummy
+2,dummy
+0,This lil' piggie right<NEWLINE>her' was born over in<NEWLINE>my place. Hey, ya'<NEWLINE>mind bein' the lil'<NEWLINE>porker's buddy for a<NEWLINE>bit?
+0,Haha! It looks like<NEWLINE>the walkin' bac'n baby<NEWLINE>has taken a likin' to<NEWLINE>ya! I call 'im Piggie,<NEWLINE>and you can too. Take<NEWLINE>good care of 'im, k?

@@ -1,0 +1,49 @@
+2,Hello there. You're<NEWLINE>the new hunter right?<NEWLINE>Pleased to meet you.
+2,Let's see... The truth<NEWLINE>is that even though<NEWLINE>we've just met, I have<NEWLINE>a favor to ask of you.
+2,Hmm... How do I put<NEWLINE>this? Well... The<NEWLINE>Village Chief said<NEWLINE>that you should go and<NEWLINE>check in with her. She<NEWLINE>seems quite worried<NEWLINE>about you.
+0,Once you've talked to<NEWLINE>her, come back here.<NEWLINE>Also, if you've got<NEWLINE>the time, it would<NEWLINE>help if you went to<NEWLINE>speak to the master in<NEWLINE>the Gathering Hall.
+0,Once you've talked to<NEWLINE>her, come back here.<NEWLINE>If you've got some<NEWLINE>spare time, it would<NEWLINE>help if you went to<NEWLINE>speak to the master in<NEWLINE>the Gathering Hall.
+0,dummy
+2,Ahh... Hello. I think<NEWLINE>this is the beginning<NEWLINE>of a beautiful<NEWLINE>friendship, which is<NEWLINE>why I'd like to ask<NEWLINE>you for a favor.
+2,I forgot to introduce<NEWLINE>myself last time. I am<NEWLINE>Treshi's disciple. You<NEWLINE>know who Treshi is<NEWLINE>right? If not, you<NEWLINE>should go meet him in<NEWLINE>the Gathering Hall.
+2,The favor that I want<NEWLINE>to ask actually comes<NEWLINE>from Treshi. You see,<NEWLINE>he has a farm, but no<NEWLINE>one to maintain it. We<NEWLINE>were hoping you'd be<NEWLINE>up for the job.
+2,It's conveniently<NEWLINE>called Pokke Farm.<NEWLINE>Everything you need to<NEWLINE>start off, along with<NEWLINE>some Felyne labor, has<NEWLINE>already been provided.
+2,Everything you farm,<NEWLINE>be it ore, fish, etc.,<NEWLINE>is yours to use as you<NEWLINE>please. If you need to<NEWLINE>know how to reap the<NEWLINE>land, ask the Felynes<NEWLINE>in charge.
+2,You can also make<NEWLINE>additions to the farm.<NEWLINE>If you help Treshi<NEWLINE>with various tasks you<NEWLINE>will be able to save<NEWLINE>Pokke Points to use on<NEWLINE>upgrades to the farm.
+2,If you deliver Account<NEWLINE>Items at the end of a<NEWLINE>normal Quest, or if<NEWLINE>you take a Treasure<NEWLINE>Hunters Quest, you'll<NEWLINE>earn Pokke Points.
+2,There are other ways<NEWLINE>to obtain points, but<NEWLINE>I'll tell you about<NEWLINE>those another time. By<NEWLINE>the way, I put the new<NEWLINE>issue of Hunting Life<NEWLINE>on your bookshelf.
+0,It is filled with<NEWLINE>incredibly useful<NEWLINE>information. I'll<NEWLINE>deliver the new issue<NEWLINE>to your house if there<NEWLINE>is one. Best of luck<NEWLINE>to you now...
+2,Hello once again. As<NEWLINE>always, I am in your<NEWLINE>debt. How have you<NEWLINE>been these days?
+0,Pokke Points aren't<NEWLINE>just used to expand<NEWLINE>the farm, they can<NEWLINE>also be traded for<NEWLINE>items.
+0,If you need equipment<NEWLINE>for the farm,<NEWLINE>just let me know. As<NEWLINE>you progress through<NEWLINE>your life as a hunter,<NEWLINE>you should be able to<NEWLINE>add new equipment.
+0,dummy
+2,Well hello there.<NEWLINE>Remember that you can<NEWLINE>use Pokke Points to<NEWLINE>trade for items.<NEWLINE>Please use them<NEWLINE>whenever you'd like.
+0,We've just added Armor<NEWLINE>Sphere, so now you<NEWLINE>can trade your Pokke<NEWLINE>Points for this<NEWLINE>wonderful item. Feel<NEWLINE>free to take a look!
+2,dummy
+0,dummy
+2,Hello there! How has<NEWLINE>the farm been doing<NEWLINE>lately? If you need<NEWLINE>some new equipment,<NEWLINE>don't hesitate to ask.<NEWLINE>
+0,I should mention that<NEWLINE>you can now trade your<NEWLINE>points for Armor<NEWLINE>Sphere+. It's an<NEWLINE>incredible innovation!<NEWLINE>But you don't have to<NEWLINE>take my word for it!
+0,There is a new issue<NEWLINE>of Hunting Life out! I<NEWLINE>placed it on the<NEWLINE>bookshelf in your<NEWLINE>house. Give it a read<NEWLINE>when you get the<NEWLINE>chance.
+2,Hello there. Work has<NEWLINE>been going well for<NEWLINE>you has it not? I'm so<NEWLINE>proud that you've come<NEWLINE>to fame as a hunter<NEWLINE>in Pokke Village.
+0,I recently received a<NEWLINE>Pokke Ticket from the<NEWLINE>Village Chief for you.<NEWLINE>I'm glad that I am<NEWLINE>someone you can trust.<NEWLINE>Anyways, take a look<NEWLINE>when you have time. 
+2,Hello! Wow! You've<NEWLINE>risen to quite a high<NEWLINE>rank! But that's to be<NEWLINE>expected from the<NEWLINE>hunter of Pokke<NEWLINE>Village!
+0,You'll be happy to<NEWLINE>hear you can now trade<NEWLINE>your points for Hard<NEWLINE>Armor Spheres. I'm<NEWLINE>sure you will find a<NEWLINE>way to better yourself<NEWLINE>with these!
+0,dummy
+2,To expand the Pokke<NEWLINE>Farm, you must use<NEWLINE>Pokke Points.
+2,There are three ways<NEWLINE>of getting Pokke<NEWLINE>Points. They all<NEWLINE>pretty much involve<NEWLINE>Treshi though.
+2,The first way is<NEWLINE>taking a Treasure<NEWLINE>Hunters Quest from<NEWLINE>Treshi. The Treasure<NEWLINE>Points you gain here<NEWLINE>can be changed into<NEWLINE>Pokke Points.
+2,Treasure Hunters<NEWLINE>Quests can be taken<NEWLINE>alone and are an easy<NEWLINE>way to earn money. If<NEWLINE>you get rare treasure,<NEWLINE>it will also show up<NEWLINE>on your Guild Card.
+2,The second method is<NEWLINE>selling Account Items<NEWLINE>to the Guild during a<NEWLINE>normal Quest. These<NEWLINE>are of great value to<NEWLINE>Treshi.
+2,In truth, he is really<NEWLINE>after Special<NEWLINE>Mushrooms and Piscine<NEWLINE>Livers, although he<NEWLINE>will also take Popo<NEWLINE>Tongues and any sort<NEWLINE>of Egg.
+2,Lately, the Guild will<NEWLINE>accept delivery of<NEWLINE>Account Items at any<NEWLINE>time during a Quest.
+2,Just head to the red<NEWLINE>Delivery Box placed in<NEWLINE>your camp. If you're<NEWLINE>carrying a large stock<NEWLINE>of items, it is best<NEWLINE>to drop some of them<NEWLINE>off there.
+2,If you don't properly<NEWLINE>transport and deliver<NEWLINE>items like Jewels or<NEWLINE>Eggs, you will not<NEWLINE>receive credit for<NEWLINE>them, so bear that in<NEWLINE>mind.
+2,Other Account Items<NEWLINE>are a bit easier, and<NEWLINE>as long as you have<NEWLINE>them on hand at the<NEWLINE>end of a Quest, they<NEWLINE>will automatically be<NEWLINE>acquired by the Guild.
+2,Either way, the amount<NEWLINE>of money you will be<NEWLINE>credited does not<NEWLINE>change and will be<NEWLINE>converted to an equal<NEWLINE>amount of Pokke<NEWLINE>Points.
+2,The third method is<NEWLINE>from the esteemed<NEWLINE>instructor at the<NEWLINE>Training School. He<NEWLINE>was a bit hard up for<NEWLINE>students, so he asked<NEWLINE>for Treshi's help.
+2,Points earned at the<NEWLINE>Training School can<NEWLINE>also be converted into<NEWLINE>Pokke Points. The<NEWLINE>esteemed instructor<NEWLINE>will be quite happy to<NEWLINE>see you, I'm sure!
+2,Don't forget that you<NEWLINE>can also trade Pokke<NEWLINE>Points for items. Some<NEWLINE>of these items might<NEWLINE>also be a bit out of<NEWLINE>the ordinary, so keep<NEWLINE>your eyes peeled.
+0,That pretty much<NEWLINE>explains Pokke Points.<NEWLINE>Treasure Hunters<NEWLINE>Quests, Account Items,<NEWLINE>and the Training<NEWLINE>school. All three will<NEWLINE>get you points.
+0,dummy
+0,dummy
+0,I'm Treshi's disciple.<NEWLINE>Come to me if you need<NEWLINE>anything for Pokke<NEWLINE>Farm.
