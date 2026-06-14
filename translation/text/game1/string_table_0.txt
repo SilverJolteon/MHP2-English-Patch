@@ -829,272 +829,272 @@ Monster Hunter Fiesta 2
 Monster Hunter Fiesta 3
 Monster Hunter Fiesta 4
 none
-Beginner
-Experienced
-Braggart
-Nobody
-Novice
-Helper
-Courageous
-Hunter
-Pokke
-Comrade
-Caretaker
-Hunter
-First Class
-Master
-Guild
-Knight
-Silver
-Trump Card
-Ace
-Gold
-Ultimate Hero
-Pinnacle
-Velociprey
-Giaprey
-Genprey
-Ioprey
-Bullfango
-Kut-Ku
-Gypceros
-Cephalos
-Rathian
-Khezu
-Plesioth
-Monoblos
-Diablos
-Basarios
-Gravios
-Rathalos
-Kirin
-Garuga
-Hermitaur
-Ceanataur
-Blangonga
-Congalala
-Rajang
-Tigrex
-Kushala
-Chameleos
-Teostra
-Lunastra
-Gaoren
-Lao-Shan
-Akantor
-Fatalis
-Vulcan
-Roots
-Blue
-White
-Green
-Crimson
-Brute
-Red
-Fury
-Yellow
-Sakura
-Lightning
-Jade
-Metallic
-Darkness
-Shadow
-Scorcher
-Sky Blue
-Squall
-Black
-Unmatched
-Heaven&Earth
-Lion
-Comedian
-Angered
-Destruction
-Blizzard
-Silence
-Haze
-Hell Fire
-Lies
-Savior
-Hero
-Dragon Slayer
-Dragon Knight
-Azure
-Snow
-Emerald
-Maroon
-Fang
-Blood Red
-Deep Purple
-Mellow Yellow
-Valkyrie
-Bright White
-Water
-Heart
-Dessert
-Penumbral
-Flame
-Soul
-Thunder
-Ebony
-Shield
-Braid
-Ice
-Rose
-Boss
-Wild
-Cyclone
-Silent
-Kaiser
-Empress
-Fake
-Ancient
-Tycoon
-Dragon
-Calamity
-Blue Talon
-White Snow
-Green Fang
-Crimson Toxin
-Reckless
-Red Bird
-Flash
-Sandstorm
-Wyverness
-Two Face
-Rapids
-One Horned
-Demon Pair
-Hidden Cliff
-Pyroclastic
-King
-Thunder God
-Dark Wolf
-Solid Shield
-Sharp Saber
-Hercules
-Buffoon
-Golden
-Evil Tiger
-Windstorm
-Rusty
-Blast
-1000 Colors
-Flame Emperor
-Princess
-Fortress
-Dragon Sealer
-Violent King
-Dragon Ruiner
-Dragon King
-Dragon Ruler
-Queen
-Ruler
-Chicken
-Professor
-Prisoner
-Transporter
-Jungle
-Desert
-Swamp
-Mountains
-Volcano
-Forest&Hills
-Tower
-Guide
-Blackbelt
-Expert
-Instructor
-Vagrant
-Stranger
-Rookie
-Walker
-Thief
-Beast
-Fighter
-Warrior
-Berserker
-Mercenary
-Archer
-Veteran
-Attacker
-Iron
-Breaker
-Samurai
-Sniper
-Assassin
-Grand
-Buster
-Strider
-Saber
-Slayer
-Guardian
-Lord
-Brave
-Champion
-Heroic
-Monster
-Legend
-Lazy
-Angler
-Sword
-Blade
-Lance
-Hammer
-Dual Blades
-Light Bowgun
-Heavy Bowgun
-Katana
-Bow
-Gunlance
-Hunting Horn
-Weapon
-Farmer
-Fisher
-Mechanic
-Miner
-Boomer
-Entomologist
-Mincer
-Mushroom
-Honey
-Explorer
-Felyne
-Kitchen
-Bleeder
-Chef
-Treasure
-Adventurer
-Perfect
-Replay
-Overpowering
-Sage
-Beautiful
-Kokoto
-Jumbo
-Minegarde
-Dondruma
-none
-of
-and
-for
-by
-or
-from
-to
-Colored
-Called
-Family
-&
-+
--
-×
-?
-!
-=
-～
-・
-/
-:
+Beginner 
+Experienced 
+Braggart 
+Nobody 
+Novice 
+Helper 
+Courageous 
+Hunter 
+Pokke 
+Comrade 
+Caretaker 
+Hunter 
+First Class 
+Master 
+Guild 
+Knight 
+Silver 
+Trump Card 
+Ace 
+Gold 
+Ultimate Hero 
+Pinnacle 
+Velociprey 
+Giaprey 
+Genprey 
+Ioprey 
+Bullfango 
+Kut-Ku 
+Gypceros 
+Cephalos 
+Rathian 
+Khezu 
+Plesioth 
+Monoblos 
+Diablos 
+Basarios 
+Gravios 
+Rathalos 
+Kirin 
+Garuga 
+Hermitaur 
+Ceanataur 
+Blangonga 
+Congalala 
+Rajang 
+Tigrex 
+Kushala 
+Chameleos 
+Teostra 
+Lunastra 
+Gaoren 
+Lao-Shan 
+Akantor 
+Fatalis 
+Vulcan 
+Roots 
+Blue 
+White 
+Green 
+Crimson 
+Brute 
+Red 
+Fury 
+Yellow 
+Sakura 
+Lightning 
+Jade 
+Metallic 
+Darkness 
+Shadow 
+Scorcher 
+Sky Blue 
+Squall 
+Black 
+Unmatched 
+Heaven&Earth 
+Lion 
+Comedian 
+Angered 
+Destruction 
+Blizzard 
+Silence 
+Haze 
+Hell Fire 
+Lies 
+Savior 
+Hero 
+Dragon Slayer 
+Dragon Knight 
+Azure 
+Snow 
+Emerald 
+Maroon 
+Fang 
+Blood Red 
+Deep Purple 
+Mellow Yellow 
+Valkyrie 
+Bright White 
+Water 
+Heart 
+Dessert 
+Penumbral 
+Flame 
+Soul 
+Thunder 
+Ebony 
+Shield 
+Braid 
+Ice 
+Rose 
+Boss 
+Wild 
+Cyclone 
+Silent 
+Kaiser 
+Empress 
+Fake 
+Ancient 
+Tycoon 
+Dragon 
+Calamity 
+Blue Talon 
+White Snow 
+Green Fang 
+Crimson Toxin 
+Reckless 
+Red Bird 
+Flash 
+Sandstorm 
+Wyverness 
+Two Face 
+Rapids 
+One Horned 
+Demon Pair 
+Hidden Cliff 
+Pyroclastic 
+King 
+Thunder God 
+Dark Wolf 
+Solid Shield 
+Sharp Saber 
+Hercules 
+Buffoon 
+Golden 
+Evil Tiger 
+Windstorm 
+Rusty 
+Blast 
+1000 Colors 
+Flame Emperor 
+Princess 
+Fortress 
+Dragon Sealer 
+Violent King 
+Dragon Ruiner 
+Dragon King 
+Dragon Ruler 
+Queen 
+Ruler 
+Chicken 
+Professor 
+Prisoner 
+Transporter 
+Jungle 
+Desert 
+Swamp 
+Mountains 
+Volcano 
+Forest&Hills 
+Tower 
+Guide 
+Blackbelt 
+Expert 
+Instructor 
+Vagrant 
+Stranger 
+Rookie 
+Walker 
+Thief 
+Beast 
+Fighter 
+Warrior 
+Berserker 
+Mercenary 
+Archer 
+Veteran 
+Attacker 
+Iron 
+Breaker 
+Samurai 
+Sniper 
+Assassin 
+Grand 
+Buster 
+Strider 
+Saber 
+Slayer 
+Guardian 
+Lord 
+Brave 
+Champion 
+Heroic 
+Monster 
+Legend 
+Lazy 
+Angler 
+Sword 
+Blade 
+Lance 
+Hammer 
+Dual Blades 
+Light Bowgun 
+Heavy Bowgun 
+Katana 
+Bow 
+Gunlance 
+Hunting Horn 
+Weapon 
+Farmer 
+Fisher 
+Mechanic 
+Miner 
+Boomer 
+Entomologist 
+Mincer 
+Mushroom 
+Honey 
+Explorer 
+Felyne 
+Kitchen 
+Bleeder 
+Chef 
+Treasure 
+Adventurer 
+Perfect 
+Replay 
+Overpowering 
+Sage 
+Beautiful 
+Kokoto 
+Jumbo 
+Minegarde 
+Dondruma 
+none 
+of 
+and 
+for 
+by 
+or 
+from 
+to 
+Colored 
+Called 
+Family 
+& 
++ 
+- 
+× 
+? 
+! 
+= 
+～ 
+・ 
+/ 
+: 
 dummy
 dummy
 dummy

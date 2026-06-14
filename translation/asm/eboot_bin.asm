@@ -25,6 +25,9 @@
 	.org 0x088DD1D4
 		li			a3, 0x10C
 	
+	.org 0x088DD690 ; Weapon Usage Text Position
+		li			a1, 0x81
+	
 	; Guild Card Treasure Page
 	.org 0x088DDC70 ; "Treasures" X Position
 		li			a1, 0x9A

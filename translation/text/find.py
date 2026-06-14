@@ -19,7 +19,7 @@ def search_files_for_substring(root_dir: str, substring: str):
 
 if __name__ == "__main__":
     SEARCH_DIRECTORY = "."  # Use "." for current folder
-    SEARCH_TEXT = "Quit the current que"         # The word/phrase you want to find
+    SEARCH_TEXT = "Entomologist"         # The word/phrase you want to find
     
     print(f"Searching for '{SEARCH_TEXT}' in {SEARCH_DIRECTORY}...\n")
     search_files_for_substring(SEARCH_DIRECTORY, SEARCH_TEXT)
