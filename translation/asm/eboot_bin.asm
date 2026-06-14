@@ -5,6 +5,22 @@
 	.org 0x088D91D8
 		li 			a1, 0x2
 		
+	; Guild Card Message Character width	
+	.org 0x088DC5D8
+		sllv		v0, v0, zero
+	.org 0x088DD9C0
+		sllv		v0, v0, zero
+		
+	; Guild Card Message Lines
+	.org 0x088DC5C0
+		andi		v1, s3, 0x1F
+	.org 0x088DC5E8
+		sra			v0, s3, 0x5
+	.org 0x088DD9A8
+		andi		v1, s3, 0x1F
+	.org 0x088DD9D0
+		sra			v0, s3, 0x5
+		
 	.org 0x088AED08 ; "Press the ○ button" Position
 		li			a0, 0xAE
 	.org 0x088ADD7C
