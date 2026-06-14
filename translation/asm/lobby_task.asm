@@ -25,4 +25,8 @@
 		.dh 0x5B ; Left Room Column Cursor X Position
 		.dh 0xFF ; Right Room Column X Position
 		.dh 0xEE ; Right Room Column Cursor X Position
+	
+	; Chest UI
+	.org 0x099ABE08 ; BG Width
+		.dh 0x09
 .close
