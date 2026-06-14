@@ -21,6 +21,29 @@
 	.org 0x088DD9D0
 		sra			v0, s3, 0x5
 		
+	; Guild Card Header BG Width
+	.org 0x088DD1D4
+		li			a3, 0x10C
+	
+	; Guild Card Treasure Page
+	.org 0x088DDC70 ; "Treasures" X Position
+		li			a1, 0x9A
+	.org 0x088DDFA4 ; Area Names Max Length
+		sb			zero, 0x94(v0)
+	.org 0x088DDF5C ; Change string pointer offset
+		lbu			a0, 0x0(fp)
+		li			v1, 0x99A7640
+	.org 0x088DDF78 ; Jump to lobby_task.ovl function
+		jal			0x0993C338
+		lw			a0, -0xB30(v0)
+	.org 0x08947AEC
+		.dh 0xA8 ; Mountains
+		.dh 0xA5 ; Jungle
+		.dh 0xA6 ; Desert
+		.dh 0xA7 ; Swamp
+		.dh 0xAA ; Forest&Hills
+		.dh 0xA9 ; Volcano
+		
 	.org 0x088AED08 ; "Press the ○ button" Position
 		li			a0, 0xAE
 	.org 0x088ADD7C
