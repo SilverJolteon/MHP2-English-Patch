@@ -10,6 +10,18 @@
 		.dh 0x14F
 	.org 0x099A69D4 ; Location
 		.dh 0x14F
+	
+	; Quest Board Menu Positioning
+	.org 0x099A6CD0 ; Players
+		.dh 0x19A
+	.org 0x099A6CF4 ; Reward
+		.dh 0x148
+	.org 0x099A6D00 ; ContractFee
+		.dh 0x148
+	.org 0x099A6D0C ; Time Limit
+		.dh 0x148
+	.org 0x099A6D18 ; Location
+		.dh 0x148
 		
 	; Gathering Hall Room Select	
 	.org 0x09939FD0

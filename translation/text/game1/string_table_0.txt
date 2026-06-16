@@ -8,7 +8,7 @@ dummy
 ID
 NAME:
 :
-dummy
+
 mins
 No
 Yes
