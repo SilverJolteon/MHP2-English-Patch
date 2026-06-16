@@ -47,6 +47,14 @@
 		.dh 0xAA ; Forest&Hills
 		.dh 0xA9 ; Volcano
 		
+	; Unable to send guild card
+	.org 0x088E0840
+		li			a2, 0x80
+	.org 0x088E08AC
+		li			a2, 0x70
+	.org 0x088E08C0
+		li			a1, 0x90
+	
 	.org 0x088AED08 ; "Press the ○ button" Position
 		li			a0, 0xAE
 	.org 0x088ADD7C
@@ -54,6 +62,8 @@
 	.org 0x088AD2D0
 		li			a0, 0xAE
 	.org 0x088AF1B4
+		li			a0, 0xAE
+	.org 0x088E08C8
 		li			a0, 0xAE
 		
 	.org 0x088AD944 ; Character Select "Yes" Position
