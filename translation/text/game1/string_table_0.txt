@@ -743,7 +743,7 @@ Select the Felyne you would like<NEWLINE>to have perform the BBQing.
 Your order will cost $z.<NEWLINE>OK?
 Dismissing this Felyne will cancel your<NEWLINE>current BBQ order and you will lose the<NEWLINE>items. OK?
 LV%s：
-~B01Select  ~B00Cancel
+~B00Select  ~B01Cancel
 Intro
 FS LVL
 HR:
@@ -1248,7 +1248,7 @@ Proof of combining<NEWLINE>proficiency. Feels like you<NEWLINE>can use anything,
 Dirty, but divine smithing<NEWLINE>hammer of a famed Wyverian.<NEWLINE>A weapon collector's seal.
 Map recording your hunting<NEWLINE>trek. Proof of travel to<NEWLINE>all game areas.
   Set %2d
-dummy
+
 %2d/%2d
 dummy
 Register
