@@ -91,4 +91,13 @@
 		.dh 0xE0
 	.org 0x08911568 ; Monster List BG Width
 		.dh 0x21
+	
+	.org 0x0889D340 ; sceUtilityNetconfInitStart - Guildhall "Connecting" message
+		sw			s4, -0x4470(v0)
+	.org 0x088AF9FC ; sceUtilitySavedataInitStart - "Game data corrupted" message
+		sw			s4, 0x1C(s1)
+	.org 0x088AFD98 ; sceUtilityMsgDialogInitStart - Error code message
+		sw			s4, 0x68C(s1)
+	.org 0x088AFE2C ; sceUtilityMsgDialogInitStart - Error with "No Monster Hunter Freedom Unite Game data was found."
+		sw			s4, 0x68C(s0)
 .close
