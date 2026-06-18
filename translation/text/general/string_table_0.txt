@@ -570,7 +570,7 @@ Do you want to quit character creation?
 Welcome to the world of Monster Hunter!
 Begin game without saving?
 Pleased to meet you!
-Welcome to the brand new world of <NEWLINE>        Monster Hunter!
+Welcome to the brand new world of <NEWLINE> Monster Hunter!    
 NEW GAME
 CONTINUE
 GALLERY
