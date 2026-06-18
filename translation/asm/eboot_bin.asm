@@ -77,4 +77,18 @@
 		addiu		fp, s4, 0x62
 	.org 0x08823EF4 ; Armor slots X pos
 		addiu		v0, s5, 0x31
+		
+	; Monster List
+	.org 0x0881C060 ; Max Length Crown Sprite X Position
+		addiu		v1, v1, 0x4E
+	.org 0x0881C0B8 ; Min Length Crown Sprite X Position
+		addiu		v1, v1, 0x4E
+	.org 0x0881C1AC ; Monster Icon Background X Position
+		addiu		v1, v1, 0x98
+	.org 0x0881C1D8 ; Monster Icon X Position
+		addiu		v1, v1, 0xAC
+	.org 0x08911560 ; Monster List BG X Position
+		.dh 0xE0
+	.org 0x08911568 ; Monster List BG Width
+		.dh 0x21
 .close

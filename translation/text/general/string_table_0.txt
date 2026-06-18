@@ -79,7 +79,7 @@ None Purchased
 ~C05Name:~C00%s
 ~C05Type:~C00%s
 ~C05No. Hunted:~C00%4d
-~C05Max Length:~C00<NEWLINE>~C05Min Length:~C00
+~C05Max Length:~C00   %s<NEWLINE>~C05Min Length:~C00   %s
 %6.1f
 - - -
 BrdWyv
