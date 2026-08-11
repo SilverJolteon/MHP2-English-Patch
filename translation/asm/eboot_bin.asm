@@ -100,4 +100,59 @@
 		sw			s4, 0x68C(s1)
 	.org 0x088AFE2C ; sceUtilityMsgDialogInitStart - Error with "No Monster Hunter Freedom Unite Game data was found."
 		sw			s4, 0x68C(s0)
+		
+	; --------------------------------------
+	; ~C02%s Formatted Strings - Copied from Freedom 2 [USA]
+	; --------------------------------------
+	.org 0x08850B7C
+		lh			a0, 0xA(s0)
+		li			v1, 0x0894058C
+		sll			a0, a0, 0x1
+		addu		v1, v1, a0
+		lui			v0, 0x895
+		lhu			a1, 0x0(v1)
+		jal			0x08848E74
+		lw			a0, 0x5F24(v0)
+		move		s1, v0
+		lui			v0, 0x895
+		lw			a0, 0x5F24(v0)
+		jal			0x08848E80
+		lhu			a1, 0x8(s0)
+		move		a1, s1
+		move		a2, v0
+		jal			0x08810F00
+		addiu		a0, sp, 0x40
+		nop
+		nop
+	.org 0x08851184
+		li			a1, 0
+		lh			a0, 0xA(s1)
+		li			v1, 0x0894058C
+		sll			a0, a0, 0x1
+		addu		v1, v1, a0
+		lui			v0, 0x895
+		lhu			a1, 0x0(v1)
+		jal			0x08848E74
+		lw			a0, 0x5F24(v0)
+		move		s0, v0
+		lui			v0, 0x895
+		lw			a0, 0x5F24(v0)
+		jal			0x08848E80
+		lhu			a1, 0x8(s1)
+		lui			v1, 0x089E
+		lh			a1, 0x28(sp)
+		lh			a2, 0x2A(sp)
+		lw			a0, -0x3368(v1)
+		move		a3, s0
+		j			ParseText
+		nop
+	.org 0x0880CD60
+	ParseText:
+		jal			0x08880DFC
+		move		t0, v0
+		j			0x0885160C
+		nop
+	.org 0x08850DE8
+		jal			0x0887FDF0
+	; --------------------------------------		
 .close
