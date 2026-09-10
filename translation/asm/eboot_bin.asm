@@ -55,15 +55,19 @@
 	.org 0x088E08C0
 		li			a1, 0x90
 	
-	.org 0x088AED08 ; "Press the ○ button" Position
+	.org 0x088AC984 ; "Press the ○ button" Position
+		li			a0, 0xAE
+	.org 0x088ACA00
 		li			a0, 0xAE
 	.org 0x088ADD7C
 		li			a0, 0xAE
 	.org 0x088AD2D0
 		li			a0, 0xAE
-	.org 0x088AF1B4
-		li			a0, 0xAE
 	.org 0x088E08C8
+		li			a0, 0xAE
+	.org 0x088AED08
+		li			a0, 0xAE
+	.org 0x088AF1B4
 		li			a0, 0xAE
 		
 	.org 0x088AD944 ; Character Select "Yes" Position
